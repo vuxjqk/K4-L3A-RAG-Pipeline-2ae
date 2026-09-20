@@ -1,0 +1,204 @@
+[
+  {
+    "question": "Theo đề án tuyển sinh 2024, học phí kỳ định hướng tại cơ sở Hà Nội và phân hiệu TP.HCM là bao nhiêu?",
+    "expected_answer": "11,900,000 VNĐ (chỉ có 01 kỳ định hướng, áp dụng cho sinh viên mới nhập học).",
+    "expected_context": "+ Học phí kỳ định hướng: 11,900,000 VNĐ (có 01 kỳ định hướng, chỉ áp dụng cho",
+    "source_files": [
+      "legal/DE-AN-TUYEN-SINH-2024.md"
+    ],
+    "type": "factual"
+  },
+  {
+    "question": "Năm 2024, học phí chuyên ngành từ học kỳ 1 đến học kỳ 3 tại Hà Nội và TP.HCM là bao nhiêu mỗi kỳ?",
+    "expected_answer": "28,700,000 VNĐ/kỳ.",
+    "expected_context": "Từ học kỳ 1 đến học kỳ 3: 28,700,000 VNĐ/kỳ.",
+    "source_files": [
+      "legal/DE-AN-TUYEN-SINH-2024.md"
+    ],
+    "type": "factual"
+  },
+  {
+    "question": "Đề án tuyển sinh 2024: học phí chuyên ngành học kỳ 1 đến 3 ở Đà Nẵng, Bình Định và Cần Thơ là bao nhiêu?",
+    "expected_answer": "20,090,000 VNĐ/kỳ.",
+    "expected_context": "Từ học kỳ 1 đến học kỳ 3: 20,090,000 VNĐ/kỳ.",
+    "source_files": [
+      "legal/DE-AN-TUYEN-SINH-2024.md"
+    ],
+    "type": "factual"
+  },
+  {
+    "question": "Theo đề án tuyển sinh 2022, học phí chuyên ngành tại Hà Nội và TP.HCM là bao nhiêu mỗi kỳ?",
+    "expected_answer": "27,300,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành).",
+    "expected_context": "+ Học phí chuyên ngành: 27,300,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)",
+    "source_files": [
+      "legal/de-an-tuyen-sinh-2022-upweb.md"
+    ],
+    "type": "factual"
+  },
+  {
+    "question": "Đề án 2022 quy định học phí kỳ định hướng tại phân hiệu Cần Thơ là bao nhiêu?",
+    "expected_answer": "7,250,000 VNĐ.",
+    "expected_context": "+ Học phí kỳ định hướng: 7,250,000 VNĐ",
+    "source_files": [
+      "legal/de-an-tuyen-sinh-2022-upweb.md"
+    ],
+    "type": "factual"
+  },
+  {
+    "question": "Học phí chuyên ngành tại Hà Nội đã tăng thế nào từ đề án 2022 đến đề án 2024 (học kỳ 1-3)?",
+    "expected_answer": "Tăng từ 27,300,000 VNĐ/kỳ (đề án 2022) lên 28,700,000 VNĐ/kỳ (đề án 2024).",
+    "expected_context": "+ Học phí chuyên ngành: 27,300,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n...\nTừ học kỳ 1 đến học kỳ 3: 28,700,000 VNĐ/kỳ.",
+    "source_files": [
+      "legal/de-an-tuyen-sinh-2022-upweb.md",
+      "legal/DE-AN-TUYEN-SINH-2024.md"
+    ],
+    "type": "multi-hop"
+  },
+  {
+    "question": "Thời hạn đăng ký xét tuyển đợt 1 năm 2023 của Trường Đại học FPT là khi nào?",
+    "expected_answer": "Ngày 31/05/2023.",
+    "expected_context": "- Thời hạn đăng ký đợt 1: 31/05/2023;",
+    "source_files": [
+      "legal/DE-AN-TUYEN-SINH-2023-upweb.md"
+    ],
+    "type": "factual"
+  },
+  {
+    "question": "Thời hạn đăng ký đợt 1 theo đề án tuyển sinh 2024 là ngày nào?",
+    "expected_answer": "Ngày 30/06/2024.",
+    "expected_context": "- Thời hạn đăng ký đợt 1: 30/06/2024;",
+    "source_files": [
+      "legal/DE-AN-TUYEN-SINH-2024.md"
+    ],
+    "type": "factual"
+  },
+  {
+    "question": "Ký túc xá của Trường Đại học FPT có bao nhiêu chỗ ở theo đề án 2024?",
+    "expected_answer": "10822 chỗ.",
+    "expected_context": "- Số chỗ ở ký túc xá sinh viên (nếu có): 10822",
+    "source_files": [
+      "legal/DE-AN-TUYEN-SINH-2024.md"
+    ],
+    "type": "factual"
+  },
+  {
+    "question": "Tổng diện tích đất của Trường Đại học FPT là bao nhiêu hecta?",
+    "expected_answer": "46,85 ha.",
+    "expected_context": "- Tổng diện tích đất của trường (ha): 46,85",
+    "source_files": [
+      "legal/DE-AN-TUYEN-SINH-2024.md"
+    ],
+    "type": "factual"
+  },
+  {
+    "question": "Quy chế tuyển sinh năm 2026 của Trường Đại học FPT có tổng số lượng tuyển sinh là bao nhiêu?",
+    "expected_answer": "14.677.",
+    "expected_context": "**Số lượng tuyển sinh:** 14.677",
+    "source_files": [
+      "news/article_01.md"
+    ],
+    "type": "factual"
+  },
+  {
+    "question": "Điểm kết hợp (ĐKH) trong công thức xét tuyển năm 2026 của FPT được tính như thế nào?",
+    "expected_answer": "ĐKH = (Điểm thi THPT + (Điểm trung bình lớp 12) x 3) / 2; điểm xét tuyển ĐXT = ĐKH + ĐKK + ĐƯT.",
+    "expected_context": "ĐKH (điểm kết hợp)= (Điểm thi THPT +(Điểm trung bình lớp 12) x 3)/2",
+    "source_files": [
+      "news/article_02.md"
+    ],
+    "type": "factual"
+  },
+  {
+    "question": "Sinh viên thế hệ 1 được cộng bao nhiêu điểm vào điểm xét tuyển 2026?",
+    "expected_answer": "Được cộng 1,5 điểm vào điểm xét tuyển.",
+    "expected_context": "Thí sinh là sinh viên thế hệ 1* được cộng 1,5 điểm vào Điểm xét tuyển.",
+    "source_files": [
+      "news/article_02.md"
+    ],
+    "type": "factual"
+  },
+  {
+    "question": "Thí sinh thi tốt nghiệp 2026 đăng ký ngành Luật cần tối thiểu bao nhiêu điểm cho 3 môn thi?",
+    "expected_answer": "Tổng điểm 3 môn thi theo tổ hợp Axx hoặc Cxx phải đạt tối thiểu 15,00 điểm.",
+    "expected_context": "Với thí sinh thi tốt nghiệp năm 2026 phải có điểm tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT theo tổ hợp Axx hoặc Cxx đạt tối thiểu 15,00 điểm.",
+    "source_files": [
+      "news/article_02.md"
+    ],
+    "type": "factual"
+  },
+  {
+    "question": "Học phí mỗi học kỳ ngành Luật tại Campus Hà Nội cho tân sinh viên K22 (khu vực KV1) là bao nhiêu?",
+    "expected_answer": "15.480.000 đồng/học kỳ đối với KV1 (22.120.000 đồng với các khu vực khác).",
+    "expected_context": "| Luật  | 15.480.000  | 22.120.000  |",
+    "source_files": [
+      "news/article_04.md"
+    ],
+    "type": "factual"
+  },
+  {
+    "question": "Sinh viên mới nhập học ở KV1 tại Campus Hà Nội phải nộp học phí kỳ định hướng bao nhiêu?",
+    "expected_answer": "9.170.000đ đối với KV1 (13.100.000đ với các khu vực khác).",
+    "expected_context": "(*) Sinh viên mới nhập học sẽ nộp học phí kỳ định hướng: KV1: 9.170.000đ, các khu vực khác: 13.100.000đ",
+    "source_files": [
+      "news/article_04.md"
+    ],
+    "type": "factual"
+  },
+  {
+    "question": "Sinh viên có chứng chỉ tiếng Anh nào thì được vào thẳng học kỳ chuyên ngành?",
+    "expected_answer": "Sinh viên có chứng chỉ IELTS 6.0 trở lên (hoặc tương đương).",
+    "expected_context": "Sinh viên có chứng chỉ tiếng Anh IELTS 6.0 trở lên (hoặc tương đương) sẽ vào thẳng học kỳ chuyên ngành.",
+    "source_files": [
+      "news/article_04.md"
+    ],
+    "type": "factual"
+  },
+  {
+    "question": "Chương trình Tìm kiếm Nhân tài Kỷ nguyên số Việt Nam có bao nhiêu suất học bổng và tổng giá trị là bao nhiêu?",
+    "expected_answer": "1.030 suất học bổng, tổng giá trị hơn 200 tỷ đồng.",
+    "expected_context": "Với 1.030 suất học bổng, tổng giá trị hơn 200 tỷ đồng",
+    "source_files": [
+      "news/article_05.md"
+    ],
+    "type": "factual"
+  },
+  {
+    "question": "Khi nộp hồ sơ học bổng Nguyễn Văn Đạo 2026, video giới thiệu bản thân dài tối đa bao lâu hoặc bài viết dài bao nhiêu từ?",
+    "expected_answer": "Video tối đa 02 phút, hoặc bài viết giới thiệu bản thân từ 350 đến 500 từ.",
+    "expected_context": "**Bước 5. Video giới thiệu bản thân** (thời lượng tối đa **02 phút**) hoặc **Bài viết giới thiệu bản thân (350 -500 từ)**",
+    "source_files": [
+      "news/article_05.md"
+    ],
+    "type": "factual"
+  },
+  {
+    "question": "Một thí sinh được đăng ký tối đa bao nhiêu loại học bổng trong hồ sơ học bổng Nguyễn Văn Đạo 2026?",
+    "expected_answer": "Tối đa 03 học bổng, sắp xếp thứ tự ưu tiên từ NV1 (cao nhất) đến NV3.",
+    "expected_context": "Lựa chọn **loại học bổng** (tối đa **03 học bổng**",
+    "source_files": [
+      "news/article_05.md"
+    ],
+    "type": "factual"
+  },
+  {
+    "question": "Giá vé xem phim tại rạp CGV hiện nay là bao nhiêu?",
+    "expected_answer": "Hệ thống phải từ chối trả lời vì thông tin không có trong tài liệu.",
+    "expected_context": "Không có thông tin liên quan trong corpus.",
+    "source_files": [],
+    "type": "out-of-domain"
+  },
+  {
+    "question": "Thủ đô của nước Pháp là thành phố nào?",
+    "expected_answer": "Hệ thống phải từ chối trả lời vì thông tin không có trong tài liệu.",
+    "expected_context": "Không có thông tin liên quan trong corpus.",
+    "source_files": [],
+    "type": "out-of-domain"
+  },
+  {
+    "question": "Học phí của Đại học Bách khoa Hà Nội là bao nhiêu?",
+    "expected_answer": "Hệ thống phải từ chối trả lời vì corpus chỉ chứa thông tin của Trường Đại học FPT.",
+    "expected_context": "Không có thông tin liên quan trong corpus.",
+    "source_files": [],
+    "type": "out-of-domain"
+  }
+]
