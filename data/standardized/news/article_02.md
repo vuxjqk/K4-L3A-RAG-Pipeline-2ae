@@ -77,7 +77,7 @@ VN
 Phương Thức Tuyển Sinh
 ##  **TRƯỜNG****ĐẠI HỌC FPT CÔNG BỐ PHƯƠNG THỨC TUYỂN SINH 2026**
 Trường Đại học FPT tuyển sinh hệ đại học chính quy năm 2026 theo phương thức kết hợp kết quả kỳ thi tốt nghiệp THPT với kết quả học tập THPT, nhằm đánh giá toàn diện năng lực học tập của thí sinh và mở rộng cơ hội tiếp cận môi trường đào tạo đại học gắn với thực tiễn.
-  1. **Phương thức tuyển sinh dự kiến**
+  1. **Phương thức tuyển sinh dự kiến**
 
 
 Trường Đại học FPT xét tuyển theo phương thức kết hợp kết quả kỳ thi tốt nghiệp THPT với kết quả học tập THPT. Điểm xét tuyển được xác định như sau:
@@ -106,7 +106,7 @@ Trường Đại học FPT xét tuyển theo phương thức kết hợp kết q
 
 
   * Thí sinh tốt nghiệp THPT nước ngoài, tốt nghiệp THPT các trường thuộc Tổ chức Giáo dục FPT.
-  * Thí sinh có các chứng chỉ hoặc văn bằng: Chứng chỉ APTECH HDSE/ADSE, ARENA ADIM, SKILLKING, JETKING; Tốt nghiệp chương trình BTEC HND, Melbourne Polytechnic, FUNiX Software Engineering, Cao đẳng FPT Polytechnic.
+  * Thí sinh có các chứng chỉ hoặc văn bằng: Chứng chỉ APTECH HDSE/ADSE, ARENA ADIM, SKILLKING, JETKING; Tốt nghiệp chương trình BTEC HND, Melbourne Polytechnic, FUNiX Software Engineering, Cao đẳng FPT Polytechnic.
 
 
   * Các thí sinh đăng ký học ngành Luật phải đảm bảo điều kiện ngưỡng đầu vào theo quy định tại điểm b khoản 1, điểm a khoản 2, điểm a khoản 6 Điều 9 Quy chế tuyển sinh của Bộ GDĐT.
@@ -125,13 +125,13 @@ Người dự tuyển phải đáp ứng các điều kiện về ngưỡng đ�
   * Thí sinh là sinh viên thế hệ 1* được cộng 1,5 điểm vào Điểm xét tuyển.
 
 
-* _Sinh viên thế hệ 1 (First-Generation Student): là người đầu tiên trong gia đình (gồm phụ huynh hoặc người bảo trợ và tất cả anh chị em ruột) học đại học. Khi đăng ký xét tuyển, sinh viên thế hệ 1 cần nộp Đơn đăng ký ưu tiên xét tuyển có xác nhận của nơi làm việc của bố mẹ hoặc địa phương theo mẫu của Trường Đại học FPT._
+* _Sinh viên thế hệ 1 (First-Generation Student): là người đầu tiên trong gia đình (gồm phụ huynh hoặc người bảo trợ và tất cả anh chị em ruột) học đại học. Khi đăng ký xét tuyển, sinh viên thế hệ 1 cần nộp Đơn đăng ký ưu tiên xét tuyển có xác nhận của nơi làm việc của bố mẹ hoặc địa phương theo mẫu của Trường Đại học FPT._
   1. **Lịch trình tuyển sinh dự kiến**
 
 
 Thời gian dự kiến tuyển sinh các đợt trong năm:
   * Đợt 1: theo lịch trình chung của Bộ Giáo dục và Đào tạo.
-  * Các đợt tuyển bổ sung (nếu có) căn cứ vào kết quả đợt tuyển sinh trước đó và sẽ được thông báo khi trường chưa tuyển đủ số lượng.
+  * Các đợt tuyển bổ sung (nếu có) căn cứ vào kết quả đợt tuyển sinh trước đó và sẽ được thông báo khi trường chưa tuyển đủ số lượng.
 
 
 [PHỤ LỤC – ĐIỂM KHUYẾN KHÍCH VÀ ĐIỂM QUY ĐỔI CÁC CHỨNG CHỈ NGOẠI NGỮ](https://daihoc.fpt.edu.vn/wp-content/uploads/2026/04/phu-luc_update1.pdf)

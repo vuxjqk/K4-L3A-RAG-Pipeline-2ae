@@ -1,23 +1,23 @@
-BỘ GIÁO DỤC VÀ ĐÀO TẠO  CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-| Trường Đại học FPT  |     | Độc lập - Tự do - Hạnh phúc   |     |     |
+BỘ GIÁO DỤC VÀ ĐÀO TẠO  CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+| Trường Đại học FPT  |     | Độc lập - Tự do - Hạnh phúc   |     |     |
 | ---------------------- | --- | ------------------------------ | --- | --- |
 -------------  ---------------
 
-ĐỀ ÁN TUYỂN SINH NĂM 2023
+ĐỀ ÁN TUYỂN SINH NĂM 2023
 I. Thông tin chung (tính đến thời điểm xây dựng kế hoạch tuyển sinh)
 1. Tên cơ sở đào tạo: Trường Đại học FPT
 2. Mã trường: FPT
 3. Địa chỉ các trụ sở (trụ sở chính và phân hiệu):
 Diện tích sàn
-|     | Loại  |     | Diện  |     |
+|     | Loại  |     | Diện  |     |
 | --- | ------ | --- | ----- | --- |
 xây dựng
-| TT  Cơ sở đào tạo  | hình đào  | Địa điểm  | tích đất  |     |
+| TT  Cơ sở đào tạo  | hình đào  | Địa điểm  | tích đất  |     |
 | ------------------- | --------- | --------- | --------- | --- |
 phục vụ đào
-|     | tạo  |     | (m2)  |     |
+|     | tạo  |     | (m2)  |     |
 | --- | ----- | --- | ----- | --- |
-tạo (m2)
+tạo (m2)
 Khu Giáo dục và Đào tạo
 |     | Cơ sở  | - Khu Công nghệ cao  |     |     |
 | --- | ------ | -------------------- | --- | --- |
@@ -50,7 +50,7 @@ Phân hiệu Trường
 |                     | hiệu  | Bình, Q. Ninh Kiều, Tp.  |         |         |
 thành phố Cần Thơ
 Cần Thơ.
-Khu đô thị mới An Phú
+Khu đô thị mới An Phú
 | Phân hiệu Trường  |     | Thịnh, Phường Nhơn  |     |     |
 | ----------------- | --- | ------------------- | --- | --- |
 Phân
@@ -73,24 +73,24 @@ https://www.facebook.com/daihocfpt
 viec-lam.pdf
 Kết quả khảo sát sinh viên có việc làm trình độ đào tạo đại học trong khoảng thời gian
 12 tháng kể từ khi được công nhận tốt nghiệp được xác định theo từng ngành, lĩnh vực
-đào tạo, được khảo sát ở năm liền kề trước năm tuyển sinh, đối tượng khảo sát là sinh
-viên đã tốt nghiệp ở năm trước cách năm tuyển sinh một năm.
+đào tạo, được khảo sát ở năm liền kề trước năm tuyển sinh, đối tượng khảo sát là sinh
+viên đã tốt nghiệp ở năm trước cách năm tuyển sinh một năm.
 Số SV
 Chỉ
 trúng  Số SV
 |                                | tiêu   | Tỉ lệ SV tốt nghiệp đã  |     |
 | ------------------------------ | ------ | ----------------------- | --- |
-| STT  Lĩnh vực /Ngành đào tạo  | tuyển  | tốt                     |     |
+| STT  Lĩnh vực /Ngành đào tạo  | tuyển  | tốt                     |     |
 |                                | tuyển  | có việc làm             |     |
 nhập  nghiệp
 sinh
-học
+học
 | 1  Nghệ thuật                             | 350  240    | 226  | 0      |
 | ----------------------------------------- | ----------- | ---- | ------ |
-| 1.1  Thiết kế đồ họa (LKĐT nước ngoài)  | 350  240    | 47   | 95     |
+| 1.1  Thiết kế đồ họa (LKĐT nước ngoài)  | 350  240    | 47   | 95     |
 | 1.2  Thiết kế đồ họa                      | 0  0        | 179  | 95.68  |
 | 2  Kinh doanh và quản lý                  | 7335  5214  | 604  | 0      |
-2.1  Quản trị kinh doanh (LKĐT nước ngoài)  1070  986  231  97.67
+2.1  Quản trị kinh doanh (LKĐT nước ngoài)  1070  986  231  97.67
 | 2.2  Quản trị kinh doanh            | 6265  4228   | 225   | 93.29  |
 | ----------------------------------- | ------------ | ----- | ------ |
 | 2.3  Kinh doanh quốc tế             | 0  0         | 148   | 92.06  |
@@ -102,14 +102,14 @@ học
 | 4.2  Kỹ thuật phần mềm              | 0  0         | 906   | 97.74  |
 | 4.3  Hệ thống thông tin             | 0  0         | 0     | 0      |
 | 4.4  Kỹ thuật máy tính              | 0  0         | 0     | 0      |
-4.5  Công nghệ thông tin (LKĐT nước ngoài)  1360  810  254  98.33
+4.5  Công nghệ thông tin (LKĐT nước ngoài)  1360  810  254  98.33
 | 4.6  Công nghệ thông tin            | 9523  9048  | 0    | 0      |
 | ----------------------------------- | ----------- | ---- | ------ |
 | 4.7  An toàn thông tin              | 0  0        | 140  | 93.1   |
 | 5  Kỹ thuật                         | 0  0        | 0    | 0      |
 | 5.1  Kỹ thuật điện tử - viễn thông  | 0  0        | 0    | 0      |
-| 6  Kiến trúc và xây dựng           | 0  0        | 0    | 0      |
-| 6.1  Kiến trúc                     | 0  0        | 0    | 0      |
+| 6  Kiến trúc và xây dựng           | 0  0        | 0    | 0      |
+| 6.1  Kiến trúc                     | 0  0        | 0    | 0      |
 | 7  Nhân văn                         | 1085  555   | 373  | 0      |
 | 7.1  Ngôn ngữ Anh                   | 555  394    | 193  | 85     |
 | 7.2  Ngôn ngữ Nhật                  | 350  113    | 180  | 91.43  |
@@ -118,7 +118,7 @@ học
 Truyền thông đa phương tiện (LKĐT
 | 8.1  | 180  156  | 0   | 0   |
 | ---- | --------- | --- | --- |
-nước ngoài)
+nước ngoài)
 | 8.2  Truyền thông đa phương tiện  | 0  0  | 45  | 97.78  |
 | --------------------------------- | ----- | --- | ------ |
 Du lịch, khách sạn, thể thao và dịch vụ
@@ -132,11 +132,11 @@ Chỉ
 |                                |     |        | trúng  | Số SV                   |     |     |
 | ------------------------------ | --- | ------ | ------ | ----------------------- | --- | --- |
 |                                |     | tiêu   |        | Tỉ lệ SV tốt nghiệp đã  |     |     |
-| STT  Lĩnh vực /Ngành đào tạo  |     |        | tuyển  | tốt                     |     |     |
+| STT  Lĩnh vực /Ngành đào tạo  |     |        | tuyển  | tốt                     |     |     |
 |                                |     | tuyển  |        | có việc làm             |     |     |
 |                                |     |        | nhập   | nghiệp                  |     |     |
 sinh
-học
+học
 | 9.1  Quản trị khách sạn  |     | 0      | 0      | 0     |     | 0   |
 | ------------------------ | --- | ------ | ------ | ----- | --- | --- |
 |    Tổng                  |     | 19833  | 16023  | 2565  |     | 0   |
@@ -174,7 +174,7 @@ http://SchoolRank.fpt.edu.vn);
 | --- | --- | ------------------------------ | ------ | ------------- | -------- | ------------ |
 |     |     | hạng                           | Top50  | SchoolRank    |          | năm  2022    |
 |     |     | (chứng                         | nhận   | thực          | hiện     | trên  trang  |
-|     |     | http://SchoolRank.fpt.edu.vn)  |        |               |          | đối  với   |
+|     |     | http://SchoolRank.fpt.edu.vn)  |        |               |          | đối  với   |
 thí sinh là Thế hệ 1
 |     | c)  | Thí  | sinh  | thuộc  diện  | được  | xét  tuyển  |
 | --- | --- | ---- | ----- | ------------ | ----- | ----------- |
@@ -200,14 +200,14 @@ tuyển tuyển và xét
 tuyển
 từ 80 hoặc IELTS (Học thuật) từ 6.0
 hoặc quy đổi tương đương (áp dụng
-đối với ngành Ngôn Ngữ Anh); có
+đối với ngành Ngôn Ngữ Anh); có
 chứng chỉ tiếng Nhật JLPT từ N3 trở
-lên (áp dụng đối với ngành Ngôn Ngữ
+lên (áp dụng đối với ngành Ngôn Ngữ
 Nhật); có chứng chỉ tiếng Hàn TOPIK
 cấp độ 4 trong kỳ thi TOPIK II (áp
-dụng đối với ngành Ngôn Ngữ Hàn
+dụng đối với ngành Ngôn Ngữ Hàn
 Quốc)
-f) Tốt nghiệp THPT ở nước ngoại
+f) Tốt nghiệp THPT ở nước ngoại
 g) Đạt xếp hạng Top40 theo điểm thi
 THPT năm 2022 (chứng nhận thực
 hiện trên
@@ -217,18 +217,18 @@ công bố sau kỳ thi THPT 2022)
 h) Ưu tiên cho Thế hệ 1 (*): Đạt xếp
 hạng Top50 SchoolRank năm 2022
 (chứng nhận thực hiện trên trang
-http://SchoolRank.fpt.edu.vn) đối với
+http://SchoolRank.fpt.edu.vn) đối với
 thí sinh là Thế hệ 1
 i) Tốt nghiệp một trong các chương trình
 sau: Chương trình APTECH
-HDSE/ADSE (đối với ngành Công
+HDSE/ADSE (đối với ngành Công
 nghệ thông tin); Chương trình
-ARENA ADIM (đối với chuyên
+ARENA ADIM (đối với chuyên
 ngành Thiết kế Mỹ thuật số); Chương
 trình BTEC HND; FUNiX Software
 Engineering
 j) Tốt nghiệp Đại học
-k) Sinh viên từ nước ngoài về từ các
+k) Sinh viên từ nước ngoài về từ các
 trường đại học thuộc Top 1000 trong
 3 bảng xếp hạng gần nhất: QS,
 ARWU và THE hoặc các trường đạt
@@ -274,19 +274,19 @@ thi THPT 2021) và điểm theo khối xét tuyển
 đạt từ trung bình trở lên (15*/30 điểm);
 d) Có chứng chỉ tiếng Anh TOEFL iBT
 từ 80 hoặc IELTS (Học thuật) từ 6.0 hoặc
-quy đổi tương đương (áp dụng đối với ngành
+quy đổi tương đương (áp dụng đối với ngành
 Ngôn Ngữ Anh); có chứng chỉ tiếng Nhật
-JLPT từ N3 trở lên (áp dụng đối với ngành
+JLPT từ N3 trở lên (áp dụng đối với ngành
 Ngôn Ngữ Nhật); có chứng chỉ tiếng Hàn
 TOPIK cấp độ 4 trong kỳ thi TOPIK II (áp
-dụng đối với ngành Ngôn Ngữ Hàn Quốc);
+dụng đối với ngành Ngôn Ngữ Hàn Quốc);
 e) Tốt nghiệp một trong các chương trình
-sau: Chương trình APTECH HDSE (đối với
+sau: Chương trình APTECH HDSE (đối với
 ngành Công nghệ thông tin); Chương trình
-ARENA ADIM (đối với chuyên ngành Thiết
+ARENA ADIM (đối với chuyên ngành Thiết
 kế Mỹ thuật số); Chương trình BTEC HND;
 FUNiX Software Engineering;
-f) Tốt nghiệp THPT ở nước ngoài;
+f) Tốt nghiệp THPT ở nước ngoài;
 g) Tốt nghiệp Đại học;
 h) Sinh viên chuyển trường từ các trường
 đại học thuộc Top 1000 trong 3 bảng xếp
@@ -309,18 +309,18 @@ lượng đào tạo;
 đối tượng và khu vực theo Quy định của Bộ
 |     |     |     |     |     | Giáo  | dục  &  | Đào  | tạo)  | tổ  hợp  | các  | môn  thi  |
 | --- | --- | --- | --- | --- | ----- | ------- | ---- | ----- | -------- | ---- | --------- |
-THPT năm 2021 tương ứng với ngành đăng
-|     |     |     |     |     | ký  học  | tại     | mục   | II.3  (áp  | dụng  | với      | thí  sinh  |
+THPT năm 2021 tương ứng với ngành đăng
+|     |     |     |     |     | ký  học  | tại     | mục   | II.3  (áp  | dụng  | với      | thí  sinh  |
 | --- | --- | --- | --- | --- | -------- | ------- | ----- | ---------- | ----- | ---------- | ---------- |
 |     |     |     |     |     | không    | có  đủ  | điểm  | 6          | môn   | thi  THPT  | năm        |
 2021);
-Ghi chú: (*) Làm tròn đến hai chữ số thập
+Ghi chú: (*) Làm tròn đến hai chữ số thập
 |     |     |     |     |     | phân  | (ví  dụ:  | nếu  | thí  | sinh  | đạt  14.991  | đến  |
 | --- | --- | --- | --- | --- | ----- | --------- | ---- | ---- | ----- | ------------ | ---- |
 14.994 điểm thì làm tròn thành 14.99 điểm;
-trường hợp từ 14.995 đến 14.999 mới được
+trường hợp từ 14.995 đến 14.999 mới được
 làm tròn thành 15 điểm).
-8.2. Điểm trúng tuyển của 2 năm gần nhất
+8.2. Điểm trúng tuyển của 2 năm gần nhất
 | TT  | Nhóm   | Ngành  | Mã     | Tổ   | Phương  | Năm 2021  |     |     |     | Năm 2022  |     |
 | --- | ------ | ------ | ------ | ---- | ------- | --------- | --- | --- | --- | --------- | --- |
 |     | ngành  |        | ngành  | hợp  | thức    |           |     |     |     |           |     |
@@ -330,7 +330,7 @@ xét
 |     |                   |        |          |       | tuyển  | Chỉ        | Số          | Điểm   | Chỉ   | Số          | Điểm   |
 | --- | ----------------- | ------ | -------- | ----- | ------ | ---------- | ----------- | ------ | ----- | ----------- | ------ |
 |     |                   |        |          |       |        | tiêu       | nhập trúng  |        | tiêu  | nhập trúng  |        |
-|     |                   |        |          |       |        |            | học        | tuyển  |       | học        | tuyển  |
+|     |                   |        |          |       |        |            | học        | tuyển  |       | học        | tuyển  |
 |     | Khối  ngành Quản  |        |          | A00   |        | 3050 3289  |             | 23,5   | 6265  | 4228        |        |
 |     | III               | trị    |          | A01   |        |            |             |        |       |             |        |
 | 1   |                   |        | 7340101  |       |        |            |             |        |       |             |        |
@@ -371,7 +371,7 @@ xét
 tuyển
 |     |         |     |       |     |     |       |     | tiêu        | nhập trúng  |                | tiêu  nhập trúng  |        |
 | --- | ------- | --- | ----- | --- | --- | ----- | --- | ----------- | ----------- | -------------- | ----------------- | ------ |
-|     |         |     |       |     |     |       |     |             | học        | tuyển          | học              | tuyển  |
+|     |         |     |       |     |     |       |     |             | học        | tuyển          | học              | tuyển  |
 |     |         |     | ngữ   |     |     | A01   |     |             |             |                |                   |        |
 |     |         |     | Hàn   |     |     | C00   |     |             |             |                |                   |        |
 |     |         |     | Quốc  |     |     | D01   |     |             |             |                |                   |        |
@@ -380,7 +380,7 @@ tuyển
 Đường link công khai danh mục ngành được phép đào tạo trên trang thông tin điện tử
 của CSĐT:
 https://daihoc.fpt.edu.vn/wp-content/uploads/2023/06/thong_tin_danh_muc_nganh.pdf
-Trường
+Trường
 Năm đã
 |     |        |        |         |     |           |     | Số văn    | Ngày tháng          |           | tự chủ   |               |           |
 | --- | ------ | ------ | ------- | --- | --------- | --- | --------- | ------------------- | --------- | -------- | ------------- | --------- |
@@ -388,13 +388,13 @@ Năm đã
 |     |        |        |         |     |           |     | bản       |                     | năm ban   | ban      |               |           |
 |     |        |        |         |     | tháng     |     |           |                     |           |          | Năm sinh và   |           |
 |     |        |        |         |     |           |     | chuyển    |                     | hành văn  | hành     |               |           |
-|     |        |        | Số văn  |     | năm ban   |     |           |                     |           |          | bắt           | đào tạo  |
+|     |        |        | Số văn  |     | năm ban   |     |           |                     |           |          | bắt           | đào tạo  |
 |     | Tên    | Mã     |         |     |           |     | đổi mã    | bản chuyển hoặc Cơ  |           |          |               |           |
 | TT  |        |        | bản mở  |     | hành văn  |     |           |                     |           |          | đầu           | gần       |
 |     | ngành  | ngành  |         |     |           |     | hoặc tên  |                     | đổi mã    | quan có  |               |           |
 |     |        |        | ngành   |     | bản cho   |     |           |                     |           |          | đào nhất với  |           |
 |     |        |        |         |     |           |     | ngành     |                     | hoặc tên  | thẩm     |               |           |
-|     |        |        |         |     | phép mở   |     |           |                     |           |          | tạo          | năm       |
+|     |        |        |         |     | phép mở   |     |           |                     |           |          | tạo          | năm       |
 |     |        |        |         |     |           |     | (gần      | ngành (gần          |           | quyền    |               |           |
 |     |        |        |         |     | ngành     |     |           |                     |           |          |               | tuyển     |
 |     |        |        |         |     |           |     | nhất)     |                     | nhất)     | cho      |               |           |
@@ -433,7 +433,7 @@ cho phép
 5  Công  7480201 4294/QĐ-11/10/2018        Cơ quan 2019  2022
 7
 
-Trường
+Trường
 Năm đã
 |        |        |         |           | Số văn    | Ngày tháng          | tự chủ   |                |
 | ------ | ------ | ------- | --------- | --------- | ------------------- | -------- | -------------- |
@@ -441,13 +441,13 @@ Năm đã
 |        |        |         |           | bản       | năm ban             | ban      |                |
 |        |        |         | tháng     |           |                     |          | Năm sinh và    |
 |        |        |         |           | chuyển    | hành văn            | hành     |                |
-|        |        | Số văn  | năm ban   |           |                     |          | bắt  đào tạo  |
+|        |        | Số văn  | năm ban   |           |                     |          | bắt  đào tạo  |
 | Tên    | Mã     |         |           | đổi mã    | bản chuyển hoặc Cơ  |          |                |
 | TT     |        | bản mở  | hành văn  |           |                     |          | đầu  gần       |
 | ngành  | ngành  |         |           | hoặc tên  | đổi mã              | quan có  |                |
 |        |        | ngành   | bản cho   |           |                     |          | đào nhất với   |
 |        |        |         |           | ngành     | hoặc tên            | thẩm     |                |
-|        |        |         | phép mở   |           |                     |          | tạo  năm      |
+|        |        |         | phép mở   |           |                     |          | tạo  năm      |
 |        |        |         |           | (gần      | ngành (gần          | quyền    |                |
 |        |        |         | ngành     |           |                     |          | tuyển          |
 |        |        |         |           | nhất)     | nhất)               | cho      |                |
@@ -511,7 +511,7 @@ tiện
 | doanh  |          | BGDĐT    |             | BGDĐT   |             | có thẩm   |             |
 8
 
-Trường
+Trường
 Năm đã
 |        |        |         |           | Số văn    | Ngày tháng          | tự chủ   |                |
 | ------ | ------ | ------- | --------- | --------- | ------------------- | -------- | -------------- |
@@ -519,13 +519,13 @@ Năm đã
 |        |        |         |           | bản       | năm ban             | ban      |                |
 |        |        |         | tháng     |           |                     |          | Năm sinh và    |
 |        |        |         |           | chuyển    | hành văn            | hành     |                |
-|        |        | Số văn  | năm ban   |           |                     |          | bắt  đào tạo  |
+|        |        | Số văn  | năm ban   |           |                     |          | bắt  đào tạo  |
 | Tên    | Mã     |         |           | đổi mã    | bản chuyển hoặc Cơ  |          |                |
 | TT     |        | bản mở  | hành văn  |           |                     |          | đầu  gần       |
 | ngành  | ngành  |         |           | hoặc tên  | đổi mã              | quan có  |                |
 |        |        | ngành   | bản cho   |           |                     |          | đào nhất với   |
 |        |        |         |           | ngành     | hoặc tên            | thẩm     |                |
-|        |        |         | phép mở   |           |                     |          | tạo  năm      |
+|        |        |         | phép mở   |           |                     |          | tạo  năm      |
 |        |        |         |           | (gần      | ngành (gần          | quyền    |                |
 |        |        |         | ngành     |           |                     |          | tuyển          |
 |        |        |         |           | nhất)     | nhất)               | cho      |                |
@@ -595,21 +595,21 @@ https://daihoc.fpt.edu.vn/de-an-tuyen-sinh-2023/
 trên trang thông tin điện tử của CSĐT: Trường không tổ chức thi tuyển sinh.
 14. Đường link công khai Đề án tổ chức thi (nếu cơ sở đào tạo có tổ chức thi) trên
 trang thông tin điện tử của CSĐT: Trường không tổ chức thi tuyển sinh.
-II. Tuyển sinh đào tạo chính quy
-1. Tuyển sinh chính quy đại học, cao đẳng (ngành Giáo dục Mầm non)
+II. Tuyển sinh đào tạo chính quy
+1. Tuyển sinh chính quy đại học, cao đẳng (ngành Giáo dục Mầm non)
 1.1. Đối tượng, điều kiện tuyển sinh.
 Các thí sinh đã được công nhận tốt nghiệp trung học phổ thông (THPT) của Việt Nam
-hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương tính đến
+hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương tính đến
 thời điểm nhập học, có nguyện vọng theo học tại Trường Đại học FPT.
 1.2. Phạm vi tuyển sinh.
-Trong và ngoài nước Việt Nam.
+Trong và ngoài nước Việt Nam.
 1.3. Phương thức tuyển sinh (thi tuyển, xét tuyển hoặc kết hợp thi tuyển và xét tuyển).
 Xét tuyển
 1.4. Chỉ tiêu tuyển sinh: Chỉ tiêu theo Ngành/Nhóm ngành, theo từng phương thức xét
 tuyển và trình độ đào tạo.
 | TT  Trình độ  | Tên    | Mã     | Mã      | Tên phương  | Chỉ    | Tổ hợp môn xét  |          |
 | ------------- | ------ | ------ | ------- | ----------- | ------ | --------------- | -------- |
-| đào tạo      | ngành  | ngành  | phương  | thức XT     | tiêu   | tuyển           |          |
+| đào tạo      | ngành  | ngành  | phương  | thức XT     | tiêu   | tuyển           |          |
 |               |        |        | thức    |             | (dự    | Mã tổ           | Môn thi  |
 |               |        |        | XT      |             | kiến)  | hợp             | chính    |
 môn
@@ -627,7 +627,7 @@ môn
 
 | TT  Trình độ  | Tên    | Mã     | Mã      | Tên phương  | Chỉ    | Tổ hợp môn xét  |          |
 | ------------- | ------ | ------ | ------- | ----------- | ------ | --------------- | -------- |
-| đào tạo      | ngành  | ngành  | phương  | thức XT     | tiêu   | tuyển           |          |
+| đào tạo      | ngành  | ngành  | phương  | thức XT     | tiêu   | tuyển           |          |
 |               |        |        | thức    |             | (dự    | Mã tổ           | Môn thi  |
 |               |        |        | XT      |             | kiến)  | hợp             | chính    |
 môn
@@ -692,7 +692,7 @@ Mã trường: FPT
 | TT  Trình  | Tên    | Mã     | Mã phương  | Tên phương thức  |     | Mã  Độ    |
 | ---------- | ------ | ------ | ---------- | ---------------- | --- | --------- |
 | độ đào     | ngành  | ngành  | thức XT    |                  | XT  | tổ  lệch  |
-| tạo       |        |        |            |                  |     | hợp  so   |
+| tạo       |        |        |            |                  |     | hợp  so   |
 môn  với tổ
 hợp
 gốc
@@ -737,7 +737,7 @@ tạo.
 các điều kiện xét tuyển/thi tuyển.
 1.7.1. Điều kiện xét tuyển
 Các thí sinh thuộc đối tượng tuyển sinh có nguyện vọng theo học tại Trường Đại học
-FPT cần đáp ứng các điều kiện trúng tuyển của Trường Đại học FPT:
+FPT cần đáp ứng các điều kiện trúng tuyển của Trường Đại học FPT:
 
 | TT  | Phương thức tuyển sinh  |     |     | Điều kiện trúng tuyển  |     |     |
 | --- | ----------------------- | --- | --- | ---------------------- | --- | --- |
@@ -763,27 +763,27 @@ GD&ĐT năm 2023
 2.2. Có chứng chỉ tiếng Anh TOEFL iBT
 từ 80 hoặc IELTS (Học thuật) từ 6.0 hoặc
 VSTEP bậc 5 hoặc quy đổi tương đương
-(áp dụng đối với ngành Ngôn Ngữ Anh);
+(áp dụng đối với ngành Ngôn Ngữ Anh);
 có chứng chỉ tiếng Nhật JLPT từ N3 trở
-|     |     | lên  (áp  | dụng  | đối  | với  | ngành  | Ngôn  Ngữ  |
+|     |     | lên  (áp  | dụng  | đối  | với  | ngành  | Ngôn  Ngữ  |
 | --- | --- | --------- | ----- | ---- | ------ | ------ | ---------- |
 Nhật); có chứng chỉ tiếng Hàn TOPIK cấp
 độ 4 trong kỳ thi TOPIK II (áp dụng đối
-với ngành Ngôn Ngữ Hàn Quốc)
-2.3. Tốt nghiệp phổ thông với văn bằng do
-nước ngoài cấp
+với ngành Ngôn Ngữ Hàn Quốc)
+2.3. Tốt nghiệp phổ thông với văn bằng do
+nước ngoài cấp
 |                     |     | 2.4.  Tốt  | nghiệp  |         | một  | trong  các  | chương  |
 | ------------------- | --- | ---------- | ------- | ------- | ---- | ----------- | ------- |
 | 2  Xét tuyển thẳng  |     | trình      | sau:    | Chương  |      | trình       | APTECH  |
-HDSE/ADSE (đối với ngành Công nghệ
+HDSE/ADSE (đối với ngành Công nghệ
 thông tin); Chương trình ARENA ADIM
-(đối với chuyên ngành Thiết kế Mỹ thuật
+(đối với chuyên ngành Thiết kế Mỹ thuật
 |     |     | số);  Chương  |     | trình         | BTEC  | HND;    | FUNiX  |
 | --- | --- | ------------- | --- | ------------- | ----- | ------- | ------ |
 |     |     | Software      |     | Engineering;  |       | Chương  | trình  |
 Melbourne Polytechnic
 2.5. Tốt nghiệp Đại học
-|     |     | 2.6.  Sinh  | viên  | từ  | nước  | ngoài  | về  từ  các  |
+|     |     | 2.6.  Sinh  | viên  | từ  | nước  | ngoài  | về  từ  các  |
 | --- | --- | ----------- | ----- | --- | ------- | ------ | ------------ |
 trường đại học thuộc Top 1000 trong 3
 bảng xếp hạng gần nhất: QS, ARWU và
@@ -801,7 +801,7 @@ TT Phương thức tuyển sinh Điều kiện trúng tuyển
 bao gồm điểm ưu tiên theo mục III.2 của
 Quy chế tuyển sinh này) tổ hợp Ax (gồm
 môn Toán và 2 môn thi bất kỳ)
-2.9. Đạt 21* điểm học bạ cả năm lớp 12
+2.9. Đạt 21* điểm học bạ cả năm lớp 12
 theo tổ hợp Ax (gồm môn Toán học và 2
 môn bất kỳ (trong các môn Ngữ văn,
 Ngoại ngữ, Vật lí, Hoá học, Sinh học,
@@ -810,12 +810,12 @@ Lưu ý: (*) làm tròn đến 2 (hai) chữ số thập phân.
 1.7.2. Lịch trình xét tuyển
 - Căn cứ theo lịch trình xét tuyển năm 2023 của Bộ Giáo dục & Đào tạo;
 - Thời hạn đăng ký đợt 1: 31/05/2023;
-- Các đợt tuyển bổ sung (nếu có) căn cứ vào kết quả đợt tuyển sinh trước đó và sẽ
+- Các đợt tuyển bổ sung (nếu có) căn cứ vào kết quả đợt tuyển sinh trước đó và sẽ
 được thông báo khi trường chưa tuyển đủ chỉ tiêu;
 1.7.3. Thủ tục đăng ký và nộp phí
-a) Địa điểm văn phòng tư vấn tuyển sinh và thông tin liên hệ hướng dẫn cách
+a) Địa điểm văn phòng tư vấn tuyển sinh và thông tin liên hệ hướng dẫn cách
 thức đăng ký và nộp phí
-Văn phòng tuyển sinh Địa chỉ Điện thoại
+Văn phòng tuyển sinh Địa chỉ Điện thoại
 Khu Giáo dục và Đào tạo – Khu Công nghệ cao
 (024)73001866
 Hà Nội Hòa Lạc, Km29 Đại lộ Thăng Long, huyện
@@ -834,13 +834,13 @@ Số 600 đường Nguyễn Văn Cừ nối dài, Khu vực
 TP. Cần Thơ 6, phường An Bình, quận Ninh Kiều, TP. Cần
 (0292)7303636
 Thơ
-Khu đô thị mới An Phú Thịnh, Phường Nhơn
+Khu đô thị mới An Phú Thịnh, Phường Nhơn
 (0256)7300999
 TP. Quy Nhơn Bình & Phường Đống Đa, TP Quy Nhơn, Tỉnh
 (0256)7301866
 Bình Định
 b) Nộp phí
-Tài khoản ngân hàng của Trường Đại học FPT
+Tài khoản ngân hàng của Trường Đại học FPT
 14
 
 | Tài  | Hà Nội  | Tp.HCM  | Đà Nẵng  | Cần Thơ  | Quy Nhơn   |
@@ -867,9 +867,9 @@ hàng  Phong – Chi  - Chi Nhánh Tp.  Phong – Chi  Phong – Chi  Phong – 
 nhánh Hoàn  Hồ Chí Minh  nhánh Đà Nẵng  nhánh Cần Thơ  nhánh Bình
 |      | Kiếm                                       |     |     |     | Định  |
 | ---- | ------------------------------------------ | --- | --- | --- | ----- |
-| Nội  | -  Đối với thí sinh đăng ký tuyển sinh:  |     |     |     |       |
+| Nội  | -  Đối với thí sinh đăng ký tuyển sinh:  |     |     |     |       |
 dung  <Họ và tên thí sinh – Số CMND của thí sinh - Lệ phí ĐKTS 2023>
-| nộp  | -  Đối với thí sinh đăng ký nhập học:  |     |     |     |     |
+| nộp  | -  Đối với thí sinh đăng ký nhập học:  |     |     |     |     |
 | ---- | ---------------------------------------- | --- | --- | --- | --- |
 tiền  <Họ và tên thí sinh – Số CMND của thí sinh - Lệ phí ĐKNH 2023>
 Các khoản phí áp dụng theo Quy định tài chính hiện hành của Trường Đại học FPT.
@@ -880,38 +880,38 @@ tạo.
 - Lệ phí tuyển sinh (nộp cho trường): 200,000 VNĐ/hồ sơ;
 - Lệ phí đăng ký nguyện vọng trên hệ thống của Bộ GD&ĐT: theo quy định của Bộ
 GD&ĐT năm 2023.
-1.10. Học phí dự kiến với sinh viên chính quy; lộ trình tăng học phí tối đa cho từng
+1.10. Học phí dự kiến với sinh viên chính quy; lộ trình tăng học phí tối đa cho từng
 năm (nếu có).
-Học phí và các khoản phí khác đối với sinh viên chính quy và lộ trình tăng học phí tối
+Học phí và các khoản phí khác đối với sinh viên chính quy và lộ trình tăng học phí tối
 đa cho từng năm dựa vào Quy định tài chính hiện hành cho sinh viên các hệ đào tạo
 của Trường Đại học FPT, cụ thể áp dụng cho các thí sinh nhập học tại các địa điểm
 đào tạo như sau:
 ❖ Cơ sở đào tạo chính tại Tp. Hà Nội và phân hiệu tại Tp. Hồ Chí Minh:
-|     |   + Học phí kỳ định hướng: 11,900,000 VNĐ  |     |     |     |     |
+|     |   + Học phí kỳ định hướng: 11,900,000 VNĐ  |     |     |     |     |
 | --- | -------------------------------------------- | --- | --- | --- | --- |
-  + Học phí tiếng Anh chuẩn bị: 11,900,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp
+  + Học phí tiếng Anh chuẩn bị: 11,900,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp
 tuỳ trình độ)
 15
 
   + Học phí chuyên ngành: 28,700,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)
 ❖ Phân hiệu tại Tp. Đà Nẵng, TP. Cần Thơ và tỉnh Bình Định
-+ Học phí kỳ định hướng: 8,330,000 VNĐ
-+ Học phí tiếng Anh chuẩn bị: 8,330,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ
++ Học phí kỳ định hướng: 8,330,000 VNĐ
++ Học phí tiếng Anh chuẩn bị: 8,330,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ
 trình độ)
 + Học phí chuyên ngành: 20,090,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)
 |     | -  Học phí có thể được điều chỉnh hàng năm không quá 10%;  |     |     |     |
 | --- | ---------------------------------------------------------- | --- | --- | --- |
--   Đợt nộp học phí đầu tiên khi nhập học sinh viên nộp học phí kỳ định hướng và 1
+-   Đợt nộp học phí đầu tiên khi nhập học sinh viên nộp học phí kỳ định hướng và 1
 mức tiếng anh chuẩn bị
 1.11. Thời gian dự kiến tuyển sinh các đợt trong năm.
 - Căn cứ theo lịch trình xét tuyển năm 2023 của Bộ Giáo dục & Đào tạo;
 - Thời hạn đăng ký đợt 1: 31/05/2023;
-Các đợt tuyển bổ sung (nếu có) căn cứ vào kết quả đợt tuyển sinh trước đó và sẽ được
+Các đợt tuyển bổ sung (nếu có) căn cứ vào kết quả đợt tuyển sinh trước đó và sẽ được
 thông báo khi trường chưa tuyển đủ chỉ tiêu.
-1.12. Việc CSĐT thực hiện các cam kết đối với thí sinh giải quyết khiếu nại, bảo vệ
+1.12. Việc CSĐT thực hiện các cam kết đối với thí sinh giải quyết khiếu nại, bảo vệ
 quyền lợi chính đáng của thí sinh trong những trường hợp rủi ro.
 1.13. Thông tin tuyển sinh các ngành đào tạo đặc thù có nhu cầu cao về nhân lực trình
-độ đại học đáp ứng yêu cầu phát triển kinh tế - xã hội của đất nước.
+độ đại học đáp ứng yêu cầu phát triển kinh tế - xã hội của đất nước.
 1.13.1. Thông tin về doanh nghiệp hợp tác đào tạo.
 |      |                   | Nội dung hợp     |                        | Nội dung hợp     |
 | ---- | ----------------- | ---------------- | ---------------------- | ---------------- |
@@ -4184,7 +4184,7 @@ CÔNG TY TNHH  thực tế cho sinh  TẢI CARGOTRANS  thực tế cho sinh
 | 555  | MASU             | viên           | 1169  VIỆT NAM  | viên              |
 | ---- | ---------------- | -------------- | --------------- | ----------------- |
 |      |                  | Cung cấp môi   |                 | Cung cấp môi      |
-|      | CÔNG TY CỔ PHẦN  | trường làm    |                 | trường làm việc   |
+|      | CÔNG TY CỔ PHẦN  | trường làm    |                 | trường làm việc   |
 |      | TRUYỀN THÔNG ĐA  | việc thực tế   | CÔNG TY         | thực tế cho sinh  |
 | 556  | PHƯƠNG TIỆN PMG  | cho sinh viên  | 1170  BENSTORY  | viên              |
 |      |                  | Cung cấp môi   |                 | Cung cấp môi      |
@@ -4517,7 +4517,7 @@ TƯ ALPHA VIỆT  thực tế cho sinh  THƯƠNG MẠI  thực tế cho sinh
 lực trình độ đại học (không trái các quy định hiện hành).
 1.14. Tài chính:
 1.14.1. Tổng nguồn thu hợp pháp/năm của trường: 1990 triệu đồng
-1.14.2. Tổng chi phí đào tạo trung bình 1 sinh viên/năm của năm liền trước năm tuyển
+1.14.2. Tổng chi phí đào tạo trung bình 1 sinh viên/năm của năm liền trước năm tuyển
 sinh: 66 triệu đồng
 74
 
@@ -4526,32 +4526,32 @@ Thí sinh được tính 10 điểm cho bài thi Ngoại Ngữ để thực hi�
 THPT 2023 (thực hiện trên trang https://SchoolRank.fpt.edu.vn) nếu thí sinh thuộc
 diện miễn thi bài thi Ngoại ngữ trong xét công nhận tốt nghiệp THPT và đăng ký sử
 dụng quyền được miễn thi bài thi Ngoại ngữ.
-2. Tuyển sinh đào tạo đại học, cao đẳng chính quy với đối tượng tốt nghiệp từ
+2. Tuyển sinh đào tạo đại học, cao đẳng chính quy với đối tượng tốt nghiệp từ
 trung cấp trở lên
-Trường không tuyển sinh đào tạo đại học, cao đẳng chính quy với đối tượng tốt nghiệp
+Trường không tuyển sinh đào tạo đại học, cao đẳng chính quy với đối tượng tốt nghiệp
 từ trung cấp trở lên
-III. Tuyển sinh đào tạo vừa học vừa làm: (Mẫu số 01)
+III. Tuyển sinh đào tạo vừa học vừa làm: (Mẫu số 01)
 Trường không tuyển sinh đào tạo vừa học vừa làm
-IV. Tuyển sinh đào tạo từ xa: (Mẫu số 02)
+IV. Tuyển sinh đào tạo từ xa: (Mẫu số 02)
 Trường không tuyển sinh đào tạo từ xa
 Cán bộ kê khai Ngày 30 tháng 10 năm 2023
-Họ và tên: Vũ Thu Chinh THỦ TRƯỞNG ĐƠN VỊ
-Số điện thoại: 098 3070782
-(Đã ký)
+Họ và tên: Vũ Thu Chinh THỦ TRƯỞNG ĐƠN VỊ
+Số điện thoại: 098 3070782
+(Đã ký)
 Email: Chinhvt@fe.edu.vn
 75
 
 Mẫu số 03: Báo cáo các điều kiện đảm bảo chất lượng
-CÁC ĐIỀU KIỆN BẢO ĐẢM CHẤT LƯỢNG
+CÁC ĐIỀU KIỆN BẢO ĐẢM CHẤT LƯỢNG
 1. Quy mô đào tạo hình thức chính quy đến ngày 31/12/2022 (Người học)
 Mã
-STT  Trình độ/Lĩnh vực/Ngành đào tạo  Lĩnh vực  Quy mô đào tạo
+STT  Trình độ/Lĩnh vực/Ngành đào tạo  Lĩnh vực  Quy mô đào tạo
 ngành
 | A  SAU ĐẠI HỌC          |       |     | 611  |
 | ----------------------- | ----- | --- | ---- |
 | 1  Tiến sĩ              |       |     | 0    |
 | 1.1  Tiến sĩ chính quy  |       |     |      |
-Tiến sĩ liên kết đào tạo với nước
+Tiến sĩ liên kết đào tạo với nước
 | 1.2  ngoài                    |       |     |      |
 | ----------------------------- | ----- | --- | ---- |
 | 2  Thạc sĩ                    |       |     | 611  |
@@ -4564,7 +4564,7 @@ Kinh doanh và quản
 Máy tính và công
 | 2.1.2.1  Kỹ thuật phần mềm  | 8480103  nghệ thông tin  |     | 54  |
 | --------------------------- | ------------------------ | --- | --- |
-Thạc sĩ liên kết đào tạo với nước
+Thạc sĩ liên kết đào tạo với nước
 | 2.2  ngoài            |       |     |        |
 | --------------------- | ----- | --- | ------ |
 | B  ĐẠI HỌC            |       |     | 35106  |
@@ -4599,7 +4599,7 @@ Kinh doanh và quản
 1
 
 Mã
-STT  Trình độ/Lĩnh vực/Ngành đào tạo  Lĩnh vực  Quy mô đào tạo
+STT  Trình độ/Lĩnh vực/Ngành đào tạo  Lĩnh vực  Quy mô đào tạo
 ngành
 lý
 Kinh doanh và quản
@@ -4616,10 +4616,10 @@ Máy tính và công
 | ----------------------------- | ------------------------ | --- | --- |
 | 3.1.2.5  Kỹ thuật             |                          |     | 0   |
 3.1.2.5.1  Kỹ thuật điện tử - viễn thông  7520207  Kỹ thuật  0
-| 3.1.2.6  Kiến trúc và xây dựng  |       |     | 0   |
+| 3.1.2.6  Kiến trúc và xây dựng  |       |     | 0   |
 | -------------------------------- | ----- | --- | --- |
-Kiến trúc và xây
-| 3.1.2.6.1  Kiến trúc          | 7580101  dựng      |     | 0     |
+Kiến trúc và xây
+| 3.1.2.6.1  Kiến trúc          | 7580101  dựng      |     | 0     |
 | ------------------------------ | ------------------ | --- | ----- |
 | 3.1.2.7  Nhân văn              |                    |     | 1502  |
 | 3.1.2.7.1  Ngôn ngữ Anh        | 7220201  Nhân văn  |     | 982   |
@@ -4636,10 +4636,10 @@ thể thao và dịch vụ
 | ----------------------------------------- | ----------------- | --- | --- |
 | 3.2  Liên thông từ trung cấp lên đại học  |                   |     |     |
 | 3.3  Liên thông từ cao đẳng lên đại học   |                   |     |     |
-Đào tạo chính quy với người đã tốt
+Đào tạo chính quy với người đã tốt
 | 3.4  nghiệp trình độ đại học trở lên      |                      |     |       |
 | ----------------------------------------- | -------------------- | --- | ----- |
-| 3.5  Liên kết đào tạo với nước ngoài  |                      |     | 2891  |
+| 3.5  Liên kết đào tạo với nước ngoài  |                      |     | 2891  |
 | 3.5.1  Nghệ thuật                         |                      |     | 280   |
 | 3.5.1.1  Thiết kế đồ họa                  | 7210403  Nghệ thuật  |     | 280   |
 | 3.5.2  Kinh doanh và quản lý              |                      |     | 1234  |
@@ -4659,11 +4659,11 @@ Máy tính và công
 2
 
 Mã
-STT  Trình độ/Lĩnh vực/Ngành đào tạo  Lĩnh vực  Quy mô đào tạo
+STT  Trình độ/Lĩnh vực/Ngành đào tạo  Lĩnh vực  Quy mô đào tạo
 ngành
 | 4.3  Liên thông từ cao đẳng lên đại học  |       |     |
 | ---------------------------------------- | ----- | --- |
-Đào tạo vừa làm vừa học đối với
+Đào tạo vừa làm vừa học đối với
 người đã tốt nghiệp trình độ đại học
 | 4.4  trở lên  |       |     |
 | ------------- | ----- | --- |
@@ -4676,7 +4676,7 @@ CAO ĐẲNG NGÀNH GIÁO DỤC
 Liên thông từ trung cấp lên cao đẳng
 | 6.2  chính quy  |       |     |
 | --------------- | ----- | --- |
-Đào tạo chính quy đối với người đã
+Đào tạo chính quy đối với người đã
 | 6.3  tốt nghiệp trình độ cao đẳng  |       |     |
 | ---------------------------------- | ----- | --- |
 | 7  Cao đẳng vừa làm vừa học        |       |     |
@@ -4684,35 +4684,35 @@ Liên thông từ trung cấp lên cao đẳng
 Liên thông từ trung cấp lên cao đẳng
 | 7.2  vừa làm vừa học  |       |     |
 | --------------------- | ----- | --- |
-Đào tạo vừa làm vừa học đối với
+Đào tạo vừa làm vừa học đối với
 | 7.3  người đã tốt nghiệp trình độ cao đẳng  |       |     |
 | ------------------------------------------- | ----- | --- |
 
 2. Cơ sở vật chất phục vụ đào tạo và nghiên cứu:
-2.1. Thống kê số lượng, diện tích đất, diện tích sàn xây dựng, ký túc xá
+2.1. Thống kê số lượng, diện tích đất, diện tích sàn xây dựng, ký túc xá
 - Tổng diện tích đất của trường (ha): 46.85
-- Số chỗ ở ký túc xá sinh viên (nếu có): 9958
+- Số chỗ ở ký túc xá sinh viên (nếu có): 9958
 - Diện tích sàn xây dựng trực tiếp phục vụ đào tạo thuộc sở hữu của trường tính trên một
 sinh viên chính quy: 4 m2/sinh viên
 Diện tích
 Số  sàn xây
-STT  Loại phòng
+STT  Loại phòng
 lượng  dựng
 (m2)
 Hội trường, giảng đường, phòng học các loại, phòng đa năng, phòng làm
 1  việc của giáo sư, phó giáo sư, giảng viên của cơ sở đào tạo  1118  95443.63
-| 1.1  Hội trường, phòng học lớn trên 200 chỗ  |     | 9  4619.8      |
+| 1.1  Hội trường, phòng học lớn trên 200 chỗ  |     | 9  4619.8      |
 | ---------------------------------------------- | --- | -------------- |
 | 1.2  Giảng đường từ 100 - 200 chỗ              |     | 5  757         |
 | 1.3  Phòng học từ 50 - 100 chỗ                 |     | 12  1526       |
-| 1.4  Số phòng dưới 50 chỗ                    |     | 311  18009.8   |
+| 1.4  Số phòng dưới 50 chỗ                    |     | 311  18009.8   |
 | 1.5  Số phòng học đa phương tiện               |     | 673  54478.74  |
 3
 
 Diện tích
 |      |     |              |     |     | Số  sàn xây  |       |
 | ---- | --- | ------------ | --- | --- | ------------ | ----- |
-| STT  |     | Loại phòng  |     |     |              |       |
+| STT  |     | Loại phòng  |     |     |              |       |
 |      |     |              |     |     | lượng        | dựng  |
 (m2)
 1.6  Phòng làm việc của giáo sư, phó giáo sư, giảng viên của cơ sở đào tạo  108  16052.29
@@ -4725,11 +4725,11 @@ Trung tâm nghiên cứu, phòng thí nghiệm, thực nghiệm, cơ sở thực
 2.2 Các thông tin khác
 3. Danh sách giảng viên
 3.1 Danh sách giảng viên toàn thời gian
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             |         |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 môn
 ngành  ngành
@@ -4781,11 +4781,11 @@ Olaso
 13  Bùi Hoàng  Nam     Thạc sĩ  Giáo dục        7480201  Công nghệ
 4
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Hải              |         |          | học         |     |             | thông tin   |
@@ -4863,11 +4863,11 @@ sư
 | Loan         |         |          | phần mềm    |     |             | phần mềm    |
 5
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 Khoáng vật
@@ -4952,11 +4952,11 @@ Kinh
 thương mại
 6
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 Tin học và
@@ -5038,11 +5038,11 @@ truyền hình
 65  Châu Mũi  Nữ     Thạc sĩ  Khoa học        7480201  Công nghệ
 7
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Khéo  |     |     | máy tính  |     |     | thông tin  |
@@ -5124,11 +5124,11 @@ học
 | Đức         |         |          | công         |     |             | thông tin   |
 8
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 nghiệp
@@ -5209,11 +5209,11 @@ học
 101  Đặng Trần  Nam     Thạc sĩ  Công nghệ        7480201  Công nghệ
 9
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Long        |         |          | thông tin    |     |             | thông tin   |
@@ -5288,11 +5288,11 @@ sư
    Đào Thị  Nữ  Phó  Tiến sĩ  Quản trị        8340101  Quản trị
 10
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Thanh Lam  | giáo  |     | kinh doanh  |     |     | kinh doanh  |
@@ -5302,10 +5302,10 @@ sư
 | ------------ | ------- | -------- | ------------ | --- | ----------- | ----------- |
 | 118          | Nữ      | Thạc sĩ  |              |     |    7220201  |             |
 | Trang        |         |          | Anh          |     |             | Anh         |
-| Đào Thúy    |         |          |              |     |             | Quản trị    |
+| Đào Thúy    |         |          |              |     |             | Quản trị    |
 | 119          | Nữ      | Tiến sĩ  | Kinh tế học  |     |    8340101  |             |
 | Hà           |         |          |              |     |             | kinh doanh  |
-| Đào Thúy    |         |          |              |     |             | Quản trị    |
+| Đào Thúy    |         |          |              |     |             | Quản trị    |
 |              | Nữ      | Tiến sĩ  | Kinh tế học  |     |    7340101  |             |
 | Hà           |         |          |              |     |             | kinh doanh  |
 | Đào Trung    |         |          | Quản trị     |     |             | Quản trị    |
@@ -5327,7 +5327,7 @@ quản lý
 | Đinh          |         |          | Ngôn ngữ     |     |             | Công nghệ   |
 | 124           | Nam     | Thạc sĩ  |              |     |    7480201  |             |
 | Nguyên Độ     |         |          | Anh          |     |             | thông tin   |
-| Đinh Phước  |         |          |              |     |             | Công nghệ   |
+| Đinh Phước  |         |          |              |     |             | Công nghệ   |
 | 125           | Nam     | Thạc sĩ  | Toán học     |     |    7480201  |             |
 | Vinh          |         |          |              |     |             | thông tin   |
 | Đinh Quang    |         |          |              |     |             | Quản trị    |
@@ -5367,11 +5367,11 @@ thống
 135  Đinh Thị  Nữ     Thạc sĩ  Quản trị        7340101  Quản trị
 11
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Thanh Mai  |     |     | kinh doanh  |     |     | kinh doanh  |
@@ -5448,11 +5448,11 @@ chúng
 153  Đỗ Khánh  Nam     Đại học  Giáo dục        7480201  Công nghệ
 12
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Hòa     |        |          | Thể chất  |     |             | thông tin  |
@@ -5531,11 +5531,11 @@ Huyền
 173  Đỗ Thị Thu  Nữ     Thạc sĩ  Ngôn ngữ        7220201  Ngôn ngữ
 13
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 |             |        |          | Anh         |     |             | Anh        |
@@ -5584,11 +5584,11 @@ phương tiện
 | 184              | Nữ      | Thạc sĩ  |               |     |    7480201  |             |
 | Ngọc Anh         |         |          | Anh           |     |             | thông tin   |
 Công nghệ
-185  Đỗ Trí Tuấn  Nam     Thạc sĩ  Kiến trúc        7480201
+185  Đỗ Trí Tuấn  Nam     Thạc sĩ  Kiến trúc        7480201
 thông tin
 |                   |         |          | Giáo dục  |     |             | Công nghệ   |
 | ----------------- | ------- | -------- | --------- | --- | ----------- | ----------- |
-| 186  Đỗ Văn Phú  | Nam     | Thạc sĩ  |           |     |    7480201  |             |
+| 186  Đỗ Văn Phú  | Nam     | Thạc sĩ  |           |     |    7480201  |             |
 |                   |         |          | học       |     |             | thông tin   |
 | Đỗ Văn            |         |          | Toán ứng  |     |             | Công nghệ   |
 | 187               | Nam     | Tiến sĩ  |           |     |    7480201  |             |
@@ -5616,11 +5616,11 @@ Biểu diễn
 truyền
 14
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 thống
@@ -5706,17 +5706,17 @@ hóa học
 203  Dư Tiểu  Nam     Thạc sĩ  Quản trị        7340101  Quản trị
 15
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Dương    |         |          | kinh doanh  |     |             | kinh doanh  |
 | -------- | ------- | -------- | ----------- | --- | ----------- | ----------- |
 | Dubuc    |         |          |             |     |             | Công nghệ   |
-| 204      | Nam     | Đại học  | Kiến trúc  |     |    7480201  |             |
+| 204      | Nam     | Đại học  | Kiến trúc  |     |    7480201  |             |
 | Sylvain  |         |          |             |     |             | thông tin   |
 Duncan
 Công nghệ
@@ -5787,11 +5787,11 @@ thống
 221  Dương Thị  Nữ     Thạc sĩ  Ngôn ngữ        7220201  Ngôn ngữ
 16
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Thục Oanh    |        |          | Anh         |     |             | Anh         |
@@ -5804,8 +5804,8 @@ ngành  ngành
 | Thúy         |        |          | kinh doanh  |     |             | kinh doanh  |
 | Dương Thị    |        |          |             |     |             | An toàn     |
 | 223          | Nữ     | Thạc sĩ  | Triết học   |     |    7480202  |             |
-| Thúy Thơ    |        |          |             |     |             | thông tin   |
-| Dương Thúy  |        |          | Chính trị   |     |             | Quản trị    |
+| Thúy Thơ    |        |          |             |     |             | thông tin   |
+| Dương Thúy  |        |          | Chính trị   |     |             | Quản trị    |
 | 224          | Nữ     | Tiến sĩ  |             |     |    7340101  |             |
 | Hằng         |        |          | học         |     |             | kinh doanh  |
 Dương
@@ -5871,11 +5871,11 @@ Quản trị
 triển doanh
 17
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 nghiệp
@@ -5946,11 +5946,11 @@ liệu
 |                  |         |          | máy tính  |     |             | phần mềm   |
 18
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Hồ Hoàn           |         |          | Khoa học     |     |             | Công nghệ   |
@@ -5981,7 +5981,7 @@ Phương
 | Ngọc Hà          |         |          | nội thất     |     |             | họa          |
 | Hồ Nguyễn        |         |          | Khoa học     |     |             | Công nghệ    |
 | 262              | Nam     | Thạc sĩ  |              |     |    7480201  |              |
-| Phú Bảo         |         |          | máy tính     |     |             | thông tin    |
+| Phú Bảo         |         |          | máy tính     |     |             | thông tin    |
 |                  |         |          | Quản trị     |     |             | Quản trị     |
 | 263  Hồ Sỹ Minh  | Nam     | Thạc sĩ  |              |     |    7340101  |              |
 |                  |         |          | khách sạn    |     |             | kinh doanh   |
@@ -6016,22 +6016,22 @@ nghiệp
 | ------------------ | ------- | -------- | ----------- | --- | ----------- | ----------- |
 | 270                | Nữ      | Thạc sĩ  |             |     |    7340101  |             |
 | Nguyên             |         |          | kinh doanh  |     |             | kinh doanh  |
-| Hồ Thị Thúy       |         |          | Ngôn ngữ    |     |             | Công nghệ   |
+| Hồ Thị Thúy       |         |          | Ngôn ngữ    |     |             | Công nghệ   |
 | 271                | Nữ      | Thạc sĩ  |             |     |    7480201  |             |
 | Hằng               |         |          | Anh         |     |             | thông tin   |
 | Hồ Trà             |         |          | Quản trị    |     |             | Quản trị    |
 | 272                | Nam     | Thạc sĩ  |             |     |    7340101  |             |
 | Giang              |         |          | kinh doanh  |     |             | kinh doanh  |
 |                    |         |          | Ngôn ngữ    |     |             | Ngôn ngữ    |
-| 273  Hồ Trúc Chi  | Nữ      | Thạc sĩ  |             |     |    7220201  |             |
+| 273  Hồ Trúc Chi  | Nữ      | Thạc sĩ  |             |     |    7220201  |             |
 |                    |         |          | Anh         |     |             | Anh         |
 19
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Hồ Trung   |         |          | Ngôn ngữ    |     |             | Quản trị    |
@@ -6067,7 +6067,7 @@ hóa
 | 280             | Nam     | Thạc sĩ  |             |     |    7480201  |              |
 | Quang           |         |          | thông tin   |     |             | thông tin    |
 | Hoàng Hà        |         |          |             |     |             | Thiết kế đồ  |
-| 281             | Nữ      | Thạc sĩ  | Kiến trúc  |     |    7210403  |              |
+| 281             | Nữ      | Thạc sĩ  | Kiến trúc  |     |    7210403  |              |
 | Nhi             |         |          |             |     |             | họa          |
 | Hoàng Hồng      |         |          | Ngôn ngữ    |     |             | Công nghệ    |
 | 282             | Nữ      | Thạc sĩ  |             |     |    7480201  |              |
@@ -6099,17 +6099,17 @@ thống
 | Hoàng Ngọc  |        |          | Quản trị    |     |             | Quản trị    |
 | ----------- | ------ | -------- | ----------- | --- | ----------- | ----------- |
 | 290         | Nữ     | Thạc sĩ  |             |     |    7340101  |             |
-| Cẩm Tú     |        |          | kinh doanh  |     |             | kinh doanh  |
+| Cẩm Tú     |        |          | kinh doanh  |     |             | kinh doanh  |
 | Hoàng Ngọc  |        |          | Quản trị    |     |             | Quản trị    |
 | 291         | Nữ     | Tiến sĩ  |             |     |    8340101  |             |
 | Minh        |        |          | kinh doanh  |     |             | kinh doanh  |
 20
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Hoàng Ngọc  |         |          | Quản trị    |     |             | Quản trị    |
@@ -6150,7 +6150,7 @@ thống
 | Thanh Tùng       |         |          | kinh doanh    |     |             | kinh doanh   |
 | Hoàng Thị        |         |          | Thiết kế đồ   |     |             | Công nghệ    |
 | 298              | Nữ      | Thạc sĩ  |               |     |    7480201  |              |
-| Cúc Phương      |         |          | họa           |     |             | thông tin    |
+| Cúc Phương      |         |          | họa           |     |             | thông tin    |
 | Hoàng Thị        |         |          | Quản trị      |     |             | Quản trị     |
 | 299              | Nữ      | Thạc sĩ  |               |     |    7340101  |              |
 | Lan Anh          |         |          | kinh doanh    |     |             | kinh doanh   |
@@ -6162,10 +6162,10 @@ thống
 | Nga              |         |          | kinh doanh    |     |             | kinh doanh   |
 | Hoàng Thị        |         |          |               |     |             | Quản trị     |
 | 302              | Nữ      | Tiến sĩ  | Kinh tế học   |     |    8340101  |              |
-| Thúy Ngọc       |         |          |               |     |             | kinh doanh   |
+| Thúy Ngọc       |         |          |               |     |             | kinh doanh   |
 | Hoàng Thị        |         |          |               |     |             | Quản trị     |
 |                  | Nữ      | Tiến sĩ  | Kinh tế học   |     |    7340101  |              |
-| Thúy Ngọc       |         |          |               |     |             | kinh doanh   |
+| Thúy Ngọc       |         |          |               |     |             | kinh doanh   |
 | Hoàng Thị        |         |          | Ngôn ngữ      |     |             | Công nghệ    |
 | 303              | Nữ      | Thạc sĩ  |               |     |    7480201  |              |
 | Tố Loan          |         |          | học           |     |             | thông tin    |
@@ -6174,7 +6174,7 @@ thống
 | Phương           |         |          | nhân lực      |     |             | thông tin    |
 | Hoàng Trần       |         |          | Báo chí       |     |             | Thiết kế đồ  |
 | 305              | Nữ      | Thạc sĩ  |               |     |    7210403  |              |
-| Tú Phương       |         |          | học           |     |             | họa          |
+| Tú Phương       |         |          | học           |     |             | họa          |
 | Hoàng Tuấn       |         |          | An toàn       |     |             | Công nghệ    |
 | 306              | Nam     | Thạc sĩ  |               |     |    7480201  |              |
 | Anh              |         |          | thông tin     |     |             | thông tin    |
@@ -6184,11 +6184,11 @@ thống
 308  Hoàng Văn  Nam     Tiến sĩ  Kinh tế học        8340101  Quản trị
 21
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Liêm        |         |          |              |     |             | kinh doanh  |
@@ -6231,7 +6231,7 @@ Quản lý
 | Huỳnh Công  |         |          | tổng hợp  |     |             | Công nghệ  |
 | ----------- | ------- | -------- | --------- | --- | ----------- | ---------- |
 | 316         | Nam     | Thạc sĩ  |           |     |    7480201  |            |
-| Tước      |         |          | vùng ven  |     |             | thông tin  |
+| Tước      |         |          | vùng ven  |     |             | thông tin  |
 biển
 | Huỳnh Công  |         |          | Kỹ thuật    |     |             | Công nghệ   |
 | ----------- | ------- | -------- | ----------- | --- | ----------- | ----------- |
@@ -6263,11 +6263,11 @@ biển
 | Tâm         |         |          | Anh         |     |             | thông tin   |
 22
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 Truyền
@@ -6309,7 +6309,7 @@ chúng
 | Thúy Di     |         |          |             |     |             | kinh doanh  |
 | Huỳnh Thị   |         |          | Ngôn ngữ    |     |             | Công nghệ   |
 | 336         | Nữ      | Thạc sĩ  |             |     |    7480201  |             |
-| Trúc Liễu  |         |          | học         |     |             | thông tin   |
+| Trúc Liễu  |         |          | học         |     |             | thông tin   |
 Phương
 | Huỳnh Tiến  |         |          |            |     |             | Công nghệ  |
 | ----------- | ------- | -------- | ---------- | --- | ----------- | ---------- |
@@ -6346,11 +6346,11 @@ Joaquin
 Inigo
 23
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Kevin Indest  |         |          | Ngôn ngữ    |     |             | Công nghệ  |
@@ -6426,11 +6426,11 @@ chiếu
 363  Lại Đức  Nam     Thạc sĩ  Công nghệ        7480201  Công nghệ
 24
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Hùng      |         |          | thông tin    |     |             | thông tin  |
@@ -6508,11 +6508,11 @@ nghiệp
 |                  |         |          | kinh doanh  |     |             | kinh doanh  |
 25
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 |                 |         |          | Hệ thống    |     |             | Công nghệ   |
@@ -6585,16 +6585,16 @@ Quốc
 |    Lê Hải Sơn     | Nam     | Tiến sĩ  |               |     |    7480201  |             |
 |                   |         |          | máy tính      |     |             | thông tin   |
 | Lê Hải Việt       |         |          |               |     |             | Công nghệ   |
-| 397               | Nam     | Thạc sĩ  | Kiến trúc    |     |    7480201  |             |
+| 397               | Nam     | Thạc sĩ  | Kiến trúc    |     |    7480201  |             |
 | Hoàng             |         |          |               |     |             | thông tin   |
 398  Lê Hạnh  Nữ     Thạc sĩ  Quản trị        7480201  Công nghệ
 26
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Thảo             |         |          | kinh doanh  |     |             | thông tin   |
@@ -6672,11 +6672,11 @@ tế
 | ------- | --- | --- | --- | --- | --- | ------------ |
 27
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Lê Ngọc    |         |          | Quản trị    |     |             | Quản trị    |
@@ -6711,10 +6711,10 @@ Phương
 | Lê Phúc     |         |          | Quản trị    |     |             | Quản trị    |
 | 425         | Nữ      | Thạc sĩ  |             |     |    7340101  |             |
 | Ngân        |         |          | kinh doanh  |     |             | kinh doanh  |
-| Lê Phước  |         |          | Kỹ thuật    |     |             | Kỹ thuật    |
+| Lê Phước  |         |          | Kỹ thuật    |     |             | Kỹ thuật    |
 | 426         | Nam     | Thạc sĩ  |             |     |    7480103  |             |
 | Linh        |         |          | xây dựng    |     |             | phần mềm    |
-| Lê Phước  |         |          | Công nghệ   |     |             | Công nghệ   |
+| Lê Phước  |         |          | Công nghệ   |     |             | Công nghệ   |
 | 427         | Nam     | Đại học  |             |     |    7480201  |             |
 | Trung       |         |          | thông tin   |     |             | thông tin   |
 Kinh
@@ -6755,11 +6755,11 @@ hóa học
 435  Lê Tấn Cần  Nam     Tiến sĩ  Quản trị        7340101  Quản trị
 28
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 |                |         |          | kinh doanh  |     |             | kinh doanh  |
@@ -6839,11 +6839,11 @@ chúng
 | Thoa         |        |          | kinh doanh    |     |             | kinh doanh  |
 29
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 Ngôn ngữ
@@ -6919,11 +6919,11 @@ Kỹ thuật
 biển
 30
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Lê Thị Ngọc  |        |          | Nhân       |     |             | Ngôn ngữ  |
@@ -6992,11 +6992,11 @@ Hệ thống
 | 482         | Nữ     | Thạc sĩ  | thông tin  |     |    7480201  |            |
 | Lan         |        |          |            |     |             | thông tin  |
 quản lý
-| Lê Thị Thúy  |        |          | Ngôn ngữ  |     |             | Ngôn ngữ   |
+| Lê Thị Thúy  |        |          | Ngôn ngữ  |     |             | Ngôn ngữ   |
 | ------------- | ------ | -------- | --------- | --- | ----------- | ---------- |
 | 483           | Nữ     | Thạc sĩ  |           |     |    7220201  |            |
 | Hằng          |        |          | Anh       |     |             | Anh        |
-| Lê Thị Trúc  |        |          | Ngôn ngữ  |     |             | Công nghệ  |
+| Lê Thị Trúc  |        |          | Ngôn ngữ  |     |             | Công nghệ  |
 | 484           | Nữ     | Thạc sĩ  |           |     |    7480201  |            |
 | Mai           |        |          | Anh       |     |             | thông tin  |
 | Lê Thị        |        |          | Ngôn ngữ  |     |             | Công nghệ  |
@@ -7004,11 +7004,11 @@ quản lý
 | Tuyết Nhi     |        |          | Anh       |     |             | thông tin  |
 31
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 |                  |         |          | Quản trị      |     |             | Quản trị    |
@@ -7029,7 +7029,7 @@ ngành  ngành
 | Hằng             |         |          | chính         |     |             | kinh doanh  |
 | Lê Thu           |         |          | Quản lý       |     |             | Công nghệ   |
 | 491              | Nữ      | Đại học  |               |     |    7480201  |             |
-| Phương Anh       |         |          | nhà nước    |     |             | thông tin   |
+| Phương Anh       |         |          | nhà nước    |     |             | thông tin   |
 | Lê Thùy          |         |          | Ngôn ngữ      |     |             | Công nghệ   |
 | 492              | Nữ      | Thạc sĩ  |               |     |    7480201  |             |
 | Trang            |         |          | Anh           |     |             | thông tin   |
@@ -7072,7 +7072,7 @@ Kỹ thuật
 hóa
 | Lê Văn  |         |          |             |     |             | Thiết kế đồ  |
 | ------- | ------- | -------- | ----------- | --- | ----------- | ------------ |
-| 501     | Nam     | Thạc sĩ  | Kiến trúc  |     |    7210403  |              |
+| 501     | Nam     | Thạc sĩ  | Kiến trúc  |     |    7210403  |              |
 | Hoàn    |         |          |             |     |             | họa          |
 | Lê Văn  |         |          | Ngôn ngữ    |     |             | Công nghệ    |
 | 502     | Nam     | Đại học  |             |     |    7480201  |              |
@@ -7086,11 +7086,11 @@ toán học
 504  Lê Văn  Nam     Thạc sĩ  Quản trị        7340101  Quản trị
 32
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Nhân             |         |          | kinh doanh    |     |             | kinh doanh  |
@@ -7157,18 +7157,18 @@ Lương
 | ----------- | ------- | -------- | ---------- | --- | ----------- | ---------- |
 | 522  Hoàng  | Nam     | Thạc sĩ  |            |     |    7480201  |            |
 |             |         |          | thông tin  |     |             | thông tin  |
-Hướng
+Hướng
 | Lương      |         |          | Quản trị    |     |             | Quản trị    |
 | ---------- | ------- | -------- | ----------- | --- | ----------- | ----------- |
 | 523        | Nam     | Thạc sĩ  |             |     |    7340101  |             |
 | Hoàng Nam  |         |          | kinh doanh  |     |             | kinh doanh  |
 33
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Lương Mai   |         |          | Quản trị     |     |             | Quản trị    |
@@ -7242,11 +7242,11 @@ Như
 544  Lý Ngọc  Nữ     Thạc sĩ  Quản trị        7340101  Quản trị
 34
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Thiên Kim         |         |          | kinh doanh    |     |             | kinh doanh  |
@@ -7320,11 +7320,11 @@ Quốc
 | Vinh      |         |          | kinh doanh  |     |             | kinh doanh  |
 35
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 Maria
@@ -7398,7 +7398,7 @@ phương tiện
 | 580        | Nam     | Thạc sĩ  | Triết học    |     |    7480201  |              |
 | Duy        |         |          |              |     |             | thông tin    |
 | Ngô Minh   |         |          |              |     |             | Thiết kế đồ  |
-| 581        | Nam     | Thạc sĩ  | Kiến trúc   |     |    7210403  |              |
+| 581        | Nam     | Thạc sĩ  | Kiến trúc   |     |    7210403  |              |
 | Thắng      |         |          |              |     |             | họa          |
 | Ngô Ngọc   |         |          | Ngôn ngữ     |     |             | Công nghệ    |
 | 582        | Nam     | Thạc sĩ  |              |     |    7480201  |              |
@@ -7408,11 +7408,11 @@ phương tiện
 | Huy        |         |          |              |     |             | kinh doanh   |
 36
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Ngô Quang  |         |          |               |     |             | Quản trị    |
@@ -7487,11 +7487,11 @@ hóa
    Nguyễn Ánh  Nữ     Tiến sĩ  Quản trị        8340101  Quản trị
 37
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Lợi         |         |          | kinh doanh  |     |             | kinh doanh  |
@@ -7572,11 +7572,11 @@ nghệ
 | Chính   |         |          | khoa học  |     |             | kinh doanh  |
 38
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Quang  |     |     | và công  |     |     |     |
@@ -7601,7 +7601,7 @@ hóa học
 | Cường      |         |          | Nhật       |     |             | thông tin  |
 Truyền
 Nguyễn Đắc
-| 619  | Nam     | Thạc sĩ  | Kiến trúc  |     |    7320104  | thông đa  |
+| 619  | Nam     | Thạc sĩ  | Kiến trúc  |     |    7320104  | thông đa  |
 | ---- | ------- | -------- | ----------- | --- | ----------- | --------- |
 Đạt
 phương tiện
@@ -7614,7 +7614,7 @@ thị
 | Nguyễn        |         |          | Mỹ thuật    |     |             | Thiết kế đồ  |
 | ------------- | ------- | -------- | ----------- | --- | ----------- | ------------ |
 | 621           | Nam     | Thạc sĩ  |             |     |    7210403  |              |
-| Đăng Lướng  |         |          | tạo hình    |     |             | họa          |
+| Đăng Lướng  |         |          | tạo hình    |     |             | họa          |
 | Nguyễn        |         |          | Quản trị    |     |             | Quản trị     |
 | 622           | Nam     | Thạc sĩ  |             |     |    7340101  |              |
 | Đăng Nghĩa    |         |          | kinh doanh  |     |             | kinh doanh   |
@@ -7662,11 +7662,11 @@ thông tin
 | ----- | --- | --- | -------- | --- | --- | --- |
 39
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 Kinh
@@ -7693,7 +7693,7 @@ thống
 | Nam         |         |          | Thể chất  |     |             | thông tin  |
 | Nguyễn Đức  |         |          |           |     |             | Công nghệ  |
 | 635         | Nam     | Thạc sĩ  | Kế toán   |     |    7480201  |            |
-| Phước     |         |          |           |     |             | thông tin  |
+| Phước     |         |          |           |     |             | thông tin  |
 Lý luận và
 | Nguyễn Đức  |         |          |             |     |             | Thiết kế đồ  |
 | ----------- | ------- | -------- | ----------- | --- | ----------- | ------------ |
@@ -7750,11 +7750,11 @@ Kinh
 tế
 40
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Nguyễn Duy  |         |          | Ngôn ngữ    |     |             | Công nghệ   |
@@ -7831,11 +7831,11 @@ thống
 | Hạnh An     |         |          | Anh         |     |             | thông tin   |
 41
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 Nguyễn
@@ -7865,7 +7865,7 @@ Nguyễn
 Luân
 | Nguyễn     |         |          |             |     |             | Công nghệ  |
 | ---------- | ------- | -------- | ----------- | --- | ----------- | ---------- |
-| 669        | Nam     | Thạc sĩ  | Kiến trúc  |     |    7480201  |            |
+| 669        | Nam     | Thạc sĩ  | Kiến trúc  |     |    7480201  |            |
 | Hoài Nam   |         |          |             |     |             | thông tin  |
 | Nguyễn     |         |          | Giáo dục    |     |             | Công nghệ  |
 | 670        | Nam     | Thạc sĩ  |             |     |    7480201  |            |
@@ -7921,11 +7921,11 @@ thông tin
 Phương Linh
 42
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 Nguyễn
@@ -8012,11 +8012,11 @@ họa
 | Hùng Dũng   |         |          | thông tin  |     |             | thông tin  |
 43
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 Kinh
@@ -8027,7 +8027,7 @@ Kinh
 thương mại
 | Nguyễn Hữu  |         |          |             |     |             | Công nghệ   |
 | ----------- | ------- | -------- | ----------- | --- | ----------- | ----------- |
-| 695         | Nam     | Thạc sĩ  | Kiến trúc  |     |    7480201  |             |
+| 695         | Nam     | Thạc sĩ  | Kiến trúc  |     |    7480201  |             |
 | Hiệp        |         |          |             |     |             | thông tin   |
 | Nguyễn Hữu  |         |          | Quản trị    |     |             | Quản trị    |
 | 696         | Nam     | Thạc sĩ  |             |     |    7340101  |             |
@@ -8099,11 +8099,11 @@ Tâm
 | Khắc Hùng   |         |           | quản lý      |     |             | kinh doanh  |
 44
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Nguyễn     |         | Tiến sĩ   |             |     |             | An toàn    |
@@ -8185,11 +8185,11 @@ Vương
 | Hoa         |         |          | học       |     |             | thông đa   |
 45
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 phương tiện
@@ -8272,11 +8272,11 @@ Nguyễn
 Trường
 46
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 Biểu diễn
@@ -8365,11 +8365,11 @@ Trâm
 | Ngọc Kim   |         |          | chính         |     |             | kinh doanh  |
 47
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 Chi
@@ -8439,22 +8439,22 @@ tử
 | Nguyễn Phi   |         |          | Khoa học   |     |             | Quản trị    |
 |              | Nam     | Tiến sĩ  |            |     |    8340101  |             |
 | Hùng         |         |          | quản lý    |     |             | kinh doanh  |
-| Nguyễn Phú  |         |          | Giáo dục   |     |             | Công nghệ   |
+| Nguyễn Phú  |         |          | Giáo dục   |     |             | Công nghệ   |
 | 774          | Nam     | Thạc sĩ  |            |     |    7480201  |             |
 | Cường        |         |          | học        |     |             | thông tin   |
-| Nguyễn Phú  |         |          |            |     |             | Công nghệ   |
+| Nguyễn Phú  |         |          |            |     |             | Công nghệ   |
 | 775          | Nam     | Thạc sĩ  | Marketing  |     |    7480201  |             |
 | Quý          |         |          |            |     |             | thông tin   |
 | Nguyễn       |         |          | Ngôn ngữ   |     |             | Công nghệ   |
 | 776          | Nam     | Thạc sĩ  |            |     |    7480201  |             |
-| Phúc Thịnh  |         |          | Anh        |     |             | thông tin   |
+| Phúc Thịnh  |         |          | Anh        |     |             | thông tin   |
 48
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Nguyễn  |     |     | Kinh  |     |     |     |
@@ -8468,13 +8468,13 @@ thông tin
 Nguyễn
 |                  |        |          | Ngôn ngữ  |     |             | Ngôn ngữ  |
 | ---------------- | ------ | -------- | --------- | --- | ----------- | --------- |
-| 778  Phước Ái  | Nữ     | Thạc sĩ  |           |     |    7220201  |           |
+| 778  Phước Ái  | Nữ     | Thạc sĩ  |           |     |    7220201  |           |
 |                  |        |          | Anh       |     |             | Anh       |
 Phương
 | Nguyễn       |         |          |            |     |             | Công nghệ  |
 | ------------ | ------- | -------- | ---------- | --- | ----------- | ---------- |
 | 779          | Nam     | Tiến sĩ  | Triết học  |     |    7480201  |            |
-| Phước Tài  |         |          |            |     |             | thông tin  |
+| Phước Tài  |         |          |            |     |             | thông tin  |
 | Nguyễn       |         |          | Khoa học   |     |             | Công nghệ  |
 | 780          | Nữ      | Tiến sĩ  |            |     |    7480201  |            |
 | Phương Anh   |         |          | máy tính   |     |             | thông tin  |
@@ -8522,15 +8522,15 @@ Nguyễn
 |              |        |          | Văn học       |     |             | Công nghệ  |
 | ------------ | ------ | -------- | ------------- | --- | ----------- | ---------- |
 | 788  Phương  | Nữ     | Thạc sĩ  |               |     |    7480201  |            |
-|              |        |          | nước ngoài  |     |             | thông tin  |
+|              |        |          | nước ngoài  |     |             | thông tin  |
 Thủy
 | Nguyễn      |         |          |              |     |             | Quản trị    |
 | ----------- | ------- | -------- | ------------ | --- | ----------- | ----------- |
 | 789         | Nữ      | Thạc sĩ  | Marketing    |     |    7340101  |             |
-| Phương Tú  |         |          |              |     |             | kinh doanh  |
+| Phương Tú  |         |          |              |     |             | kinh doanh  |
 | Nguyễn      |         |          | Giáo dục     |     |             | Công nghệ   |
 | 790         | Nam     | Thạc sĩ  |              |     |    7480201  |             |
-| Phương Tú  |         |          | học          |     |             | thông tin   |
+| Phương Tú  |         |          | học          |     |             | thông tin   |
 | Nguyễn      |         |          | Khoa học     |     |             | Công nghệ   |
 | 791         | Nam     | Thạc sĩ  |              |     |    7480201  |             |
 | Quang Duy   |         |          | máy tính     |     |             | thông tin   |
@@ -8545,11 +8545,11 @@ Thủy
 | Quang       |         |          | tích         |     |             | thông tin   |
 49
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 Trưởng
@@ -8632,11 +8632,11 @@ nghệ
 811  Nguyễn Tấn  Nam     Đại học  Y học cổ        7480201  Công nghệ
 50
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Thành  |     |     | truyền  |     |     | thông tin  |
@@ -8728,11 +8728,11 @@ Phương
 825  Nguyễn  Nam     Thạc sĩ  Hệ thống        7480201  Công nghệ
 51
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Thanh Tài   |         |          | thông tin   |     |             | thông tin   |
@@ -8809,11 +8809,11 @@ thống
 843  Nguyễn Thị  Nữ     Thạc sĩ  Tài chính -        7480201  Công nghệ
 52
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Bích  |     |     | Ngân hàng  |     |     | thông tin  |
@@ -8864,7 +8864,7 @@ toán học
 | 856         | Nữ     | Thạc sĩ  |             |     |    7480201  |              |
 | Hà          |        |          | Anh         |     |             | thông tin    |
 | Nguyễn Thị  |        |          |             |     |             | Thiết kế đồ  |
-| 857         | Nữ     | Thạc sĩ  | Kiến trúc  |     |    7210403  |              |
+| 857         | Nữ     | Thạc sĩ  | Kiến trúc  |     |    7210403  |              |
 | Hà Dung     |        |          |             |     |             | họa          |
 | Nguyễn Thị  |        |          | Công nghệ   |     |             | Công nghệ    |
 | 858         | Nữ     | Thạc sĩ  |             |     |    7480201  |              |
@@ -8886,11 +8886,11 @@ toán học
 | Hạnh        |        |          | Việt Nam    |     |             | thông tin    |
 53
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Nguyễn Thị  |        |          | Quản trị     |     |             | Quản trị    |
@@ -8966,11 +8966,11 @@ Quốc
 | Hương Lý    |        |          | Anh         |     |             | thông tin    |
 54
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Nguyễn Thị  |        |          | Ngôn ngữ  |     |             | Công nghệ  |
@@ -9048,11 +9048,11 @@ hành
 900  Nguyễn Thị  Nữ     Tiến sĩ  Quản trị        7340101  Quản trị
 55
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Lựu         |        |          | kinh doanh  |     |             | kinh doanh  |
@@ -9130,11 +9130,11 @@ Quốc
 | Nam         |        |          | máy tính     |     |             | thông tin  |
 56
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 Kinh
@@ -9210,11 +9210,11 @@ thuật
 | Phương      |        |          | chính         |     |             | thông tin   |
 57
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 Loan
@@ -9296,11 +9296,11 @@ Huyền
 | Thanh Tâm   |        |          | quản lý     |     |             | kinh doanh  |
 58
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Nguyễn Thị  |        |          | Ngôn ngữ    |     |             | Công nghệ  |
@@ -9325,7 +9325,7 @@ Hương
 | Thiều Hoa   |        |          | Anh          |     |             | thông tin   |
 | Nguyễn Thị  |        |          | Quản trị     |     |             | Quản trị    |
 | 961         | Nữ     | Thạc sĩ  |              |     |    7340101  |             |
-| Thới      |        |          | kinh doanh   |     |             | kinh doanh  |
+| Thới      |        |          | kinh doanh   |     |             | kinh doanh  |
 | Nguyễn Thị  |        |          | Ngôn ngữ     |     |             | Công nghệ   |
 | 962         | Nữ     | Thạc sĩ  |              |     |    7480201  |             |
 | Thu Giang   |        |          | Anh          |     |             | thông tin   |
@@ -9379,11 +9379,11 @@ hóa học
 975  Nguyễn Thị  Nữ     Thạc sĩ  Toán học        7480201  Công nghệ
 59
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Thúy        |        |          |             |     |             | thông tin   |
@@ -9399,7 +9399,7 @@ ngành  ngành
 | Thùy Hiền   |        |          | thông tin   |     |             | kinh doanh  |
 | Nguyễn Thị  |        |          |             |     |             | Công nghệ   |
 | 979         | Nữ     | Thạc sĩ  | Toán học    |     |    7480201  |             |
-| Thúy Hiếu  |        |          |             |     |             | thông tin   |
+| Thúy Hiếu  |        |          |             |     |             | thông tin   |
 | Nguyễn Thị  |        |          | Khoa học    |     |             | Công nghệ   |
 | 980         | Nữ     | Thạc sĩ  |             |     |    7480201  |             |
 | Thúy Hoài   |        |          | máy tính    |     |             | thông tin   |
@@ -9459,11 +9459,11 @@ Phượng Linh
 | Vi Hằng     |        |          | tế          |     |             | kinh doanh  |
 60
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Nguyễn Thị  |         |          | Quản trị    |     |             | Quản trị    |
@@ -9519,7 +9519,7 @@ phương tiện
 | Thùy Dương   |        |          | giáo dục    |     |             | thông tin   |
 | Nguyễn       |        |          | Thông tin   |     |             | Công nghệ   |
 | 1007         | Nữ     | Thạc sĩ  |             |     |    7480201  |             |
-| Thúy Hường  |        |          | học         |     |             | thông tin   |
+| Thúy Hường  |        |          | học         |     |             | thông tin   |
 | Nguyễn       |        |          | Ngôn ngữ    |     |             | Công nghệ   |
 | 1008         | Nữ     | Thạc sĩ  |             |     |    7480201  |             |
 | Thủy Hương   |        |          | Anh         |     |             | thông tin   |
@@ -9544,11 +9544,11 @@ Duyên
 | Thúy    |        |          | chính trị  |     |             | thông tin  |
 61
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 Phương
@@ -9560,7 +9560,7 @@ Nguyễn
 Trâm
 | Nguyễn Tiến  |         |          |             |     |             | Thiết kế đồ  |
 | ------------ | ------- | -------- | ----------- | --- | ----------- | ------------ |
-| 1014         | Nam     | Thạc sĩ  | Kiến trúc  |     |    7210403  |              |
+| 1014         | Nam     | Thạc sĩ  | Kiến trúc  |     |    7210403  |              |
 | Dũng         |         |          |             |     |             | họa          |
 | Nguyễn Tiến  |         |          |             |     |             | Công nghệ    |
 | 1015         | Nam     | Thạc sĩ  | Toán học    |     |    7480201  |              |
@@ -9590,7 +9590,7 @@ Thư
 Nguyễn
 |                     |         |          | Quản trị tài  |     |             | Công nghệ  |
 | ------------------- | ------- | -------- | ------------- | --- | ----------- | ---------- |
-| 1021  Trần Phước  | Nam     | Thạc sĩ  |               |     |    7480201  |            |
+| 1021  Trần Phước  | Nam     | Thạc sĩ  |               |     |    7480201  |            |
 |                     |         |          | chính         |     |             | thông tin  |
 Bảo
 Nguyễn
@@ -9631,11 +9631,11 @@ Nguyễn
 1031  Nguyễn  Nam     Thạc sĩ  Công nghệ        7480201  Công nghệ
 62
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Trung Kiên   |         |          | thông tin   |     |             | thông tin  |
@@ -9659,7 +9659,7 @@ thống
 | ----------- | ------- | -------- | ------------ | --- | ----------- | ----------- |
 | 1036        | Nam     | Thạc sĩ  |              |     |    7480201  |             |
 | Trường Sơn  |         |          | kinh doanh   |     |             | thông tin   |
-| Nguyễn Tú  |         |          |              |     |             | Quản trị    |
+| Nguyễn Tú  |         |          |              |     |             | Quản trị    |
 | 1037        | Nữ      | Thạc sĩ  | Marketing    |     |    7340101  |             |
 | Thảo        |         |          |              |     |             | kinh doanh  |
 | Nguyễn      |         |          | Công nghệ    |     |             | Công nghệ   |
@@ -9710,11 +9710,11 @@ hành
 | Cường       |         |          | điện         |     |             | thông tin   |
 63
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Nguyễn Văn  |         |          | Công nghệ   |     |             | Công nghệ   |
@@ -9788,11 +9788,11 @@ thống
 | Vịnh        |         |          | thông tin   |     |             | thông tin  |
 64
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Nguyễn Văn   |         |          | Nghệ thuật  |     |             | Công nghệ  |
@@ -9877,11 +9877,11 @@ Phó
 sư
 65
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Nguyễn    |         |          | Ngôn ngữ    |     |             | Công nghệ   |
@@ -9966,11 +9966,11 @@ Ngôn ngữ
 Quốc
 66
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Phạm Công  |         |          | Giáo dục      |     |             | Ngôn ngữ    |
@@ -10009,7 +10009,7 @@ Khoáng vật
 hóa học
 | Phạm Hà  |         |          |             |     |             | Công nghệ  |
 | -------- | ------- | -------- | ----------- | --- | ----------- | ---------- |
-| 1109     | Nam     | Thạc sĩ  | Kiến trúc  |     |    7480201  |            |
+| 1109     | Nam     | Thạc sĩ  | Kiến trúc  |     |    7480201  |            |
 | Trung    |         |          |             |     |             | thông tin  |
 Phạm Hồ
 |              |         |          | Kỹ thuật    |     |             | Công nghệ  |
@@ -10026,7 +10026,7 @@ Nguyên
 | Ly          |         |          | Anh         |     |             | thông tin  |
 | Phạm Hoàng  |         |          | Giáo dục    |     |             | Kỹ thuật   |
 | 1113        | Nam     | Thạc sĩ  |             |     |    7480103  |            |
-| Phước     |         |          | học         |     |             | phần mềm   |
+| Phước     |         |          | học         |     |             | phần mềm   |
 | Phạm Hồng   |         |          | Ngôn ngữ    |     |             | Công nghệ  |
 | 1114        | Nữ      | Tiến sĩ  |             |     |    7480201  |            |
 | Vân         |         |          | học         |     |             | thông tin  |
@@ -10053,11 +10053,11 @@ hóa
 | Tài       |         |          |              |     |             | kinh doanh  |
 67
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Phạm Hữu    |         |          | Mỹ thuật     |     |             | Công nghệ   |
@@ -10133,11 +10133,11 @@ Anh
 | Sơn         |         |          | thông tin   |     |             | phần mềm    |
 68
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Phạm Thanh  |         |          | Kinh tế      |     |             | Quản trị    |
@@ -10215,11 +10215,11 @@ nghiệp
 | Ngọc Mai  |        |          |            |     |             | kinh doanh  |
 69
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 Truyền
@@ -10296,11 +10296,11 @@ Kỹ thuật
 hóa
 70
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Phạm Tuấn   |         |          | Ngôn ngữ    |     |             | Ngôn ngữ   |
@@ -10378,11 +10378,11 @@ phương tiện
 | Cầu        |         |          | dụng      |     |             | thông tin  |
 71
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Phan Đình  |         |          | Quản trị    |     |             | Công nghệ   |
@@ -10463,11 +10463,11 @@ Kiến Nam
 1205  Phan Thanh  Nữ     Thạc sĩ  Công nghệ        7480201  Công nghệ
 72
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Trà          |        |          | thông tin   |     |             | thông tin   |
@@ -10548,11 +10548,11 @@ Phan Trần
 Trang
 73
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Phan Trịnh         |         |          | Quản trị tài  |     |             | Quản trị    |
@@ -10628,11 +10628,11 @@ vật lý toán
 | Tuyền       |         |          | Việt Nam     |     |             | thông tin   |
 74
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Phương Ngô  |        |          | Quản lý   |     |             | Ngôn ngữ  |
@@ -10712,11 +10712,11 @@ thống
 1258  Thạch Hồng  Nam     Thạc sĩ  Toán học        7480201  Công nghệ
 75
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Sơn  |     |     |     |     |     | thông tin  |
@@ -10797,11 +10797,11 @@ phương tiện
 1276  Tô Thị Kim  Nữ     Thạc sĩ  Ngôn ngữ        7480201  Công nghệ
 76
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Hồng         |        |          | Anh         |     |             | thông tin   |
@@ -10822,7 +10822,7 @@ thống
 | Tôn Thất      |         |          | Đại số và lí  |     |             | Công nghệ    |
 | 1280          | Nam     | Thạc sĩ  |               |     |    7480201  |              |
 | Quốc Tấn      |         |          | thuyết số     |     |             | thông tin    |
-| Tống Phước  |         |          | Khoa học      |     |             | Công nghệ    |
+| Tống Phước  |         |          | Khoa học      |     |             | Công nghệ    |
 | 1281          | Nam     | Thạc sĩ  |               |     |    7480201  |              |
 | Quan          |         |          | máy tính      |     |             | thông tin    |
 | Trần Anh      |         |          | Mỹ thuật      |     |             | Thiết kế đồ  |
@@ -10881,11 +10881,11 @@ Thảo
 1294  Trần Đức  Nam     Tiến sĩ  Quản trị        7340101  Quản trị
 77
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Thanh     |         |          | kinh doanh  |     |             | kinh doanh  |
@@ -10961,11 +10961,11 @@ chúng
 1312  Trần Khánh  Nữ     Tiến sĩ  Tài chính -        8340101  Quản trị
 78
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Trang              |         |          | Ngân hàng    |     |             | kinh doanh   |
@@ -10975,10 +10975,10 @@ ngành  ngành
 | Trang              |         |          | Ngân hàng    |     |             | kinh doanh   |
 | Trần Kim           |         |          | Quản trị     |     |             | Quản trị     |
 | 1311               | Nam     | Tiến sĩ  |              |     |    8340101  |              |
-| Phước            |         |          | kinh doanh   |     |             | kinh doanh   |
+| Phước            |         |          | kinh doanh   |     |             | kinh doanh   |
 | Trần Kim           |         |          | Quản trị     |     |             | Quản trị     |
 |                    | Nam     | Tiến sĩ  |              |     |    7340101  |              |
-| Phước            |         |          | kinh doanh   |     |             | kinh doanh   |
+| Phước            |         |          | kinh doanh   |     |             | kinh doanh   |
 | Trần Kỳ            |         |          |              |     |             | Công nghệ    |
 | 1312               | Nam     | Tiến sĩ  | Kế toán      |     |    7480201  |              |
 | Hân                |         |          |              |     |             | thông tin    |
@@ -11041,11 +11041,11 @@ Truyền
 chúng
 79
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 Truyền
@@ -11133,11 +11133,11 @@ Trần
 Tùng
 80
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 Biểu diễn
@@ -11146,7 +11146,7 @@ Biểu diễn
 | 1342       | Nam     | Đại học  |          |     |    7480201  |            |
 | Tân        |         |          | truyền   |     |             | thông tin  |
 thống
-| Trần Phước  |         |          | Hệ thống     |     |             | Công nghệ   |
+| Trần Phước  |         |          | Hệ thống     |     |             | Công nghệ   |
 | ------------- | ------- | -------- | ------------ | --- | ----------- | ----------- |
 | 1343          | Nam     | Thạc sĩ  |              |     |    7480201  |             |
 | Sinh          |         |          | thông tin    |     |             | thông tin   |
@@ -11211,11 +11211,11 @@ viễn thông
 1360  Trần Thanh  Nữ     Thạc sĩ  Tài chính -        7340101  Quản trị
 81
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Loan        |         |          | Ngân hàng    |     |             | kinh doanh  |
@@ -11270,7 +11270,7 @@ Quản lý tài
 | Trần Thị    |        |          |            |     |             | Công nghệ  |
 | ----------- | ------ | -------- | ---------- | --- | ----------- | ---------- |
 | 1373        | Nữ     | Thạc sĩ  | nguyên và  |     |    7480201  |            |
-| Diễm Phúc  |        |          |            |     |             | thông tin  |
+| Diễm Phúc  |        |          |            |     |             | thông tin  |
 môi trường
 | Trần Thị  |        |          |            |     |             | Quản trị    |
 | --------- | ------ | -------- | ---------- | --- | ----------- | ----------- |
@@ -11291,11 +11291,11 @@ Phượng
 | Hiếu      |        |          | dụng      |     |             | thông tin  |
 82
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 Ngôn ngữ
@@ -11377,11 +11377,11 @@ thông tin
 | Thơ       |        |          | Anh       |     |             | thông tin  |
 83
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Trần Thị  |        |          | Khoa học  |     |             | Công nghệ  |
@@ -11460,11 +11460,11 @@ Dương
 1413  Trần Tuấn  Nam     Thạc sĩ  Quản trị        7480201  Công nghệ
 84
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Cường              |         |          | kinh doanh  |     |             | thông tin   |
@@ -11539,11 +11539,11 @@ tế
    Trịnh Lê  Nam     Tiến sĩ  Quản trị        7340101  Quản trị
 85
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Tân          |         |          | kinh doanh  |     |             | kinh doanh  |
@@ -11620,11 +11620,11 @@ thống
 1448  Trương Đạt  Nam     Thạc sĩ  Kinh tế        7340101  Quản trị
 86
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Anh          |         |          | phát triển  |     |             | kinh doanh  |
@@ -11704,11 +11704,11 @@ Logistics
 1466  Trương Thị  Nữ     Thạc sĩ  Khoa học        7480201  Công nghệ
 87
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Mỹ Ngọc     |        |          | máy tính    |     |             | thông tin   |
@@ -11788,11 +11788,11 @@ thống
 | Anh Uyên           |         |          | Anh           |     |             | thông tin   |
 88
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Võ Duy    |         |          | Quản trị    |     |             | Quản trị    |
@@ -11870,11 +11870,11 @@ hành
 1498  Võ Nguyên  Nam     Thạc sĩ  Giáo dục        7480201  Công nghệ
 89
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Linh              |         |          | học         |     |             | thông tin   |
@@ -11953,11 +11953,11 @@ nghệ
 | Ân          |         |          | kinh doanh   |     |             | kinh doanh  |
 90
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Võ Thu            |         |          | Kinh tế     |     |             | Công nghệ   |
@@ -11974,7 +11974,7 @@ ngành  ngành
 | 1518              | Nam     | Thạc sĩ  |             |     |    7480201  |             |
 | Nam               |         |          | dụng        |     |             | thông tin   |
 |                   |         |          | Hệ thống    |     |             | Công nghệ   |
-| 1519  Vũ Anh Tú  | Nam     | Thạc sĩ  |             |     |    7480201  |             |
+| 1519  Vũ Anh Tú  | Nam     | Thạc sĩ  |             |     |    7480201  |             |
 |                   |         |          | thông tin   |     |             | thông tin   |
 | Vũ Bích           |         |          | Ngôn ngữ    |     |             | Ngôn ngữ    |
 | 1520              | Nữ      | Thạc sĩ  |             |     |    7220209  |             |
@@ -12033,11 +12033,11 @@ tầng
 1531  Vũ Ngọc  Nam     Thạc sĩ  Ngôn ngữ        7480201  Công nghệ
 91
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Cường     |         |          | Anh       |     |             | thông tin  |
@@ -12116,11 +12116,11 @@ thương mại
 | Dương              |        |          | máy tính   |     |             | thông tin   |
 92
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     | tính  danh  | độ      | môn đào  |           |          |            |
 | --- | ----------- | ------- | -------- | --------- | -------- | ---------- |
-|     |             |         |          | Cao đẳng  |          | Đại học  |
-|     | KH          | chuyên  | tạo     |           |          |            |
+|     |             |         |          | Cao đẳng  |          | Đại học  |
+|     | KH          | chuyên  | tạo     |           |          |            |
 |     |             | môn     |          | Mã ngành  | Tên  Mã  | Tên ngành  |
 ngành  ngành
 Quản lý
@@ -12129,7 +12129,7 @@ Quản lý
 | 1549         | Nữ     | Thạc sĩ  | công nghệ  |     |    7480201  |            |
 | Dương        |        |          |            |     |             | thông tin  |
 thông tin
-| Vũ Thị Thúy  |        |          | Ngôn ngữ    |     |             | Công nghệ   |
+| Vũ Thị Thúy  |        |          | Ngôn ngữ    |     |             | Công nghệ   |
 | ------------- | ------ | -------- | ----------- | --- | ----------- | ----------- |
 | 1550          | Nữ     | Thạc sĩ  |             |     |    7480201  |             |
 | Ngân          |        |          | Anh         |     |             | thông tin   |
@@ -12190,15 +12190,15 @@ hành
 |                    |         |          | viễn thông  |     |             | thông tin   |
 | Vũ Xuân            |         |          | Quản trị    |     |             | Quản trị    |
 | 1565               | Nữ      | Thạc sĩ  |             |     |    7340101  |             |
-| Cẩm Tú            |         |          | kinh doanh  |     |             | kinh doanh  |
+| Cẩm Tú            |         |          | kinh doanh  |     |             | kinh doanh  |
 1566  Vương Minh  Nam     Thạc sĩ  Khoa học        7480201  Công nghệ
 93
 
-TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
+TT  Họ và tên  Giới  Chức  Trình  Chuyên  Ngành/trình độ chủ trì giảng dạy và tính CTTS
 |     |     | tính  danh  | độ      | môn đào  |           |           |          |            |
 | --- | --- | ----------- | ------- | -------- | --------- | --------- | -------- | ---------- |
-|     |     |             |         |          |           | Cao đẳng  |          | Đại học  |
-|     |     | KH          | chuyên  | tạo     |           |           |          |            |
+|     |     |             |         |          |           | Cao đẳng  |          | Đại học  |
+|     |     | KH          | chuyên  | tạo     |           |           |          |            |
 |     |     |             | môn     |          | Mã ngành  |           | Tên  Mã  | Tên ngành  |
 ngành  ngành
 | Tuấn       |     |         |          | máy tính     |     |     |             | thông tin   |
@@ -12218,18 +12218,18 @@ tế
 
 3.2. Danh sách giảng viên thỉnh giảng tham gia giảng dạy và tính chỉ tiêu tuyển sinh trình
 độ đại học, trình độ cao đẳng ngành Giáo dục Mầm non.
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  | Chuyên môn đào  |       |     |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  | Chuyên môn đào  |       |     |     |
 | ----- | -------- | --------- | ----- | ------ | --------------- | ----- | --- | --- |
-|       |          | công tác  | danh  | độ     |                 | tạo  |     |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ     |                 | tạo  |     |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên  |     |     |     |     |
 | --- | --- | --- | ----- | ------- | --- | --- | --- | --- |
-|     |     |     | học  | môn     |     |     |     |     |
+|     |     |     | học  | môn     |     |     |     |     |
 Tên
 |     |     |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Công nghệ thông
@@ -12262,18 +12262,18 @@ tin
 | Thảo           |     |     |     |          |               |     | doanh          |     |
 94
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Công nghệ thông
@@ -12282,7 +12282,7 @@ Công nghệ thông
 tin
 Công ty
 Cổ phần
-9  Bùi Hữu Phúc  One     Đại học  Kỹ thuật phần mềm     Kỹ thuật phần mềm
+9  Bùi Hữu Phúc  One     Đại học  Kỹ thuật phần mềm     Kỹ thuật phần mềm
 Mount
 Group
 Công nghệ thông
@@ -12327,18 +12327,18 @@ Phát triển
 Việt Nam
 95
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Bùi Thị Quỳnh  Quản trị kinh
@@ -12361,7 +12361,7 @@ Công nghệ thông
 | ----------------- | --- | --- | --- | ---------------------------- | --- | --- |
 tin
 Công nghệ thông
-| 24  Bùi Vĩnh Phú  |     | x   |     | Thạc sĩ  Công nghệ thông tin  |     |     |
+| 24  Bùi Vĩnh Phú  |     | x   |     | Thạc sĩ  Công nghệ thông tin  |     |     |
 | ------------------ | --- | --- | --- | ----------------------------- | --- | --- |
 tin
 Cao Minh Hồng  Công nghệ thông
@@ -12391,18 +12391,18 @@ Công nghệ thông
 tin
 96
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Công nghệ thông
@@ -12456,18 +12456,18 @@ Công nghệ thông
 tin
 97
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 | Đặng Thị Thanh  |     |     |     | Lý luận và lịch sử  |     |                     |
@@ -12511,7 +12511,7 @@ Công nghệ thông
 | ------------------ | --- | --- | --- | ----------------------------- | --- | --- |
 tin
 Công nghệ thông
-| 54  Đào Hoàng Tú  |     | x   |     | Thạc sĩ  Khoa học máy tính  |     |     |
+| 54  Đào Hoàng Tú  |     | x   |     | Thạc sĩ  Khoa học máy tính  |     |     |
 | ------------------ | --- | --- | --- | --------------------------- | --- | --- |
 tin
 Công nghệ thông
@@ -12524,25 +12524,25 @@ Truyền thông đại  Quản trị kinh
 chúng  doanh
 98
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Đào Thị Thu
 | 57  |     | x   |     | Thạc sĩ  Ngôn ngữ Anh  |     |    Ngôn ngữ Anh  |
 | --- | --- | --- | --- | ---------------------- | --- | ---------------- |
 Hương
-Đào Thị Thúy  Công nghệ thông
+Đào Thị Thúy  Công nghệ thông
 | 58  |     | x   |     | Tiến sĩ  Khoa học máy tính  |     |     |
 | --- | --- | --- | --- | --------------------------- | --- | --- |
 Quỳnh  tin
@@ -12594,18 +12594,18 @@ FPT
 Software)
 99
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Công nghệ thông
@@ -12662,18 +12662,18 @@ Công nghệ thông
 tin
 100
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Truyền thông đại  Quản trị kinh
@@ -12729,18 +12729,18 @@ Quản trị kinh
 doanh
 101
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Công nghệ thông
@@ -12760,7 +12760,7 @@ Quản trị kinh
 | ------------------ | --- | --- | --- | ----------------------------- | --- | --- |
 doanh
 Kỹ thuật điều khiển  Công nghệ thông
-| 98  Doãn Đạt Phước  |     | x   |     | Thạc sĩ  |     |     |
+| 98  Doãn Đạt Phước  |     | x   |     | Thạc sĩ  |     |     |
 | --------------------- | --- | --- | --- | -------- | --- | --- |
 và tự động hóa  tin
 Công nghệ thông
@@ -12773,7 +12773,7 @@ Công nghệ thông
 | --------------------- | --- | --- | --- | --------------------------- | --- | --- |
 tin
 Công nghệ thông
-| 101  Đoàn Quang Tú  |     | x   |     | Tiến sĩ  Khoa học máy tính  |     |     |
+| 101  Đoàn Quang Tú  |     | x   |     | Tiến sĩ  Khoa học máy tính  |     |     |
 | -------------------- | --- | --- | --- | --------------------------- | --- | --- |
 tin
 102  Đoàn Thị Hồng Lư  x     Thạc sĩ  Văn hoá học     Thiết kế đồ họa
@@ -12790,18 +12790,18 @@ Công nghệ thông
 tin
 102
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Ngôn ngữ Hàn
@@ -12854,18 +12854,18 @@ truyền thông dữ liệu  tin
 118  Hà Bách Nam  x     Thạc sĩ  An toàn thông tin     An toàn thông tin
 103
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Công nghệ thông
@@ -12918,18 +12918,18 @@ Công nghệ thông
 tin
 104
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Công nghệ thông
@@ -12937,7 +12937,7 @@ Công nghệ thông
 | ----------------- | --- | --- | --- | --------------------------- | --- | --- |
 tin
 Công nghệ thông
-| 132  Hồ Hướng Thiên  |     | x   |     | Thạc sĩ  Khoa học máy tính  |     |     |
+| 132  Hồ Hướng Thiên  |     | x   |     | Thạc sĩ  Khoa học máy tính  |     |     |
 | ---------------------- | --- | --- | --- | --------------------------- | --- | --- |
 tin
 Công nghệ thông
@@ -12983,18 +12983,18 @@ Công nghệ thông
 tin
 105
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Công ty  Công nghệ thông
@@ -13047,18 +13047,18 @@ Hoàng Thị Lan  Công nghệ thông
 Phương  tin
 106
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Hoàng Thị Thu  Quản trị kinh
@@ -13112,18 +13112,18 @@ Công nghệ thông
 tin
 107
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Huỳnh Ngọc Thái  Công nghệ thông
@@ -13131,7 +13131,7 @@ Huỳnh Ngọc Thái  Công nghệ thông
 | ---- | --- | --- | --- | --------------------------- | --- | --- |
 Anh  tin
 Quản trị kinh
-| 168  Huỳnh Phú Tân  |     | x   |     | Thạc sĩ  Quản trị kinh doanh  |     |     |
+| 168  Huỳnh Phú Tân  |     | x   |     | Thạc sĩ  Quản trị kinh doanh  |     |     |
 | -------------------- | --- | --- | --- | ----------------------------- | --- | --- |
 doanh
 Công nghệ thông
@@ -13147,7 +13147,7 @@ Công nghệ thông
 | ---------------------- | --- | --- | --- | --------------------------- | --- | --- |
 tin
 Công nghệ thông
-| 172  Khúc Hữu Hùng  |     | x   |     | Thạc sĩ  An toàn thông tin  |     |     |
+| 172  Khúc Hữu Hùng  |     | x   |     | Thạc sĩ  An toàn thông tin  |     |     |
 | -------------------- | --- | --- | --- | --------------------------- | --- | --- |
 tin
 Công ty
@@ -13179,18 +13179,18 @@ Công nghệ thông
 tin
 108
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Truyền thông đại  Quản trị kinh
@@ -13236,18 +13236,18 @@ tin
 190  Lê Minh Tuấn  x     Tiến sĩ  Kỹ thuật phần mềm     Kỹ thuật phần mềm
 109
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Kỹ thuật công  Quản trị kinh
@@ -13306,18 +13306,18 @@ FPT
 Software)
 110
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Công nghệ thông
@@ -13359,11 +13359,11 @@ Quản trị kinh
 | -------------------- | --- | --- | --- | ----------------------------- | --- | --- |
 doanh
 Công nghệ thông
-| 213  Lê Thị Thúy Mai  |     | x   |     | Thạc sĩ  Ngôn ngữ Anh  |     |     |
+| 213  Lê Thị Thúy Mai  |     | x   |     | Thạc sĩ  Ngôn ngữ Anh  |     |     |
 | ---------------------- | --- | --- | --- | ---------------------- | --- | --- |
 tin
 Công nghệ thông
-| 214  Lê Thị Tú Kiên  |     | x   |     | Tiến sĩ  Khoa học máy tính  |     |     |
+| 214  Lê Thị Tú Kiên  |     | x   |     | Tiến sĩ  Khoa học máy tính  |     |     |
 | --------------------- | --- | --- | --- | --------------------------- | --- | --- |
 tin
 Quản trị kinh
@@ -13372,18 +13372,18 @@ Quản trị kinh
 doanh
 111
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Quản trị kinh
@@ -13436,18 +13436,18 @@ Truyền thông đại  Công nghệ thông
 chúng  tin
 112
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Quản trị kinh
@@ -13483,7 +13483,7 @@ Tài chính - Ngân  Quản trị kinh
 | ------------------- | --- | --- | --- | -------- | --- | --- |
 hàng  doanh
 Công nghệ thông
-| 235  Lưu Thanh Tú  |     | x   |     | Thạc sĩ  Công nghệ thông tin  |     |     |
+| 235  Lưu Thanh Tú  |     | x   |     | Thạc sĩ  Công nghệ thông tin  |     |     |
 | ------------------- | --- | --- | --- | ----------------------------- | --- | --- |
 tin
 Quản trị kinh
@@ -13501,18 +13501,18 @@ tin
 238  Lưu Xuân Trường  x     Thạc sĩ  Toán học     Kỹ thuật phần mềm
 113
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Luyện Thị Lan  Công nghệ thông
@@ -13565,18 +13565,18 @@ Công nghệ thông
 tin
 114
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Công nghệ thông
@@ -13626,22 +13626,22 @@ Quản trị kinh
 doanh
 115
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Công nghệ thông
-262  Ngô Phước Nguyên  x     Thạc sĩ  Khoa học máy tính
+262  Ngô Phước Nguyên  x     Thạc sĩ  Khoa học máy tính
 tin
 263  Ngô Quang Huy  x     Thạc sĩ  Ngôn ngữ Anh     Ngôn ngữ Anh
 Công nghệ thông
@@ -13688,18 +13688,18 @@ Nguyễn Điền Quốc  Công nghệ thông
 Bảo  tin
 116
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Công nghệ thông
@@ -13755,18 +13755,18 @@ Phó  Công nghệ thông
 giáo sư  tin
 117
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Công nghệ thông
@@ -13782,7 +13782,7 @@ Nguyễn Hoàng  Quản trị kinh
 | ---- | --- | --- | --- | ------------------- | --- | --- |
 Hiệp  doanh
 Quản trị kinh
-291  Nguyễn Hoàng Phú  x     Thạc sĩ  Kinh tế phát triển
+291  Nguyễn Hoàng Phú  x     Thạc sĩ  Kinh tế phát triển
 doanh
 Nguyễn Hoàng  Công nghệ thông
 | 292  |     | x   |     | Thạc sĩ  Khoa học máy tính  |     |     |
@@ -13818,18 +13818,18 @@ Công nghệ thông
 tin
 118
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Công nghệ thông
@@ -13880,18 +13880,18 @@ Quản trị kinh
 doanh
 119
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Thiết kế công  Công nghệ thông
@@ -13944,18 +13944,18 @@ Nguyễn Minh  Công nghệ thông
 Trung  tin
 120
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Công nghệ thông
@@ -13980,11 +13980,11 @@ Nguyễn Ngọc Hồng  Quản trị kinh
 | ---- | --- | --- | --- | ---------------------- | --- | --- |
 Dương  doanh
 Công nghệ thông
-| 329  Nguyễn Ngọc Minh  |     | x   |     | Thạc sĩ  Kiến trúc  |     |     |
+| 329  Nguyễn Ngọc Minh  |     | x   |     | Thạc sĩ  Kiến trúc  |     |     |
 | ---------------------- | --- | --- | --- | -------------------- | --- | --- |
 tin
 Công nghệ thông
-| 330  Nguyễn Ngọc Tú  |     | x   |     | Thạc sĩ  Kỹ thuật phần mềm  |     |     |
+| 330  Nguyễn Ngọc Tú  |     | x   |     | Thạc sĩ  Kỹ thuật phần mềm  |     |     |
 | --------------------- | --- | --- | --- | --------------------------- | --- | --- |
 tin
 Công nghệ thông
@@ -14009,18 +14009,18 @@ Nguyễn Quảng  Công nghệ thông
 Bình  tin
 121
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Nguyễn Quang  Công nghệ thông
@@ -14076,18 +14076,18 @@ Công nghệ thông
 tin
 122
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  | Chuyên môn đào  |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  | Chuyên môn đào  |     |
 | ----- | -------- | --------- | ----- | ------ | --------------- | --- |
-|       |          | công tác  | danh  | độ     | tạo            |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ     | tạo            |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên  |     |     |
 | --- | --- | --- | ----- | ------- | --- | --- |
-|     |     |     | học  | môn     |     |     |
+|     |     |     | học  | môn     |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Công nghệ thông
@@ -14136,18 +14136,18 @@ Công nghệ thông
 tin
 123
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  | Chuyên môn đào  |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  | Chuyên môn đào  |     |
 | ----- | -------- | --------- | ----- | ------ | --------------- | --- |
-|       |          | công tác  | danh  | độ     | tạo            |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ     | tạo            |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên  |     |     |
 | --- | --- | --- | ----- | ------- | --- | --- |
-|     |     |     | học  | môn     |     |     |
+|     |     |     | học  | môn     |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 | Nguyễn Thanh  |     |     |     |          | Tin học và Kĩ thuật  | Công nghệ thông  |
@@ -14198,18 +14198,18 @@ Quản trị kinh
 doanh
 124
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Công nghệ thông
@@ -14260,18 +14260,18 @@ Nguyễn Thị Hồng  Công nghệ thông
 Gấm  tin
 125
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Nguyễn Thị Hồng  Quản trị kinh
@@ -14324,18 +14324,18 @@ Quản trị kinh
 doanh
 126
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Nguyễn Thị Nam  Truyền thông đa
@@ -14383,18 +14383,18 @@ Nguyễn Thị Thanh  Công nghệ thông
 Huyền  tin
 127
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Nhân văn VII Ngôn
@@ -14420,7 +14420,7 @@ Công nghệ thông
 | -------------------- | --- | --- | --- | ---------------------------- | --- | --- |
 tin
 Nguyễn Thị Thu  Công nghệ thông
-| 409  |     | x   |     | Thạc sĩ  Kiến trúc  |     |     |
+| 409  |     | x   |     | Thạc sĩ  Kiến trúc  |     |     |
 | ---- | --- | --- | --- | -------------------- | --- | --- |
 Nga  tin
 Nguyễn Thị Thu  Công nghệ thông
@@ -14447,18 +14447,18 @@ Nguyễn Thị Thùy
 Trang
 128
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Công nghệ thông
@@ -14466,7 +14466,7 @@ Công nghệ thông
 | --------------------- | --- | --- | --- | ----------------------------- | --- | --- |
 tin
 Công nghệ thông
-| 415  Nguyễn Thị Tú Mi  |     | x   |     | Thạc sĩ  Khoa học máy tính  |     |     |
+| 415  Nguyễn Thị Tú Mi  |     | x   |     | Thạc sĩ  Khoa học máy tính  |     |     |
 | ----------------------- | --- | --- | --- | --------------------------- | --- | --- |
 tin
 Nguyễn Thị Tuyết  Công nghệ thông
@@ -14498,8 +14498,8 @@ Nguyễn Thùy  Quản trị kinh
 | 422  |     | x   |     | Thạc sĩ  Kinh doanh quốc tế  |     |     |
 | ---- | --- | --- | --- | ---------------------------- | --- | --- |
 Giang  doanh
-423  Nguyễn Thúy Ngọc  x     Thạc sĩ  Ngôn ngữ Nhật     Ngôn ngữ Nhật
-Nguyễn Thúy  Quản trị kinh
+423  Nguyễn Thúy Ngọc  x     Thạc sĩ  Ngôn ngữ Nhật     Ngôn ngữ Nhật
+Nguyễn Thúy  Quản trị kinh
 | 424  |     | x   |     | Tiến sĩ  Khoa học quản lý  |     |     |
 | ---- | --- | --- | --- | -------------------------- | --- | --- |
 Phương  doanh
@@ -14508,18 +14508,18 @@ Quản trị kinh
 doanh
 129
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Công nghệ thông
@@ -14549,7 +14549,7 @@ Nguyễn Trọng  Công nghệ thông
 | 432  |     | x   |     | Tiến sĩ  Kỹ thuật máy tính  |     |     |
 | ---- | --- | --- | --- | --------------------------- | --- | --- |
 Dũng  tin
-Nguyễn Trúc Mai  Công nghệ thông
+Nguyễn Trúc Mai  Công nghệ thông
 | 433  |     | x   |     | Thạc sĩ  Kỹ thuật phần mềm  |     |     |
 | ---- | --- | --- | --- | --------------------------- | --- | --- |
 Anh  tin
@@ -14570,18 +14570,18 @@ Công nghệ thông
 tin
 130
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Nguyễn Trung  Công nghệ thông
@@ -14592,7 +14592,7 @@ Công nghệ thông
 439  Nguyễn Trung Việt  x     Thạc sĩ  Hệ thống thông tin
 tin
 Công nghệ thông
-| 440  Nguyễn Tú Nam  |     | x   |     | Thạc sĩ  Khoa học máy tính  |     |     |
+| 440  Nguyễn Tú Nam  |     | x   |     | Thạc sĩ  Khoa học máy tính  |     |     |
 | -------------------- | --- | --- | --- | --------------------------- | --- | --- |
 tin
 Tin học và Kĩ thuật  Công nghệ thông
@@ -14634,18 +14634,18 @@ Công nghệ thông
 tin
 131
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Công nghệ thông
@@ -14698,18 +14698,18 @@ Công nghệ thông
 tin
 132
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Kinh doanh thương  Quản trị kinh
@@ -14733,7 +14733,7 @@ Nguyễn Vũ Diệu  Quản trị kinh
 | ---- | --- | --- | --- | ----------------------------- | --- | --- |
 Linh  doanh
 Nguyễn Vương  Công nghệ thông
-| 467  |     | x   |     | Thạc sĩ  Kiến trúc  |     |     |
+| 467  |     | x   |     | Thạc sĩ  Kiến trúc  |     |     |
 | ---- | --- | --- | --- | -------------------- | --- | --- |
 Hồng  tin
 Công ty
@@ -14751,7 +14751,7 @@ Nguyễn Xuân  Công nghệ thông
 | ---- | --- | --- | --- | ----------------------------- | --- | --- |
 Phong  tin
 Công nghệ thông
-470  Nguyễn Xuân Phú  x     Thạc sĩ  Kỹ thuật viễn thông
+470  Nguyễn Xuân Phú  x     Thạc sĩ  Kỹ thuật viễn thông
 tin
 Công nghệ thông
 | 471  Nguyễn Xuân Sâm  |     | x   |     | Tiến sĩ  Kỹ thuật điện  |     |     |
@@ -14763,18 +14763,18 @@ Nguyễn Xuân  Công nghệ thông
 Thạch  tin
 133
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Nguyễn Xuân  Công nghệ thông
@@ -14823,18 +14823,18 @@ mỹ thuật ứng dụng
 484  Phạm Khánh Hằng  x     Thạc sĩ  Ngôn ngữ Anh     Ngôn ngữ Anh
 134
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Truyền thông đại  Quản trị kinh
@@ -14890,18 +14890,18 @@ Quản trị kinh
 doanh
 135
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 | Phạm Thái Kỳ  |     |     |     | Quản lý công nghệ  |     | Công nghệ thông  |
@@ -14958,18 +14958,18 @@ Phạm Thị Mai  Công nghệ thông
 Dung  tin
 136
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  | Chuyên môn đào  |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  | Chuyên môn đào  |     |
 | ----- | -------- | --------- | ----- | ------ | --------------- | --- |
-|       |          | công tác  | danh  | độ     | tạo            |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ     | tạo            |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên  |     |     |
 | --- | --- | --- | ----- | ------- | --- | --- |
-|     |     |     | học  | môn     |     |     |
+|     |     |     | học  | môn     |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Công nghệ thông
@@ -15000,7 +15000,7 @@ Thủy  tin
 | 517             |     | x   |          | Tiến sĩ  |                 |                |
 | Vân             |     |     |          |          | Quốc            | doanh          |
 Quản trị kinh
-518  Phạm Thị Tú Uyên  x     Thạc sĩ  Quản trị kinh doanh
+518  Phạm Thị Tú Uyên  x     Thạc sĩ  Quản trị kinh doanh
 doanh
 Phạm Thị Việt  Công nghệ thông
 | 519  |     | x   |     | Tiến sĩ  | Kỹ thuật điện  |     |
@@ -15020,22 +15020,22 @@ Phạm Trương Hồng  Công nghệ thông
 Ngân  tin
 137
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Công nghệ thông
-| 523  Phạm Tú Ngọc  |     | x   |     | Tiến sĩ  Khác  |     |     |
+| 523  Phạm Tú Ngọc  |     | x   |     | Tiến sĩ  Khác  |     |     |
 | ------------------- | --- | --- | --- | -------------- | --- | --- |
 tin
 Công nghệ thông
@@ -15084,18 +15084,18 @@ Quản trị kinh
 doanh
 138
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 | Phan Thị Bích  |     |     |     | Truyền thông đại  |     | Truyền thông đa  |
@@ -15143,18 +15143,18 @@ Thái Thị Kim  Công nghệ thông
 Chung  tin
 139
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 | Thiều Hà Quang  |     |     |     | Nghệ thuật điện ảnh,  |     | Công nghệ thông  |
@@ -15204,18 +15204,18 @@ Công nghệ thông
 tin
 140
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  | Chuyên môn đào  |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  | Chuyên môn đào  |     |
 | ----- | -------- | --------- | ----- | ------ | --------------- | --- |
-|       |          | công tác  | danh  | độ     | tạo            |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ     | tạo            |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên  |     |     |
 | --- | --- | --- | ----- | ------- | --- | --- |
-|     |     |     | học  | môn     |     |     |
+|     |     |     | học  | môn     |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Công nghệ thông
@@ -15267,18 +15267,18 @@ Quản trị kinh
 doanh
 141
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Cơ sở toán học cho  Công nghệ thông
@@ -15329,18 +15329,18 @@ Công nghệ thông
 tin
 142
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Quản trị kinh
@@ -15393,18 +15393,18 @@ Công nghệ thông
 tin
 143
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Quản trị kinh
@@ -15440,7 +15440,7 @@ Trần Thị Kim  Quản trị kinh
 | ---- | --- | --- | --- | ----------------------------- | --- | --- |
 Chung  doanh
 Quản trị kinh
-| 604  Trần Thị Kim Cúc  |     | x   |     | Thạc sĩ  Marketing  |     |     |
+| 604  Trần Thị Kim Cúc  |     | x   |     | Thạc sĩ  Marketing  |     |     |
 | ----------------------- | --- | --- | --- | ------------------- | --- | --- |
 doanh
 Trần Thị Kim  Công nghệ thông
@@ -15457,18 +15457,18 @@ Quản trị kinh
 doanh
 144
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Quản trị kinh
@@ -15519,18 +15519,18 @@ Trịnh Công Minh  Công nghệ thông
 Quân  tin
 145
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Công nghệ thông
@@ -15565,7 +15565,7 @@ Công nghệ thông
 627  Trịnh Thị Vân Anh  x     Thạc sĩ  Công nghệ thông tin
 tin
 Công nghệ thông
-628  Trịnh Thúy Hường  x     Tiến sĩ  Quản trị kinh doanh
+628  Trịnh Thúy Hường  x     Tiến sĩ  Quản trị kinh doanh
 tin
 Công nghệ thông
 | 629  Trịnh Xuân Đạt  |     | x   |     | Thạc sĩ  Khoa học máy tính  |     |     |
@@ -15581,18 +15581,18 @@ tin
    Trương Công Đoàn  x     Tiến sĩ  Công nghệ thông tin     Kỹ thuật phần mềm
 146
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Quản lý khoa học và  Công nghệ thông
@@ -15645,18 +15645,18 @@ Công nghệ thông
 tin
 147
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Công nghệ thông
@@ -15709,18 +15709,18 @@ tin
 654  Vũ Hải Nam  x     Thạc sĩ  Ngôn ngữ Anh     Ngôn ngữ Anh
 148
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Công nghệ thông
@@ -15756,7 +15756,7 @@ Nghệ thuật điện ảnh,  Công nghệ thông
 | ------------------- | --- | --- | --- | -------- | --- | --- |
 truyền hình  tin
 Vũ Thị Huyền  Quản trị kinh
-| 663  |     | x   |     | Thạc sĩ  Quan hệ công chúng  |     |     |
+| 663  |     | x   |     | Thạc sĩ  Quan hệ công chúng  |     |     |
 | ---- | --- | --- | --- | ----------------------------- | --- | --- |
 Trang  doanh
 Công nghệ thông
@@ -15764,7 +15764,7 @@ Công nghệ thông
 | -------------------- | --- | --- | --- | ---------------------- | --- | --- |
 tin
 Vũ Thị Tuyết  Quản trị kinh
-| 665  |     | x   |     | Thạc sĩ  Quan hệ công chúng  |     |     |
+| 665  |     | x   |     | Thạc sĩ  Quan hệ công chúng  |     |     |
 | ---- | --- | --- | --- | ----------------------------- | --- | --- |
 Nhung  doanh
 Công nghệ thông
@@ -15773,18 +15773,18 @@ Công nghệ thông
 tin
 149
 
-| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
+| TT    | Họ tên  | Cơ quan   | Chức  | Trình  Chuyên môn đào  |       |     |
 | ----- | -------- | --------- | ----- | ---------------------- | ----- | --- |
-|       |          | công tác  | danh  | độ                     | tạo  |     |
-Ngành tham gia giảng dạy
+|       |          | công tác  | danh  | độ                     | tạo  |     |
+Ngành tham gia giảng dạy
 |     |     |     | khoa  | chuyên     |     |     |
 | --- | --- | --- | ----- | ---------- | --- | --- |
-|     |     |     | học  | môn        |     |     |
+|     |     |     | học  | môn        |     |     |
 Tên
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 ngành
-Tên ngành đại học
+Tên ngành đại học
 cao
 đẳng
 Phó  Công nghệ thông

@@ -81,7 +81,7 @@ VN
 **1. Người dự tuyển được xác định tại thời điểm xét tuyển trước khi công bố kết quả xét tuyển chính thức bao gồm:**
 Người dự tuyển được xác định tại thời điểm xét tuyển trước khi công bố kết quả xét tuyển chính thức là người đã được công nhận tốt nghiệp THPT của Việt Nam hoặc của nước ngoài được công nhận trình độ tương đương với THPT của Việt Nam do các đơn vị chức năng xác định.
 Người dự tuyển phải đáp ứng các điều kiện về ngưỡng đầu vào theo quy định tại Điều 9 Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục Mầm non ban hành kèm theo Thông tư số 06/2026/TT-BGDĐT ngày 15/02/2026 của Bộ trưởng Bộ Giáo dục và Đào tạo (sau đây gọi tắt là Quy chế tuyển sinh của Bộ GDĐT); Có đủ sức khoẻ để học tập theo quy định hiện hành; Có đủ thông tin cá nhân, hồ sơ dự tuyển theo quy định
-**2. Phương thức tuyển sinh:**
+**2. Phương thức tuyển sinh:**
 Trường Đại học FPT xét tuyển theo phương thức kết hợp kết quả kỳ thi tốt nghiệp THPT với kết quả học tập THPT. Điểm xét tuyển được xác định như sau:
 **ĐXT= ĐKH+ĐKK+ĐƯT**
   * Trong đó:  
@@ -108,7 +108,7 @@ Trường Đại học FPT xét tuyển theo phương thức kết hợp kết q
 
 
   * Thí sinh tốt nghiệp THPT nước ngoài, tốt nghiệp THPT các trường thuộc Tổ chức Giáo dục FPT.
-  * Thí sinh có các chứng chỉ hoặc văn bằng: Chứng chỉ APTECH HDSE/ADSE, ARENA ADIM, SKILLKING, JETKING; Tốt nghiệp chương trình BTEC HND, Melbourne Polytechnic, FUNiX Software Engineering, Cao đẳng FPT Polytechnic.
+  * Thí sinh có các chứng chỉ hoặc văn bằng: Chứng chỉ APTECH HDSE/ADSE, ARENA ADIM, SKILLKING, JETKING; Tốt nghiệp chương trình BTEC HND, Melbourne Polytechnic, FUNiX Software Engineering, Cao đẳng FPT Polytechnic.
 
 
   * Các thí sinh đăng ký học ngành Luật phải đảm bảo điều kiện ngưỡng đầu vào theo quy định tại điểm b khoản 1, điểm a khoản 2, điểm a khoản 6 Điều 9 Quy chế tuyển sinh của Bộ GDĐT.
@@ -120,13 +120,13 @@ Trường Đại học FPT xét tuyển theo phương thức kết hợp kết q
   * Thí sinh là sinh viên thế hệ 1* được cộng 1,5 điểm vào Điểm xét tuyển.
 
 
-* _Sinh viên thế hệ 1 (First-Generation Student): là người đầu tiên trong gia đình (gồm phụ huynh hoặc người bảo trợ và tất cả anh chị em ruột) học đại học. Khi đăng ký xét tuyển, sinh viên thế hệ 1 cần nộp Đơn đăng ký ưu tiên xét tuyển có xác nhận của nơi làm việc của bố mẹ hoặc địa phương theo mẫu của Trường Đại học FPT_
+* _Sinh viên thế hệ 1 (First-Generation Student): là người đầu tiên trong gia đình (gồm phụ huynh hoặc người bảo trợ và tất cả anh chị em ruột) học đại học. Khi đăng ký xét tuyển, sinh viên thế hệ 1 cần nộp Đơn đăng ký ưu tiên xét tuyển có xác nhận của nơi làm việc của bố mẹ hoặc địa phương theo mẫu của Trường Đại học FPT_
 **II.****Ngành đào tạo**
 ![Bang chuyennganhdaotao 2026 1](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201222%202048'%3E%3C/svg%3E)
 **III. Lịch trình tuyển sinh**
 Thời gian dự kiến tuyển sinh các đợt trong năm:
   * Đợt 1: theo lịch trình chung của Bộ Giáo dục và Đào tạo.
-  * Các đợt tuyển bổ sung (nếu có) căn cứ vào kết quả đợt tuyển sinh trước đó và sẽ được thông báo khi trường chưa tuyển đủ số lượng
+  * Các đợt tuyển bổ sung (nếu có) căn cứ vào kết quả đợt tuyển sinh trước đó và sẽ được thông báo khi trường chưa tuyển đủ số lượng
 
 
 **IV.****Chính sách ưu đãi tài chính**
@@ -147,7 +147,7 @@ Bên cạnh ưu đãi học phí, Trường Đại học FPT triển khai hệ t
 
 **3. Đối tượng áp dụng**
 Tất cả các thí sinh khóa K22 nhập học vào Trường Đại học FPT năm 2026.
-[PHỤ LỤC – ĐIỂM KHUYẾN KHÍCH VÀ ĐIỂM QUY ĐỔI CÁC CHỨNG CHỈ NGOẠI NGỮ](https://daihoc.fpt.edu.vn/wp-content/uploads/2026/06/PHU-LUC-%E2%80%93-DIEM-KHUYEN-KHICH-VA-DIEM-QUY-DOI-CAC-CHUNG-CHI-NGOAI-NGU.pdf)
+[PHỤ LỤC – ĐIỂM KHUYẾN KHÍCH VÀ ĐIỂM QUY ĐỔI CÁC CHỨNG CHỈ NGOẠI NGỮ](https://daihoc.fpt.edu.vn/wp-content/uploads/2026/06/PHU-LUC-%E2%80%93-DIEM-KHUYEN-KHICH-VA-DIEM-QUY-DOI-CAC-CHUNG-CHI-NGOAI-NGU.pdf)
 [](https://daihoc.fpt.edu.vn/thong-bao-tuyen-sinh/thong-bao-tuyen-sinh-truong-dai-hoc-fpt-he-dai-hoc-chinh-quy-nam-2026/#_ftnref1)
 ![Author](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E)Đỗ Thị Mai Anh
 ### Bài viết mới nhất

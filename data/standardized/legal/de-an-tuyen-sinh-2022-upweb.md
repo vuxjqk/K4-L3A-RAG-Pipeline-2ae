@@ -45,9 +45,9 @@ Tp. Đà Nẵng.
 | FPT tại thành   |            | (nối dài), P. An  | 26,621  | 24,507  |
 | phố Cần Thơ     |            | Bình, Q. Ninh     |         |         |
 Kiều, Tp. Cần Thơ.
-| 5  Phân hiệu    | Phân hiệu  | Khu đô thị mới  |         |         |
+| 5  Phân hiệu    | Phân hiệu  | Khu đô thị mới  |         |         |
 | --------------- | ---------- | ----------------- | ------- | ------- |
-| Trường Đại học  |            | An Phú Thịnh,    |         |         |
+| Trường Đại học  |            | An Phú Thịnh,    |         |         |
 | FPT tại tỉnh    |            | Phường Nhơn       |         |         |
 | Bình Định       |            | Bình & Phường     | 57,308  | 12,410  |
 Đống Đa, TP. Quy
@@ -66,8 +66,8 @@ tin điện tử của CSĐT:
 https://daihoc.fpt.edu.vn/wp-content/uploads/2022/06/tinh_hinh_viec_lam.pdf
 Kết quả khảo sát sinh viên có việc làm trong khoảng thời gian 12 tháng kể từ
 khi được công nhận tốt nghiệp được xác định theo từng ngành, lĩnh vực đào tạo, được
-khảo sát ở năm liền kề trước năm tuyển sinh, đối tượng khảo sát là sinh viên đã tốt
-nghiệp ở năm trước cách năm tuyển sinh một năm.
+khảo sát ở năm liền kề trước năm tuyển sinh, đối tượng khảo sát là sinh viên đã tốt
+nghiệp ở năm trước cách năm tuyển sinh một năm.
 Trong đó tỷ
 lệ SV tốt
 nghiệp đã có
@@ -196,19 +196,19 @@ thi THPT 2021) và điểm theo khối xét tuyển
 đạt từ trung bình trở lên (15*/30 điểm);
 d) Có chứng chỉ tiếng Anh TOEFL iBT
 từ 80 hoặc IELTS (Học thuật) từ 6.0 hoặc
-quy đổi tương đương (áp dụng đối với ngành
+quy đổi tương đương (áp dụng đối với ngành
 Ngôn Ngữ Anh); có chứng chỉ tiếng Nhật
-JLPT từ N3 trở lên (áp dụng đối với ngành
+JLPT từ N3 trở lên (áp dụng đối với ngành
 Ngôn Ngữ Nhật); có chứng chỉ tiếng Hàn
 TOPIK cấp độ 4 trong kỳ thi TOPIK II (áp
-dụng đối với ngành Ngôn Ngữ Hàn Quốc);
+dụng đối với ngành Ngôn Ngữ Hàn Quốc);
 e) Tốt nghiệp một trong các chương trình
-sau: Chương trình APTECH HDSE (đối với
+sau: Chương trình APTECH HDSE (đối với
 ngành Công nghệ thông tin); Chương trình
-ARENA ADIM (đối với chuyên ngành Thiết
+ARENA ADIM (đối với chuyên ngành Thiết
 kế Mỹ thuật số); Chương trình BTEC HND;
 FUNiX Software Engineering;
-f) Tốt nghiệp THPT ở nước ngoài;
+f) Tốt nghiệp THPT ở nước ngoài;
 g) Tốt nghiệp Đại học;
 h) Sinh viên chuyển trường từ các trường
 đại học thuộc Top 1000 trong 3 bảng xếp
@@ -218,14 +218,14 @@ lượng đào tạo;
 i) Đạt từ 23 điểm (bao gồm điểm ưu tiên
 đối tượng và khu vực theo Quy định của Bộ
 Giáo dục & Đào tạo) tổ hợp các môn thi
-THPT năm 2021 tương ứng với ngành đăng
-ký học tại mục II.3 (áp dụng với thí sinh
+THPT năm 2021 tương ứng với ngành đăng
+ký học tại mục II.3 (áp dụng với thí sinh
 không có đủ điểm 6 môn thi THPT năm
 2021);
-Ghi chú: (*) Làm tròn đến hai chữ số thập
+Ghi chú: (*) Làm tròn đến hai chữ số thập
 phân (ví dụ: nếu thí sinh đạt 14.991 đến
 14.994 điểm thì làm tròn thành 14.99 điểm;
-trường hợp từ 14.995 đến 14.999 mới được
+trường hợp từ 14.995 đến 14.999 mới được
 làm tròn thành 15 điểm).
 4
 
@@ -253,7 +253,7 @@ hiện trên trang http://SchoolRank.fpt.edu.vn).
 2. Xét tuyển theo điểm thi THPT
 2.1. Sàn chất lượng
 Điểm theo khối xét tuyển đạt từ trung bình
-trở lên (15**/30 điểm) – Áp dụng đối với các
+trở lên (15**/30 điểm) – Áp dụng đối với các
 thí sinh đăng ký xét tuyển đến hết ngày
 22/09/2020.
 2.2. Điều kiện xét tuyển
@@ -264,22 +264,22 @@ http://SchoolRank.fpt.edu.vn theo số liệu Đại
 học FPT tổng hợp và công bố sau kỳ thi
 THPT 2020)
 3. Xét tuyển ưu tiên
-Ưu tiên xét tuyển đối với thí sinh đạt một
+Ưu tiên xét tuyển đối với thí sinh đạt một
 trong các điều kiện sau:
-a) Tốt nghiệp THPT ở nước ngoài
+a) Tốt nghiệp THPT ở nước ngoài
 b) Tiếng Anh TOEFL iBT từ 80 hoặc IELTS
 (Học thuật) từ 6.0 hoặc quy đổi tương đương
-(áp dụng đối với ngành Ngôn Ngữ Anh);
+(áp dụng đối với ngành Ngôn Ngữ Anh);
 c) Tiếng Nhật JLPT từ N3 trở lên (áp dụng
-đối với ngành Ngôn Ngữ Nhật);
+đối với ngành Ngôn Ngữ Nhật);
 d) Tiếng Hàn TOPIK cấp độ 4 trong kỳ thi
-TOPIK II (áp dụng đối với ngành Ngôn Ngữ
+TOPIK II (áp dụng đối với ngành Ngôn Ngữ
 Hàn Quốc);
 e) Tốt nghiệp Chương trình APTECH HDSE
-(áp dụng đối với ngành Công nghệ thông
+(áp dụng đối với ngành Công nghệ thông
 tin);
 f) Tốt nghiệp Chương trình ARENA ADIM
-(áp dụng đối với chuyên ngành Thiết kế Mỹ
+(áp dụng đối với chuyên ngành Thiết kế Mỹ
 5
 
 Phương thức tuyển sinh
@@ -305,7 +305,7 @@ Ghi chú:
 (**) Làm tròn đến hai chữ số thập phân (ví
 dụ: Nếu như thí sinh đạt 14.991 đến 14.994
 điểm thì làm tròn thành 14.99 điểm; trường
-hợp từ 14.995 đến 14.999 mới được làm tròn
+hợp từ 14.995 đến 14.999 mới được làm tròn
 thành 15 điểm).
 8.2. Điểm trúng tuyển của 2 năm gần nhất
 | TT Nhóm ngành Ngành  |     | Mã  Tổ      | Phương  | Năm 2020  |     | Năm 2021  |     |
@@ -550,14 +550,14 @@ Du lịch, khách sạn, thể thao và dịch
 | ---------- | ------------------------------------ | -------- | ----------- | --- | --- | ---- |
 | 3.2        | Liên thông từ trung cấp lên đại học  |          |             |     |     |      |
 | 3.3        | Liên thông từ cao đẳng lên đại học   |          |             |     |     |      |
-Đào tạo chính quy với người đã tốt
+Đào tạo chính quy với người đã tốt
 | 3.4  | nghiệp trình độ đại học trở lên      |     |     |     |     |     |
 | ---- | ------------------------------------ | --- | --- | --- | --- | --- |
 | 4    | Đại học vừa làm vừa học              |     |     |     |     | 0   |
 | 4.1  | Vừa làm vừa học                      |     |     |     |     |     |
 | 4.2  | Liên thông từ trung cấp lên đại học  |     |     |     |     |     |
 | 4.3  | Liên thông từ cao đẳng lên đại học   |     |     |     |     |     |
-Đào tạo vừa làm vừa học đối với người
+Đào tạo vừa làm vừa học đối với người
 | 4.4  | đã tốt nghiệp trình độ đại học trở lên  |     |     |     |     |     |
 | ---- | --------------------------------------- | --- | --- | --- | --- | --- |
 | 5    | Từ xa                                   |     |     |     |     |     |
@@ -575,7 +575,7 @@ tạo
 Liên thông từ trung cấp lên cao đẳng
 | 6.2  | chính quy  |     |     |     |     |     |     |
 | ---- | ---------- | --- | --- | --- | --- | --- | --- |
-Đào tạo chính quy đối với người đã tốt
+Đào tạo chính quy đối với người đã tốt
 | 6.3  | nghiệp trình độ cao đẳng  |     |     |     |     |     |     |
 | ---- | ------------------------- | --- | --- | --- | --- | --- | --- |
 | 7    | Cao đẳng vừa làm vừa học  |     |     |     |     |     |     |
@@ -583,13 +583,13 @@ Liên thông từ trung cấp lên cao đẳng
 Liên thông từ trung cấp lên cao đẳng
 | 7.2  | vừa làm vừa học  |     |     |     |     |     |     |
 | ---- | ---------------- | --- | --- | --- | --- | --- | --- |
-Đào tạo vừa làm vừa học đối với người
+Đào tạo vừa làm vừa học đối với người
 | 7.3  | đã tốt nghiệp trình độ cao đẳng  |     |     |     |     |     |     |
 | ---- | -------------------------------- | --- | --- | --- | --- | --- | --- |
 10.2. Cơ sở vật chất phục vụ đào tạo và nghiên cứu:
-10.2.1. Thống kê số lượng, diện tích đất, diện tích sàn xây dựng, ký túc xá
+10.2.1. Thống kê số lượng, diện tích đất, diện tích sàn xây dựng, ký túc xá
 - Tổng diện tích đất của trường (ha): 443,415 m2
-- Số chỗ ở ký túc xá sinh viên (nếu có): 5,105
+- Số chỗ ở ký túc xá sinh viên (nếu có): 5,105
 - Diện tích sàn xây dựng trực tiếp phục vụ đào tạo thuộc sở hữu của trường tính trên một sinh viên chính quy: 5,93m2 /Sinh
 viên
 Diện tích sàn xây dựng
@@ -600,7 +600,7 @@ Hội trường, giảng đường, phòng học các loại, phòng đa năng, 
 | 1   |     |     |     |     |     | 631  | 74164  |
 | --- | --- | --- | --- | --- | --- | ---- | ------ |
 giáo sư, phó giáo sư, giảng viên của cơ sở đào tạo
-| 1.1.  | Hội trường, phòng học lớn trên 200 chỗ  |     |     |     |     | 8   | 6006  |
+| 1.1.  | Hội trường, phòng học lớn trên 200 chỗ  |     |     |     |     | 8   | 6006  |
 | ----- | ----------------------------------------- | --- | --- | --- | --- | --- | ----- |
 | 1.2.  | Phòng học từ 100 - 200 chỗ                |     |     |     |     | 0   | 0     |
 | 1.3.  | Phòng học từ 50 - 100 chỗ                 |     |     |     |     | 40  | 7388  |
@@ -610,7 +610,7 @@ Diện tích sàn xây dựng
 | TT  | Loại phòng  | Số lượng  |     |
 | --- | ----------- | --------- | --- |
 (m2)
-| 1.4.  Số phòng học dưới 50 chỗ  |     | 537  | 48465  |
+| 1.4.  Số phòng học dưới 50 chỗ  |     | 537  | 48465  |
 | --------------------------------- | --- | ---- | ------ |
 | 1.5  Số phòng học đa phương tiện  |     | 0    | 0      |
 1.6  Phòng làm việc của giáo sư, phó giáo sư, giảng viên của cơ sở đào tạo  46  12305
@@ -634,12 +634,12 @@ https://daihoc.fpt.edu.vn/tuyen-sinh/quy-che-tuyen-sinh-2022/
 II. Tuyển sinh đào tạo chính quy
 1. Tuyển sinh chính quy đại học, cao đẳng (ngành Giáo dục Mầm non)
 1.1. Đối tượng, điều kiện tuyển sinh.
-Các thí sinh đã được công nhận tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài
+Các thí sinh đã được công nhận tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài
 được công nhận trình độ tương đương tính đến thời điểm nhập học, có nguyện vọng theo học tại Trường Đại học FPT.
 14
 
 1.2. Phạm vi tuyển sinh.
-Trong và ngoài nước Việt Nam.
+Trong và ngoài nước Việt Nam.
 1.3. Phương thức tuyển sinh (thi tuyển, xét tuyển hoặc kết hợp thi tuyển và xét tuyển).
 Xét tuyển
 1.4. Chỉ tiêu tuyển sinh: Chỉ tiêu theo Ngành/Nhóm ngành, theo từng phương thức xét tuyển và trình độ đào tạo.
@@ -666,7 +666,7 @@ TT  Trình độ đào tạo/ Tên ngành/  Mã  Mã  Tên phương thức XT  M
 | -------------------------------- | --- | --- | ------------------------ | --- |
 đại học chính quy của Bộ
 GD&ĐT năm 2022
-6  Tốt nghiệp THPT nước ngoài  TNNN  411  Xét tuyển thí sinh tốt nghiệp THPT nước     10
+6  Tốt nghiệp THPT nước ngoài  TNNN  411  Xét tuyển thí sinh tốt nghiệp THPT nước     10
 ngoài
 7  Toán, Văn, Anh, Khoa học tự  F01  500  Sử dụng phương thức khác     110
 15
@@ -699,7 +699,7 @@ GD&ĐT năm 2022
 5  Chỉ sử dụng chứng chỉ quốc tế  CCQT  408  Chỉ sử dụng chứng chỉ quốc tế để xét     10
 | để xét tuyển  |     |     | tuyển  |     |
 | ------------- | --- | --- | ------ | --- |
-6  Tốt nghiệp THPT nước ngoài  TNNN  411  Xét tuyển thí sinh tốt nghiệp THPT nước     10
+6  Tốt nghiệp THPT nước ngoài  TNNN  411  Xét tuyển thí sinh tốt nghiệp THPT nước     10
 ngoài
 7  Toán, Văn, Anh, Khoa học tự  F01  500  Sử dụng phương thức khác     55
 nhiên
@@ -732,7 +732,7 @@ GD&ĐT năm 2022
 5  Chỉ sử dụng chứng chỉ quốc tế  CCQT  408  Chỉ sử dụng chứng chỉ quốc tế để xét     10
 | để xét tuyển  |     |     | tuyển  |     |
 | ------------- | --- | --- | ------ | --- |
-6  Tốt nghiệp THPT nước ngoài  TNNN  411  Xét tuyển thí sinh tốt nghiệp THPT nước     10
+6  Tốt nghiệp THPT nước ngoài  TNNN  411  Xét tuyển thí sinh tốt nghiệp THPT nước     10
 ngoài
 7  Toán, Văn, Anh, Khoa học tự  F01  500  Sử dụng phương thức khác     35
 nhiên
@@ -762,7 +762,7 @@ GD&ĐT năm 2022
 | --------------------------------- | ---- | --- | ---------- | --- |
 | 4  Bài thi đánh giá năng lực của  | Q00  |     |            |     |
 Đại học Quốc gia Hà Nội
-5  Tốt nghiệp THPT nước ngoài  TNNN  411  Xét tuyển thí sinh tốt nghiệp THPT nước     10
+5  Tốt nghiệp THPT nước ngoài  TNNN  411  Xét tuyển thí sinh tốt nghiệp THPT nước     10
 ngoài
 6  Toán, Văn, Anh, Khoa học tự  F01  500  Sử dụng phương thức khác     1280
 nhiên
@@ -792,7 +792,7 @@ Minh  xét tuyển
 | 4  Bài thi đánh giá năng lực của  | Q00  |     |     |
 | --------------------------------- | ---- | --- | --- |
 Đại học Quốc gia Hà Nội
-5  Tốt nghiệp THPT nước ngoài  TNNN  411  Xét tuyển thí sinh tốt nghiệp THPT nước     10
+5  Tốt nghiệp THPT nước ngoài  TNNN  411  Xét tuyển thí sinh tốt nghiệp THPT nước     10
 ngoài
 6  Toán, Văn, Anh, Khoa học tự  F01  500  Sử dụng phương thức khác     1518
 nhiên
@@ -830,8 +830,8 @@ Quốc gia Hà Nội)
 4  408  Chỉ sử dụng chứng chỉ quốc tế để  CCQT (Chỉ sử dụng chứng chỉ quốc tế để xét  0
 |     |     | xét tuyển  | tuyển)  |     |
 | --- | --- | ---------- | ------- | --- |
-5  411  Xét tuyển thí sinh tốt nghiệp  TNNN (Tốt nghiệp THPT nước ngoài)  0
-THPT nước ngoài
+5  411  Xét tuyển thí sinh tốt nghiệp  TNNN (Tốt nghiệp THPT nước ngoài)  0
+THPT nước ngoài
 6  500  Sử dụng phương thức khác  F01 (Toán, Văn, Anh, Khoa học tự nhiên)  0
 |     |     |     | F02 (Toán, Văn, Anh, Khoa học xã hội)  | 0   |
 | --- | --- | --- | -------------------------------------- | --- |
@@ -857,8 +857,8 @@ hợp gốc
 11  408  Chỉ sử dụng chứng chỉ quốc tế để  CCQT (Chỉ sử dụng chứng chỉ quốc tế để xét  0
 |     |     | xét tuyển  | tuyển)  |     |
 | --- | --- | ---------- | ------- | --- |
-12  411  Xét tuyển thí sinh tốt nghiệp  TNNN (Tốt nghiệp THPT nước ngoài)  0
-THPT nước ngoài
+12  411  Xét tuyển thí sinh tốt nghiệp  TNNN (Tốt nghiệp THPT nước ngoài)  0
+THPT nước ngoài
 13  500  Sử dụng phương thức khác  F01 (Toán, Văn, Anh, Khoa học tự nhiên)  0
 |     |     |     | F02 (Toán, Văn, Anh, Khoa học xã hội)  | 0   |
 | --- | --- | --- | -------------------------------------- | --- |
@@ -878,8 +878,8 @@ Quốc gia Hà Nội)
 17  408  Chỉ sử dụng chứng chỉ quốc tế để  CCQT (Chỉ sử dụng chứng chỉ quốc tế để xét  0
 |     |     | xét tuyển  | tuyển)  |     |
 | --- | --- | ---------- | ------- | --- |
-18  411  Xét tuyển thí sinh tốt nghiệp  TNNN (Tốt nghiệp THPT nước ngoài)  0
-THPT nước ngoài
+18  411  Xét tuyển thí sinh tốt nghiệp  TNNN (Tốt nghiệp THPT nước ngoài)  0
+THPT nước ngoài
 19  500  Sử dụng phương thức khác  F01 (Toán, Văn, Anh, Khoa học tự nhiên)  0
 |     |     |     | F02 (Toán, Văn, Anh, Khoa học xã hội)  | 0   |
 | --- | --- | --- | -------------------------------------- | --- |
@@ -902,8 +902,8 @@ Bộ GD&ĐT năm 2022)
 | --- | --- | ------------------------------- | ------------------------------------------- | --- |
 |     |     | khác tổ chức để xét tuyển       | Q00 (Bài thi đánh giá năng lực của Đại học  | 0   |
 Quốc gia Hà Nội)
-23  411  Xét tuyển thí sinh tốt nghiệp  TNNN (Tốt nghiệp THPT nước ngoài)  0
-THPT nước ngoài
+23  411  Xét tuyển thí sinh tốt nghiệp  TNNN (Tốt nghiệp THPT nước ngoài)  0
+THPT nước ngoài
 24  500  Sử dụng phương thức khác  F01 (Toán, Văn, Anh, Khoa học tự nhiên)  0
 |     |     |     | F02 (Toán, Văn, Anh, Khoa học xã hội)  | 0   |
 | --- | --- | --- | -------------------------------------- | --- |
@@ -920,8 +920,8 @@ Bộ GD&ĐT năm 2022)
 | --- | --- | ------------------------------- | ------------------------------------------- | --- |
 |     |     | khác tổ chức để xét tuyển       | Q00 (Bài thi đánh giá năng lực của Đại học  | 0   |
 Quốc gia Hà Nội)
-28  411  Xét tuyển thí sinh tốt nghiệp  TNNN (Tốt nghiệp THPT nước ngoài)  0
-THPT nước ngoài
+28  411  Xét tuyển thí sinh tốt nghiệp  TNNN (Tốt nghiệp THPT nước ngoài)  0
+THPT nước ngoài
 28  500  Sử dụng phương thức khác  F01 (Toán, Văn, Anh, Khoa học tự nhiên)  0
 |     |     |     | F02 (Toán, Văn, Anh, Khoa học xã hội)  | 0   |
 | --- | --- | --- | -------------------------------------- | --- |
@@ -934,7 +934,7 @@ PTK (Sử dụng phương thức khác) 0
 Điểm ưu tiên đối tượng và khu vực thực hiện theo Quy định của Bộ Giáo dục & Đào tạo.
 1.7. Tổ chức tuyển sinh: Thời gian; hình thức, điều kiện nhận hồ sơ dự tuyển/thi tuyển; các điều kiện xét tuyển/thi tuyển.
 1.7.1. Điều kiện xét tuyển
-Các thí sinh thuộc đối tượng tuyển sinh có nguyện vọng theo học tại Trường Đại học FPT cần đáp ứng các điều kiện trúng tuyển của
+Các thí sinh thuộc đối tượng tuyển sinh có nguyện vọng theo học tại Trường Đại học FPT cần đáp ứng các điều kiện trúng tuyển của
 Trường Đại học FPT:
 Mã phương
 TT Phương thức tuyển sinh Điều kiện trúng tuyển Mã tổ hợp thức xét
@@ -945,7 +945,7 @@ Xét kết quả học tập cấp
 1 1.2. Ưu tiên cho Thế hệ 1 (*): Đạt xếp hạng Top50 SchoolRank F03 200
 THPT (học bạ)
 năm 2022 (chứng nhận thực hiện trên trang
-http://SchoolRank.fpt.edu.vn) đối với thí sinh là Thế hệ 1
+http://SchoolRank.fpt.edu.vn) đối với thí sinh là Thế hệ 1
 Xét tuyển thẳng theo quy TT
 Thí sinh thuộc diện được xét tuyển thẳng trong Quy chế tuyển sinh
 định của Quy chế tuyển
@@ -969,17 +969,17 @@ duy do đơn vị khác tổ chức
 để xét tuyển
 |     |     | Có chứng chỉ tiếng  | Anh TOEFL iBT từ  |     | 80 hoặc IELTS (Học  |     | CCQT  |     |
 | --- | --- | ------------------- | ----------------- | --- | ------------------- | --- | ----- | --- |
-thuật) từ 6.0 hoặc quy đổi tương đương (áp dụng đối với ngành
+thuật) từ 6.0 hoặc quy đổi tương đương (áp dụng đối với ngành
 Chỉ  sử  dụng  chứng  chỉ  Ngôn Ngữ Anh); có chứng chỉ tiếng Nhật JLPT từ N3 trở lên (áp
 | 4   |     |     |     |     |     |     |     | 408  |
 | --- | --- | --- | --- | --- | --- | --- | --- | ---- |
-quốc tế để xét tuyển  dụng đối với ngành Ngôn Ngữ Nhật); có chứng chỉ tiếng Hàn
-TOPIK cấp độ 4 trong kỳ thi TOPIK II (áp dụng đối với ngành
+quốc tế để xét tuyển  dụng đối với ngành Ngôn Ngữ Nhật); có chứng chỉ tiếng Hàn
+TOPIK cấp độ 4 trong kỳ thi TOPIK II (áp dụng đối với ngành
 Ngôn Ngữ Hàn Quốc)
 | Xét tuyển thí sinh tốt  |     |                                 |     |     |     |     | TNNN  |      |
 | ----------------------- | --- | ------------------------------- | --- | --- | --- | --- | ----- | ---- |
-| 5                       |     | Tốt nghiệp THPT ở nước ngoài  |     |     |     |     |       | 411  |
-nghiệp THPT nước ngoài
+| 5                       |     | Tốt nghiệp THPT ở nước ngoài  |     |     |     |     |       | 411  |
+nghiệp THPT nước ngoài
 6.1.Đạt xếp hạng Top40 theo điểm thi THPT năm 2022 (chứng  F01, F02
 nhận thực hiện trên trang http://SchoolRank.fpt.edu.vn theo số liệu
 Đại học FPT tổng hợp và công bố sau kỳ thi THPT 2022)
@@ -987,12 +987,12 @@ nhận thực hiện trên trang http://SchoolRank.fpt.edu.vn theo số liệu
 6.2. Ưu tiên cho Thế hệ 1 (*): Đạt xếp hạng Top50 SchoolRank  F01, F02
 |     |     | năm  2022  | (chứng  | nhận  thực  | hiện  trên  | trang  |     |     |
 | --- | --- | ---------- | ------- | ----------- | ----------- | ------ | --- | --- |
-http://SchoolRank.fpt.edu.vn) đối với thí sinh là Thế hệ 1
+http://SchoolRank.fpt.edu.vn) đối với thí sinh là Thế hệ 1
 | 6  Sử dụng phương thức khác  |     |     |     |     |     |     |     | 500  |
 | ---------------------------- | --- | --- | --- | --- | --- | --- | --- | ---- |
 6.3. Tốt nghiệp một trong các chương trình sau: Chương trình  PTK
-APTECH HDSE/ADSE (đối với ngành Công nghệ thông tin);
-Chương trình ARENA ADIM (đối với chuyên ngành Thiết kế Mỹ
+APTECH HDSE/ADSE (đối với ngành Công nghệ thông tin);
+Chương trình ARENA ADIM (đối với chuyên ngành Thiết kế Mỹ
 thuật số); Chương trình BTEC HND; FUNiX Software
 Engineering
 6.4. Tốt nghiệp Đại học  PTK
@@ -1001,7 +1001,7 @@ Engineering
 Mã phương
 TT Phương thức tuyển sinh Điều kiện trúng tuyển Mã tổ hợp thức xét
 tuyển
-6.5. Sinh viên từ nước ngoài về từ các trường đại học thuộc Top PTK
+6.5. Sinh viên từ nước ngoài về từ các trường đại học thuộc Top PTK
 1000 trong 3 bảng xếp hạng gần nhất: QS, ARWU và THE hoặc
 các trường đạt chứng nhận QS Star 5 sao về chất lượng đào tạo
 Ghi chú:
@@ -1010,13 +1010,13 @@ học. Khi đăng ký xét tuyển, thí sinh là Thế hệ 1 cần nộp Đơn
 địa phương theo mẫu của Trường Đại học FPT.
 1.7.2. Lịch trình xét tuyển
 Căn cứ theo lịch trình xét tuyển năm 2022 của Bộ Giáo dục & Đào tạo.
-Đối với đợt 1 lọc tuyển trên hệ thống của Bộ GD&ĐT, thí sinh chỉ đủ điều kiện trúng tuyển khi đã làm thủ tục đăng ký và
-nhận được thông báo đủ điều kiện sơ tuyển của trường trước ngày lọc tuyển. Trong trường hợp số thí sinh đủ điều kiện trúng
+Đối với đợt 1 lọc tuyển trên hệ thống của Bộ GD&ĐT, thí sinh chỉ đủ điều kiện trúng tuyển khi đã làm thủ tục đăng ký và
+nhận được thông báo đủ điều kiện sơ tuyển của trường trước ngày lọc tuyển. Trong trường hợp số thí sinh đủ điều kiện trúng
 tuyển vượt chỉ tiêu, nhà trường sẽ áp dụng tiêu chí phụ là thứ tự nguyện vọng đăng ký.
-Các đợt tuyển bổ sung (nếu có) căn cứ vào kết quả đợt tuyển sinh trước đó và sẽ được thông báo khi trường chưa tuyển đủ chỉ
+Các đợt tuyển bổ sung (nếu có) căn cứ vào kết quả đợt tuyển sinh trước đó và sẽ được thông báo khi trường chưa tuyển đủ chỉ
 tiêu.
 1.7.3. Thủ tục đăng ký và nộp phí
-a) Địa điểm văn phòng tư vấn tuyển sinh và thông tin liên hệ hướng dẫn cách thức đăng ký và nộp phí
+a) Địa điểm văn phòng tư vấn tuyển sinh và thông tin liên hệ hướng dẫn cách thức đăng ký và nộp phí
 25
 
 Văn phòng tuyển sinh Địa chỉ Điện thoại
@@ -1032,7 +1032,7 @@ TP. Đà Nẵng Khu Đô thị Công nghệ FPT, P. Hòa Hải, Q. Ngũ Hành S�
 Số 600 đường Nguyễn Văn Cừ nối dài, Khu vực 6, phường An Bình, quận Ninh (0292)7301866
 TP. Cần Thơ
 Kiều, TP. Cần Thơ (0292)7303636
-Khu đô thị mới An Phú Thịnh, Phường Nhơn Bình & Phường Đống Đa, TP. Quy (0256)7300999
+Khu đô thị mới An Phú Thịnh, Phường Nhơn Bình & Phường Đống Đa, TP. Quy (0256)7300999
 TP. Quy Nhơn
 Nhơn, Tỉnh Bình Định (0256)7301866
 b) Nộp phí
@@ -1050,11 +1050,11 @@ Ngân Ngân hàng Thương Ngân Hàng Thương Ngân hàng Thương Ngân hàng
 hàng mại Cổ phần Tiên mại Cổ phần Tiên mại Cổ phần Tiên mại Cổ phần Tiên mại Cổ phần Tiên
 Phong – Chi nhánh Phong – Chi Nhánh Phong – Chi nhánh Phong – Chi nhánh Phong – Chi nhánh
 Hoàn Kiếm Tp. Hồ Chí Minh Đà Nẵng Cần Thơ Bình Định
-Nội – Đối với thí sinh đăng ký tham gia chương trình học bổng:
+Nội – Đối với thí sinh đăng ký tham gia chương trình học bổng:
 dung
 <Họ và tên thí sinh – Số CMND của thí sinh – Lệ phí ĐKHB 2022>
 nộp
-– Đối với thí sinh đăng ký nhập học:
+– Đối với thí sinh đăng ký nhập học:
 tiền
 <Họ và tên thí sinh – Số CMND của thí sinh – Lệ phí ĐKNH 2022>
 Các khoản phí áp dụng theo Quy định tài chính hiện hành của Trường Đại học FPT.
@@ -1065,44 +1065,44 @@ Các chính sách ưu tiên xét tuyển thẳng, ưu tiên xét tuyển khác t
 - Lệ phí đăng ký nguyện vọng trên hệ thống của Bộ GD&ĐT: theo quy định của Bộ GD&ĐT năm 2022.
 27
 
-1.10. Học phí dự kiến với sinh viên chính quy; lộ trình tăng học phí tối đa cho từng năm (nếu có).
-Học phí và các khoản phí khác đối với sinh viên chính quy và lộ trình tăng học phí tối đa cho từng năm dựa vào Quy định tài chính
+1.10. Học phí dự kiến với sinh viên chính quy; lộ trình tăng học phí tối đa cho từng năm (nếu có).
+Học phí và các khoản phí khác đối với sinh viên chính quy và lộ trình tăng học phí tối đa cho từng năm dựa vào Quy định tài chính
 hiện hành cho sinh viên các hệ đào tạo của Trường Đại học FPT, cụ thể áp dụng cho các thí sinh nhập học tại các địa điểm đào tạo
 như sau:
 ❖ Cơ sở đào tạo chính tại Tp. Hà Nội và phân hiệu tại Tp. Hồ Chí Minh:
-+ Học phí kỳ định hướng: 11,300,000 VNĐ
-+ Học phí tiếng Anh chuẩn bị: 11,300,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ trình độ)
++ Học phí kỳ định hướng: 11,300,000 VNĐ
++ Học phí tiếng Anh chuẩn bị: 11,300,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ trình độ)
 + Học phí chuyên ngành: 27,300,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)
 ❖ Phân hiệu tại Tp. Đà Nẵng và tỉnh Bình Định
-+ Học phí kỳ định hướng: 7,910,000 VNĐ
-+ Học phí tiếng Anh chuẩn bị: 7,910,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ trình độ)
++ Học phí kỳ định hướng: 7,910,000 VNĐ
++ Học phí tiếng Anh chuẩn bị: 7,910,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ trình độ)
 + Học phí chuyên ngành: 19,110,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)
 ❖ Phân hiệu tại Tp. Cần Thơ:
-+ Học phí kỳ định hướng: 7,250,000 VNĐ
-+ Học phí tiếng Anh chuẩn bị: 7,250,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ trình độ)
-+ Học phí đối với chuyên ngành CNTT và Thiết kế đồ họa: 17,500,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)
-+ Học phí đối với chuyên ngành Kinh tế và Ngôn ngữ: 14,800,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)
++ Học phí kỳ định hướng: 7,250,000 VNĐ
++ Học phí tiếng Anh chuẩn bị: 7,250,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ trình độ)
++ Học phí đối với chuyên ngành CNTT và Thiết kế đồ họa: 17,500,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)
++ Học phí đối với chuyên ngành Kinh tế và Ngôn ngữ: 14,800,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)
 - Học phí có thể được điều chỉnh hàng năm không quá 10%;
-- Đợt nộp học phí đầu tiên khi nhập học sinh viên nộp học phí kỳ định hướng và 1 mức tiếng anh chuẩn bị
+- Đợt nộp học phí đầu tiên khi nhập học sinh viên nộp học phí kỳ định hướng và 1 mức tiếng anh chuẩn bị
 1.11. Thời gian dự kiến tuyển sinh các đợt trong năm.
 Căn cứ theo lịch trình xét tuyển năm 2022 của Bộ Giáo dục & Đào tạo.
-Các đợt tuyển bổ sung (nếu có) căn cứ vào kết quả tuyển sinh trước đó và sẽ được thông báo các thí sinh ngay khi trường chưa
+Các đợt tuyển bổ sung (nếu có) căn cứ vào kết quả tuyển sinh trước đó và sẽ được thông báo các thí sinh ngay khi trường chưa
 28
 
 tuyển đủ chỉ tiêu.
-1.12. Việc CSĐT thực hiện các cam kết đối với thí sinh giải quyết khiếu nại, bảo vệ quyền lợi chính đáng của thí sinh trong
+1.12. Việc CSĐT thực hiện các cam kết đối với thí sinh giải quyết khiếu nại, bảo vệ quyền lợi chính đáng của thí sinh trong
 những trường hợp rủi ro.
 1.13. Thông tin tuyển sinh các ngành đào tạo đặc thù có nhu cầu cao về nhân lực trình độ đại học đáp ứng yêu cầu phát triển
-kinh tế - xã hội của đất nước.
+kinh tế - xã hội của đất nước.
 1.13.1. Thông tin về doanh nghiệp hợp tác đào tạo.
 1.13.2. Các thông tin triển khai áp dụng cơ chế đào tạo đặc thù có nhu cầu cao về nhân lực trình độ đại học (không trái các quy
 định hiện hành).
 1.14. Tài chính:
 1.14.1. Tổng nguồn thu hợp pháp/năm của trường: 1292 tỷ đồng
-1.14.2. Tổng chi phí đào tạo trung bình 1 sinh viên/năm của năm liền trước năm tuyển sinh: 64 triệu đồng/SV/năm
+1.14.2. Tổng chi phí đào tạo trung bình 1 sinh viên/năm của năm liền trước năm tuyển sinh: 64 triệu đồng/SV/năm
 1.15. Các nội dung khác (không trái quy định hiện hành).
-2. Tuyển sinh đào tạo đại học, cao đẳng chính quy với đối tượng tốt nghiệp từ trung cấp trở lên
-Trường không tuyển sinh đào tạo đại học, cao đẳng chính quy với đối tượng tốt nghiệp từ trung cấp trở lên
+2. Tuyển sinh đào tạo đại học, cao đẳng chính quy với đối tượng tốt nghiệp từ trung cấp trở lên
+Trường không tuyển sinh đào tạo đại học, cao đẳng chính quy với đối tượng tốt nghiệp từ trung cấp trở lên
 III. Tuyển sinh đào tạo vừa học vừa làm
 Trường không tuyển sinh đào tạo vừa học vừa làm
 IV. Tuyển sinh đào tạo từ xa
@@ -1111,7 +1111,7 @@ Ngày 23 tháng 06 năm 2022
 Cán bộ kê khai
 THỦ TRƯỞNG ĐƠN VỊ
 Họ và tên: Vũ Thu Chinh
-(Đã ký)
+(Đã ký)
 Số điện thoại: 098 3070782
 Email: Chinhvt@fe.edu.vn
 29
@@ -1133,7 +1133,7 @@ cao
 9 Nguyễn Cẩm Chi Thạc sĩ Thiết kế đa phương tiện Công nghệ thông tin
 10 Lê Nguyên Ngọc Thạc sĩ Ngoại ngữ - Tiếng Anh Kỹ thuật phần mềm
 11 Đinh Thị Thu Dung Đại học Đàn tranh Công nghệ thông tin
-12 Trần Thị Thúy Ba Thạc sĩ T.Anh cho người nói ngôn ngữ # Công nghệ thông tin
+12 Trần Thị Thúy Ba Thạc sĩ T.Anh cho người nói ngôn ngữ # Công nghệ thông tin
 13 Nguyễn Văn Lành Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 14 Đinh Trần Hồng Hạnh Thạc sĩ Ngoại ngữ - Tiếng Anh Công nghệ thông tin
 15 Nguyễn Phương Tâm Thạc sĩ Khoa học máy tính Công nghệ thông tin
@@ -1165,10 +1165,10 @@ cao
 34 Trần Long Thạc sĩ Marketing Quản trị kinh doanh
 35 Nguyễn Đức Trí Thạc sĩ Quản trị kinh doanh Ngôn ngữ Anh
 36 Nguyễn Thị Mai Trinh Thạc sĩ T.Anh cho người nói ngôn ngữ # Kỹ thuật phần mềm
-37 Lê Văn Hoàn Thạc sĩ Kiến trúc Công nghệ thông tin
+37 Lê Văn Hoàn Thạc sĩ Kiến trúc Công nghệ thông tin
 38 Ngô Hoàng Giang Tiến sĩ Công nghệ thông tin Công nghệ thông tin
 39 Vũ Thị Diệu Thư Thạc sĩ Khoa học máy tính Công nghệ thông tin
-40 Nguyễn Hữu Hiệp Thạc sĩ Kiến trúc Công nghệ thông tin
+40 Nguyễn Hữu Hiệp Thạc sĩ Kiến trúc Công nghệ thông tin
 2
 
 STT Họ và tên Chức Trình độ Chuyên môn đào tạo Ngành tham gia giảng dạy
@@ -1179,7 +1179,7 @@ cao
 41 Nguyễn Thị Quỳnh Anh Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
 42 Nguyễn Ngọc Anh Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 43 Trần Minh Khuyên Thạc sĩ Lý luận&p.pháp giảng dạy T.Anh Công nghệ thông tin
-44 Lê Phước Linh Thạc sĩ Xây dựng Kỹ thuật phần mềm
+44 Lê Phước Linh Thạc sĩ Xây dựng Kỹ thuật phần mềm
 45 Nguyễn Văn Nam Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 46 Hồ Minh Trí Thạc sĩ Điện tử viễn thông Công nghệ thông tin
 47 Nguyễn Thị Sương Đại học Ngoại ngữ - Tiếng Nhật Công nghệ thông tin
@@ -1214,7 +1214,7 @@ ngôn ngữ khác
 67 Jireh Faith Ong Cajoles Đại học Quản lý giáo dục Công nghệ thông tin
 68 Võ Thị Thảo Ngọc Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
 69 Trần Sông Lam Thạc sĩ Mỹ thuật Công nghệ thông tin
-70 Hoàng Hà Nhi Thạc sĩ Kiến trúc Công nghệ thông tin
+70 Hoàng Hà Nhi Thạc sĩ Kiến trúc Công nghệ thông tin
 71 Del Rosario Mary Ann Martin Đại học Sư phạm tiếng Anh Công nghệ thông tin
 72 Nguyễn Thị Đoan Trang Thạc sĩ Nghiên cứu phát triển Quản trị kinh doanh
 73 Lê Thị Tuyết Nhi Thạc sĩ Lý luận và phương pháp dạy học bộ Công nghệ thông tin
@@ -1241,7 +1241,7 @@ cao
 86 Trần Thế Trung Tiến sĩ Vật lý Công nghệ thông tin
 87 Nguyễn Thị Ngọc Thanh Thạc sĩ Địa chất Kỹ thuật phần mềm
 88 Đặng Thị Thủy Đại học Ngoại ngữ - Tiếng Nhật Ngôn ngữ Nhật
-89 Nguyễn Bảo Thúy Nhung Thạc sĩ Nông nghiệp Quản trị kinh doanh
+89 Nguyễn Bảo Thúy Nhung Thạc sĩ Nông nghiệp Quản trị kinh doanh
 90 Nguyễn Đức Nam Đại học Sư phạm giáo dục thể chất Công nghệ thông tin
 91 Võ An Hải Thạc sĩ Tài chính Quản trị kinh doanh
 92 Nguyễn Ngự Giao Thạc sĩ Du lịch Quản trị kinh doanh
@@ -1251,7 +1251,7 @@ môn tiếng Anh
 95 Nguyễn Đoàn Tấn Anh Thạc sĩ Điện tử viễn thông Công nghệ thông tin
 96 Trần Ngọc Anh Tiến sĩ Công nghệ thông tin Công nghệ thông tin
 97 Dương Hồng Quang Thạc sĩ Kỹ Thuật Công nghệ thông tin
-98 Trương Thị Hoàng Phúc Thạc sĩ Ngoại ngữ - Tiếng Anh Công nghệ thông tin
+98 Trương Thị Hoàng Phúc Thạc sĩ Ngoại ngữ - Tiếng Anh Công nghệ thông tin
 99 Võ Thị Diệu Linh Đại học Sư phạm tiếng Anh Kỹ thuật phần mềm
 5
 
@@ -1272,7 +1272,7 @@ cao
 109 Vũ Thị Thanh Huyền Thạc sĩ Khoa học máy tính Công nghệ thông tin
 110 Tô Thanh Hải Tiến sĩ Công nghệ thông tin Công nghệ thông tin
 111 Nguyễn Thanh Tâm Thạc sĩ Ngoại ngữ - Tiếng Anh Công nghệ thông tin
-112 Lê Thị Thúy Mai Thạc sĩ T.Anh cho người nói ngôn ngữ # Công nghệ thông tin
+112 Lê Thị Thúy Mai Thạc sĩ T.Anh cho người nói ngôn ngữ # Công nghệ thông tin
 113 Nguyễn Thị Thanh Duyên Thạc sĩ Lý Luận và PPDH bộ môn tiếng Anh Công nghệ thông tin
 114 Nguyễn Bảo Việt Thạc sĩ Phương pháp Toán Sơ cấp Công nghệ thông tin
 115 Lê Thị Phương Dung Thạc sĩ Kế toán Quản trị kinh doanh
@@ -1301,7 +1301,7 @@ cao
 131 Nguyễn Đình An Thạc sĩ Quản lý giáo dục Quản trị kinh doanh
 132 Ngô Thị Phụng Thạc sĩ Ngoại ngữ - Tiếng Anh Công nghệ thông tin
 133 Nguyễn Thị Thuận Thạc sĩ Kỹ thuật xây dựng Công nghệ thông tin
-134 Nguyễn Thị Thúy Nga Thạc sĩ Phương pháp giảng dạy TiếngAnh Công nghệ thông tin
+134 Nguyễn Thị Thúy Nga Thạc sĩ Phương pháp giảng dạy TiếngAnh Công nghệ thông tin
 135 Nguyễn Quốc Quân Thạc sĩ Tài chính ngân hàng Quản trị kinh doanh
 136 Sepcon Maria Karla Suarez Đại học Báo chí Công nghệ thông tin
 137 Lê Thị Bích Chi Thạc sĩ Ngoại ngữ - Tiếng Anh Công nghệ thông tin
@@ -1331,7 +1331,7 @@ phương tiện
 153 Trần Duy Khiêm Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
 154 Nguyễn Trọng Luân Tiến sĩ Khoa học Vật Liệu Quản trị kinh doanh
 155 Trần Lý Anh Tuấn Thạc sĩ Luật Kinh tế Quản trị kinh doanh
-156 La Thị Cẩm Tú Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
+156 La Thị Cẩm Tú Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
 157 Nguyễn Khánh Phương Thạc sĩ Văn hóa học Quản trị kinh doanh
 158 Huỳnh Ngọc Linh Đại học Ngoại ngữ - Tiếng Anh Công nghệ thông tin
 159 Nguyễn Hoàng Giang Thạc sĩ Marketing Quản trị kinh doanh
@@ -1344,19 +1344,19 @@ danh chuyên môn Tên Tên ngành đại học
 khoa học ngành
 cao
 đẳng
-162 Bùi Thị Thanh Trúc Đại học Đông phương học Công nghệ thông tin
+162 Bùi Thị Thanh Trúc Đại học Đông phương học Công nghệ thông tin
 163 Phạm Minh Châu Đại học Ngoại ngữ - Tiếng Anh Công nghệ thông tin
 164 Lê Anh Tuấn Thạc sĩ Giáo dục học Công nghệ thông tin
 165 Ngô Văn Cẩm Tiến sĩ Giáo dục học Công nghệ thông tin
 166 Võ Duy Nghi Tiến sĩ Quản trị kinh doanh Quản trị kinh doanh
-167 Trần Thị Diễm Phúc Thạc sĩ Quản lý Tài nguyên và Môi trường Công nghệ thông tin
+167 Trần Thị Diễm Phúc Thạc sĩ Quản lý Tài nguyên và Môi trường Công nghệ thông tin
 168 Trịnh Thị Xuân Uyên Thạc sĩ Giáo dục học Quản trị kinh doanh
 169 Nguyễn Thị Thanh Minh Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
 170 Trương Văn Ngọc Thạc sĩ Lý luận & LS Mỹ thuật ứng dụng Công nghệ thông tin
 171 Nguyễn Nghiệm Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 172 Lưu Văn Hùng Thạc sĩ Khoa học giáo dục Quản trị kinh doanh
 173 Nguyễn Thanh Điền Thạc sĩ Khoa học máy tính Kỹ thuật phần mềm
-174 Lương Hoàng Hướng Thạc sĩ Hệ thống thông tin Công nghệ thông tin
+174 Lương Hoàng Hướng Thạc sĩ Hệ thống thông tin Công nghệ thông tin
 175 Ali Zahabi Tiến sĩ Ngôn ngữ học ứng dụng Công nghệ thông tin
 176 Phan Văn Bình Đại học Công nghệ thông tin Công nghệ thông tin
 177 Hoàng Đình Cường Tiến sĩ Khoa học máy tính Công nghệ thông tin
@@ -1372,7 +1372,7 @@ danh chuyên môn Tên Tên ngành đại học
 khoa học ngành
 cao
 đẳng
-183 Nguyễn Thị Thúy Nga Thạc sĩ Ngoại ngữ - Tiếng Anh Ngôn ngữ Anh
+183 Nguyễn Thị Thúy Nga Thạc sĩ Ngoại ngữ - Tiếng Anh Ngôn ngữ Anh
 184 Lê Anh Sơn Tiến sĩ Quản trị kinh doanh Quản trị kinh doanh
 185 Lại Đức Hùng Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 186 Ngô Tiểu Huy Đại học Khoa học máy tính Khoa học máy tính
@@ -1410,7 +1410,7 @@ cao
 211 Lê Đình Huynh Thạc sĩ Kỹ thuật phần mềm Kỹ thuật phần mềm
 212 Đặng Long Giao Đại học Sư phạm Mỹ thuật Công nghệ thông tin
 213 Trịnh Thị Thu Thảo Thạc sĩ Khoa học giáo dục Công nghệ thông tin
-214 Lê Đại Dương Đại học Kiến trúc Công nghệ thông tin
+214 Lê Đại Dương Đại học Kiến trúc Công nghệ thông tin
 215 Đỗ Thị Ngọc Diễm Thạc sĩ Lý luận&p.pháp giảng dạy T.Anh Công nghệ thông tin
 216 Nguyễn Thị Thu Uyên Đại học Sư phạm tiếng Anh Công nghệ thông tin
 217 Marisha Berenice McAuliffe Tiến sĩ Thiết kế Công nghệ thông tin
@@ -1418,7 +1418,7 @@ cao
 219 Hồ Ngọc Lợi Đại học Huấn luyện thể thao Công nghệ thông tin
 220 Vũ Thanh Phong Thạc sĩ Khoa học máy tính Công nghệ thông tin
 221 Võ Tài Huy Thạc sĩ Khoa học máy tính Công nghệ thông tin
-222 Nguyễn Hữu Hướng Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
+222 Nguyễn Hữu Hướng Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
 223 Hứa Tuấn Cường Tiến sĩ Tài chính ngân hàng Quản trị kinh doanh
 224 Phan Thị Việt Hà Thạc sĩ Quản trị kinh doanh Ngôn ngữ Anh
 11
@@ -1464,7 +1464,7 @@ xuất
 249 Trần Thanh Nguyên Thạc sĩ Hệ thống thông tin Công nghệ thông tin
 250 Ngô Thị Thanh Vân Thạc sĩ Tài chính Công nghệ thông tin
 251 Trần Thị Diệu Thạc sĩ Marketing Quản trị kinh doanh
-252 Ngô Minh Thắng Thạc sĩ Kiến trúc Công nghệ thông tin
+252 Ngô Minh Thắng Thạc sĩ Kiến trúc Công nghệ thông tin
 253 Phương Thị Thanh Huyền Tiến sĩ T.Anh cho người nói ngôn ngữ # Ngôn ngữ Anh
 254 Nguyễn Quang Dũng Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
 255 Thạch Hồng Sơn Thạc sĩ Lý Luận Và PPDH Toán Công nghệ thông tin
@@ -1474,7 +1474,7 @@ xuất
 259 Nguyễn Thụy Ngọc Duyên Thạc sĩ Đầu tư tài chính Quản trị kinh doanh
 260 Rainier Troy Vasquez Garin Đại học Vật lý trị liệu Công nghệ thông tin
 261 Phạm Hồng Nhung Thạc sĩ Đông phương học Ngôn ngữ Hàn Quốc
-262 Nguyễn Hà Phúc Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
+262 Nguyễn Hà Phúc Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
 263 Nguyễn Kim Hảo Thạc sĩ Tiếp thị bán hàng và dịch vụ Quản trị kinh doanh
 264 Kiều Thị Thu Chung Thạc sĩ Quản lý Hành chính công Ngôn ngữ Anh
 13
@@ -1487,7 +1487,7 @@ cao
 265 Đoàn Nhật Minh Tiến sĩ Kỹ Thuật Công nghệ thông tin
 266 Nguyễn Ngọc Anh Thạc sĩ Ngoại ngữ - Tiếng Nhật Kỹ thuật phần mềm
 267 Đặng Kiều Oanh Đại học Quan hệ quốc tế Công nghệ thông tin
-268 Trần Thị Thúy Tiến sĩ Khoa học máy tính Công nghệ thông tin
+268 Trần Thị Thúy Tiến sĩ Khoa học máy tính Công nghệ thông tin
 269 Cecilio Jr. Requentel Fedelino Thạc sĩ Giáo dục mầm non Công nghệ thông tin
 270 Lâm Hữu Khánh Phương Thạc sĩ Khoa học máy tính Công nghệ thông tin
 271 Hoàng Tuấn Anh Tiến sĩ Hệ thống thông tin Công nghệ thông tin
@@ -1520,15 +1520,15 @@ cao
 290 Bùi Thị Loan Thạc sĩ Kỹ thuật phần mềm Kỹ thuật phần mềm
 291 Tôn Thất Hoài Thạc sĩ Quản trị kinh doanh Công nghệ thông tin
 292 Naoko Adachi Thạc sĩ Khoa Học Xã Hội Công nghệ thông tin
-293 Trần Kim Phước Tiến sĩ Quản trị kinh doanh Quản trị kinh doanh
+293 Trần Kim Phước Tiến sĩ Quản trị kinh doanh Quản trị kinh doanh
 294 Ngô Thế Nam Thạc sĩ Kinh doanh quốc tế Quản trị kinh doanh
 295 Nguyễn Anh Công Thạc sĩ Kỹ thuật điện Công nghệ thông tin
 296 Trần Thanh Hiệp Thạc sĩ Toán học Công nghệ thông tin
 297 Đặng Sơn Tùng Thạc sĩ Marketing Công nghệ thông tin
 298 Phạm Thị Nam Thạc sĩ Mỹ thuật công nghiệp Thiết kế đồ họa
-299 Dương Thị Thúy Thơ Thạc sĩ Triết học An toàn thông tin
+299 Dương Thị Thúy Thơ Thạc sĩ Triết học An toàn thông tin
 300 Joaquin Ernaida Mae Inigo Đại học Giáo dục tiểu học Công nghệ thông tin
-301 Nguyễn Phước Cường Thạc sĩ Khoa học máy tính Kỹ thuật phần mềm
+301 Nguyễn Phước Cường Thạc sĩ Khoa học máy tính Kỹ thuật phần mềm
 302 Đặng Thanh Thu Thạc sĩ Quan hệ quốc tế Kinh doanh quốc tế
 303 Nguyễn Quốc Trung Thạc sĩ Việt Nam Học Công nghệ thông tin
 304 Từ Thanh Phong Thạc sĩ Giáo dục học Công nghệ thông tin
@@ -1574,9 +1574,9 @@ cao
 330 Ngô Xuân Phú Thạc sĩ Nhiếp ảnh Công nghệ thông tin
 331 Trần Thế Hào Hiệp Đại học Mỹ thuật công nghiệp Công nghệ thông tin
 332 Lê Thị Kim Dung Thạc sĩ Ngoại ngữ - Tiếng Nhật Ngôn ngữ Nhật
-333 Hồ Nguyễn Phú Bảo Thạc sĩ Khoa học máy tính Công nghệ thông tin
+333 Hồ Nguyễn Phú Bảo Thạc sĩ Khoa học máy tính Công nghệ thông tin
 334 Nguyễn Văn Long Đại học Công nghệ thông tin Công nghệ thông tin
-335 Đỗ Trí Tuấn Thạc sĩ Kiến trúc Công nghệ thông tin
+335 Đỗ Trí Tuấn Thạc sĩ Kiến trúc Công nghệ thông tin
 336 Nguyễn Thị Phương Đại học Thiết kế đồ họa Công nghệ thông tin
 337 Giang Vỹ Hùng Đại học Xử Lý Thông Tin Công nghệ thông tin
 338 Võ Bảo Trân Thạc sĩ T.Anh cho người nói ngôn ngữ # An toàn thông tin
@@ -1614,7 +1614,7 @@ cao
 363 Llena Jannette Nimenzo Đại học Khoa Học Xã Hội Công nghệ thông tin
 364 Nguyễn Duy Phương Thạc sĩ Khoa học thư viện Công nghệ thông tin
 365 Nguyễn Minh Trường Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
-366 Nguyễn Phước Ái Phương Thạc sĩ Tiếng Anh Công nghệ thông tin
+366 Nguyễn Phước Ái Phương Thạc sĩ Tiếng Anh Công nghệ thông tin
 367 Trần Nguyễn Đăng Khoa Thạc sĩ Master of Business (Marketing) Công nghệ thông tin
 368 Nguyễn Thị Kiều Ân Thạc sĩ Toán ứng dụng Công nghệ thông tin
 18
@@ -1642,7 +1642,7 @@ De
 383 Bùi Lê Minh Tiến sĩ Quản trị kinh doanh Quản trị kinh doanh
 384 Huỳnh Phạm Ngọc Lâm Thạc sĩ Quản trị kinh doanh Công nghệ thông tin
 385 Trần Thị Ly Băng Đại học Quản trị kinh doanh Công nghệ thông tin
-386 Nguyễn Hồ Trúc Linh Đại học Thiết kế đồ họa Công nghệ thông tin
+386 Nguyễn Hồ Trúc Linh Đại học Thiết kế đồ họa Công nghệ thông tin
 387 Trần Vi Anh Thạc sĩ Kinh doanh quốc tế Kinh doanh quốc tế
 388 Lê Thị Kiều Hoa Thạc sĩ Luật Kinh tế Quản trị kinh doanh
 19
@@ -1668,7 +1668,7 @@ cao
 402 Nguyễn Thị Cẩm Hương Thạc sĩ Software Engineering Công nghệ thông tin
 403 Lê Thị Mỹ Danh Tiến sĩ Quan hệ quốc tế Công nghệ thông tin
 404 Đỗ Thị Vân Tiến sĩ Nghiên cứu Đông Á Ngôn ngữ Nhật
-405 Thái Thị Phúc Thạc sĩ Ngoại ngữ - Tiếng Hàn Ngôn ngữ Hàn Quốc
+405 Thái Thị Phúc Thạc sĩ Ngoại ngữ - Tiếng Hàn Ngôn ngữ Hàn Quốc
 406 Ngô Quỳnh Bảo Trâm Thạc sĩ Khoa học máy tính Kỹ thuật phần mềm
 407 Vũ Thị Bích Hiệp Tiến sĩ Giáo dục học Công nghệ thông tin
 408 Nguyễn Văn Thắm Thạc sĩ Lý luận&p.pháp giảng dạy T.Anh Công nghệ thông tin
@@ -1682,7 +1682,7 @@ cao
 đẳng
 410 Giang Thị Minh Thảo Thạc sĩ Quản trị rủi ro Quản trị kinh doanh
 411 Phạm Thị Kim Long Đại học Đàn tranh Kỹ thuật phần mềm
-412 Huỳnh Thanh Trúc Thạc sĩ Biểu diễn Đàn tranh Công nghệ thông tin
+412 Huỳnh Thanh Trúc Thạc sĩ Biểu diễn Đàn tranh Công nghệ thông tin
 413 Trần Bá Hộ Đại học Tin học Công nghệ thông tin
 414 Nguyễn Quốc Cường Đại học Sư phạm giáo dục thể chất Quản trị kinh doanh
 415 Nguyễn Thị Thu Mai Thạc sĩ Hóa hữu cơ Quản trị kinh doanh
@@ -1696,7 +1696,7 @@ phương tiện
 422 Hà Thị Thu Hoài Thạc sĩ Toán giải tích Công nghệ thông tin
 423 Trần Cao Trọng Thạc sĩ Huấn luyện thể thao Công nghệ thông tin
 424 Lưu Trọng Luân Thạc sĩ T.Anh cho người nói ngôn ngữ # Công nghệ thông tin
-425 Lâm Hữu Phúc Đại học Cơ khí chế tạo máy Công nghệ thông tin
+425 Lâm Hữu Phúc Đại học Cơ khí chế tạo máy Công nghệ thông tin
 426 Nguyễn Minh Tuấn Đại học Biểu diễn nhạc cụ truyền thống Công nghệ thông tin
 427 Nguyễn Ánh Lợi Tiến sĩ Quản trị kinh doanh Quản trị kinh doanh
 428 Nguyễn Mai Hoa Thạc sĩ Báo chí Quản trị kinh doanh
@@ -1713,14 +1713,14 @@ cao
 432 Huỳnh Công Việt Ngữ Thạc sĩ Kỹ Thuật Công nghệ thông tin
 433 Nguyễn Khắc Hùng Tiến sĩ Hành chính và Quản lý Quản trị kinh doanh
 434 Hàng Bá Linh Thạc sĩ Triết học Công nghệ thông tin
-435 Huỳnh Thị Trúc Liễu Thạc sĩ Ngôn ngữ học ứng dụng Công nghệ thông tin
+435 Huỳnh Thị Trúc Liễu Thạc sĩ Ngôn ngữ học ứng dụng Công nghệ thông tin
 436 Đoàn Nguyễn Thành Hòa Thạc sĩ Kỹ Thuật Công nghệ thông tin
 437 Nguyễn Phi Hùng Thạc sĩ Kinh tế Quản trị kinh doanh
 438 Lâm Văn Tư Đại học Công nghệ thông tin Công nghệ thông tin
 439 Bùi Thu Trang Thạc sĩ Khoa học quản lý Quản trị kinh doanh
 440 Võ Thị Thanh Vân Tiến sĩ Khoa học Công nghệ thông tin
 441 Lưu Vĩnh Phương Thạc sĩ Vật lý Quản trị kinh doanh
-442 Đinh Phước Vinh Thạc sĩ Toán học Công nghệ thông tin
+442 Đinh Phước Vinh Thạc sĩ Toán học Công nghệ thông tin
 443 Cao Diễm Phương Thạc sĩ Quản trị kinh doanh Công nghệ thông tin
 444 Trần Hạo Anh Thạc sĩ Quản trị kinh doanh Công nghệ thông tin
 445 Hoàng Đức Đoàn Thạc sĩ Ngoại ngữ - Tiếng Anh Công nghệ thông tin
@@ -1744,7 +1744,7 @@ cao
 456 Trần Minh Phăng Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
 457 Lương Mai Nhất Linh Thạc sĩ Kinh tế Quản trị kinh doanh
 458 Nguyễn Xuân Hưng Thạc sĩ Công nghệ thông tin Công nghệ thông tin
-459 Ngô Phước Nguyên Thạc sĩ Khoa học máy tính Kỹ thuật phần mềm
+459 Ngô Phước Nguyên Thạc sĩ Khoa học máy tính Kỹ thuật phần mềm
 460 Đỗ Quỳnh Hoa Thạc sĩ Quản trị kinh doanh Ngôn ngữ Anh
 461 Trương Xuân Toàn Thạc sĩ Hóa lý thuyết và Hóa lý Quản trị kinh doanh
 462 Nguyễn Văn Khương Đại học Giáo dục thể chất Quản trị kinh doanh
@@ -1767,14 +1767,14 @@ cao
 471 Phan Bảo Châu Thạc sĩ Thiết kế Truyền thông đa
 phương tiện
 472 Châu Mỹ Duyên Thạc sĩ Xã Hội Học - Nghiên cứu Phát Triển Công nghệ thông tin
-473 Nguyễn Thị Hà Dung Thạc sĩ Kiến trúc Công nghệ thông tin
+473 Nguyễn Thị Hà Dung Thạc sĩ Kiến trúc Công nghệ thông tin
 474 Đỗ Thị Minh Thủy Thạc sĩ Quản lý giáo dục Kỹ thuật phần mềm
 475 Isidro Jr. Patillo Cruz Thạc sĩ Sư Phạm Anh Văn Công nghệ thông tin
 476 Nguyễn Khắc Việt Tiến sĩ khoa Toán - Lý An toàn thông tin
 học
 477 Ngô Thị Hoàng Oanh Thạc sĩ Quản lý giáo dục Công nghệ thông tin
 478 Hoàng Thị Lan Anh Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
-479 Phạm Hoàng Phước Đại học Giáo dục thể chất Kỹ thuật phần mềm
+479 Phạm Hoàng Phước Đại học Giáo dục thể chất Kỹ thuật phần mềm
 480 Trương Công Duẩn Tiến sĩ Vật lý Công nghệ thông tin
 481 Phạm Công Danh Tiến sĩ văn tự ngôn ngữ hán học Công nghệ thông tin
 482 Huỳnh Văn Bảy Thạc sĩ Công nghệ thông tin Công nghệ thông tin
@@ -1796,21 +1796,21 @@ cao
 491 Trần Thanh Danh Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
 492 Võ Thị Cẩm Diệu Đại học Ngoại ngữ - Tiếng Anh Công nghệ thông tin
 493 Huỳnh Tố Nương Thạc sĩ Lý luận&p.pháp giảng dạy T.Anh Công nghệ thông tin
-494 Nguyễn Minh Phúc Thạc sĩ Công tác xã hội Công nghệ thông tin
+494 Nguyễn Minh Phúc Thạc sĩ Công tác xã hội Công nghệ thông tin
 495 John Peter Hardy Đại học Marketing Công nghệ thông tin
 496 Nguyễn Thị Phương Ngân Đại học Sư phạm hoá học Quản trị kinh doanh
 497 Nguyễn Phạm Hương Nguyên Thạc sĩ Hóa vô cơ Công nghệ thông tin
 498 Nguyễn Thị Hạnh Thạc sĩ Kinh tế tri thức và lãnh thổ Công nghệ thông tin
 499 Nguyễn Thị Quế Hường Thạc sĩ Nhật Bản học Công nghệ thông tin
 500 Nguyễn Thị Thanh Tâm Tiến sĩ Quản lý và Lãnh đạo Quản trị kinh doanh
-501 Phan Huỳnh Minh Tú Thạc sĩ Hàn Quốc Học Ngôn ngữ Hàn Quốc
-502 Lê Thị Thúy Hằng Thạc sĩ Lý luận&p.pháp giảng dạy T.Anh Ngôn ngữ Anh
+501 Phan Huỳnh Minh Tú Thạc sĩ Hàn Quốc Học Ngôn ngữ Hàn Quốc
+502 Lê Thị Thúy Hằng Thạc sĩ Lý luận&p.pháp giảng dạy T.Anh Ngôn ngữ Anh
 503 Phó Thị Mỹ Hạnh Tiến sĩ Truyền thông&Khoa học ngôn ngữ Quản trị kinh doanh
 504 Nguyễn Đình Ngọc Thạc sĩ Khoa học máy tính Công nghệ thông tin
 505 Đỗ Anh Vũ Thạc sĩ Ngoại ngữ - Tiếng Anh Công nghệ thông tin
 506 Dương Thị Thục Oanh Thạc sĩ Lý luận&p.pháp giảng dạy T.Anh Công nghệ thông tin
 507 Emily Cabalida De Guzman Đại học Business Teacher Education Công nghệ thông tin
-508 Hoàng Thị Thúy Ngọc Tiến sĩ Kinh tế Quản trị kinh doanh
+508 Hoàng Thị Thúy Ngọc Tiến sĩ Kinh tế Quản trị kinh doanh
 509 Phạm Hữu Thắng Đại học Mỹ thuật Công nghệ thông tin
 510 Đặng Văn Hiếu Tiến sĩ Khoa học vật liệu Công nghệ thông tin
 25
@@ -1838,7 +1838,7 @@ Abejo
 525 Lê Thị Thanh Nga Thạc sĩ Điện tử viễn thông Công nghệ thông tin
 526 Phạm Thị Phương Hà Tiến sĩ Ngôn ngữ học ứng dụng Ngôn ngữ Anh
 527 Hoàng Xuân Sơn Thạc sĩ Điện tử viễn thông Công nghệ thông tin
-528 Dương Ngọc Tú Thạc sĩ Sáo trúc Quản trị kinh doanh
+528 Dương Ngọc Tú Thạc sĩ Sáo trúc Quản trị kinh doanh
 529 Nguyễn Thế Hoàng Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 530 Nguyễn Mạnh Hùng Tiến sĩ Toán ứng dụng Quản trị kinh doanh
 26
@@ -1886,7 +1886,7 @@ ngôn ngữ khác
 558 Võ Minh Vinh Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
 559 Nguyễn Thị Thanh Nhàn Thạc sĩ Kinh tế phát triển Quản trị kinh doanh
 560 Nguyễn Thị Kim Cương Thạc sĩ Kế toán Công nghệ thông tin
-561 Dubuc Sylvain Đại học Kiến trúc Công nghệ thông tin
+561 Dubuc Sylvain Đại học Kiến trúc Công nghệ thông tin
 562 Nguyễn Lê Vân Hà Đại học Thiết kế thời trang Công nghệ thông tin
 563 Nguyễn Hoàng Ánh Phó giáo Tiến sĩ Kinh tế Quản trị kinh doanh
 sư
@@ -1920,7 +1920,7 @@ cao
 584 Shruthi Thaiveppil Gopi Thạc sĩ Thiết kế Công nghệ thông tin
 585 Chu Thành Tiến sĩ Kinh tế Quản trị kinh doanh
 586 Cao Thái Thảo Thạc sĩ Ngôn ngữ học ứng dụng Quản trị kinh doanh
-587 Nguyễn Thị Minh Thúy Thạc sĩ Mỹ thuật tạo hình Thiết kế đồ họa
+587 Nguyễn Thị Minh Thúy Thạc sĩ Mỹ thuật tạo hình Thiết kế đồ họa
 588 Nguyễn Đức Việt Đại học Công nghệ thông tin Công nghệ thông tin
 589 Lý Quỳnh Trang Thạc sĩ Ngoại ngữ - Tiếng Anh Công nghệ thông tin
 590 Hoàng Tôn Nữ Giáng Hương Thạc sĩ Marketing chiến lược Quản trị kinh doanh
@@ -1935,18 +1935,18 @@ cao
 592 Thái Quang Hy Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
 593 Lê Văn Phụng Thạc sĩ Hệ thống thông tin Công nghệ thông tin
 594 Trịnh Thị Mai Thạc sĩ Tâm lý học Công nghệ thông tin
-595 Lê Mộng Thúy Thạc sĩ Khoa học máy tính Công nghệ thông tin
+595 Lê Mộng Thúy Thạc sĩ Khoa học máy tính Công nghệ thông tin
 596 Trần Ngọc Tuấn Tiến sĩ Quản trị kinh doanh
 597 Nguyễn Việt Thắng Tiến sĩ Quản trị kinh doanh
-598 Hồ Trúc Chi Thạc sĩ Lý luận&p.pháp giảng dạy T.Anh Ngôn ngữ Anh
-599 Trịnh Thúy Nga Thạc sĩ Quản trị du lịch Quản trị kinh doanh
+598 Hồ Trúc Chi Thạc sĩ Lý luận&p.pháp giảng dạy T.Anh Ngôn ngữ Anh
+599 Trịnh Thúy Nga Thạc sĩ Quản trị du lịch Quản trị kinh doanh
 600 Nguyễn Bảo Trung Thạc sĩ Kỹ thuật điện tử Công nghệ thông tin
 601 Nguyễn Thị Thiều Hoa Thạc sĩ Dạy tiếng Anh cho người nói ngôn ngữ Công nghệ thông tin
 khác
 602 Phạm Phương Thảo Thạc sĩ Khoa học Quản trị kinh doanh
 603 Nguyễn Hoàng Tiến Đại học Công nghệ thông tin Công nghệ thông tin
 604 Phạm Đức Việt Thạc sĩ Tài chính Quản trị kinh doanh
-605 Trần Phước Sinh Thạc sĩ Hệ thống thông tin Công nghệ thông tin
+605 Trần Phước Sinh Thạc sĩ Hệ thống thông tin Công nghệ thông tin
 606 Vũ Thị Minh Hiền Tiến sĩ khoa Kinh tế Quản trị kinh doanh
 học
 607 Bùi Hoàng Dũng Thạc sĩ Giáo dục học Công nghệ thông tin
@@ -2000,7 +2000,7 @@ phương tiện
 639 Nguyễn Thị Ngọc Quỳnh Thạc sĩ Tài chính Quản trị kinh doanh
 640 Đỗ Kinh Kha Thạc sĩ Giáo dục thể chất Công nghệ thông tin
 641 Hà Đức Hạnh Thạc sĩ Mỹ thuật ứng dụng Công nghệ thông tin
-642 Trần Diệu Thúy Thạc sĩ Marketing Quản trị kinh doanh
+642 Trần Diệu Thúy Thạc sĩ Marketing Quản trị kinh doanh
 643 Nguyễn Thị Kim Ngân Thạc sĩ Quản trị kinh doanh Công nghệ thông tin
 644 Trần Ngọc Minh Như Thạc sĩ Thương mại Châu Âu Quản trị kinh doanh
 645 Võ Thị Thanh Huyền Thạc sĩ Quản trị Marketing Quản trị kinh doanh
@@ -2044,7 +2044,7 @@ danh chuyên môn Tên Tên ngành đại học
 khoa học ngành
 cao
 đẳng
-671 Nguyễn Đắc Đạt Thạc sĩ Kiến trúc Truyền thông đa
+671 Nguyễn Đắc Đạt Thạc sĩ Kiến trúc Truyền thông đa
 phương tiện
 672 Nguyễn Tuấn Anh Thạc sĩ Thông tin thư viện Công nghệ thông tin
 673 Nguyễn Duy Hinh Tiến sĩ Kinh tế Quản trị kinh doanh
@@ -2080,7 +2080,7 @@ cao
 695 Nguyễn Long Quốc Thạc sĩ T.Anh cho người nói ngôn ngữ # Ngôn ngữ Anh
 696 Vũ Lê Bảo Trinh Thạc sĩ Văn học Quản trị kinh doanh
 697 Nguyễn Thị Đức Hạnh Thạc sĩ Quản trị kinh doanh Công nghệ thông tin
-698 Lê Diệu Thúy Thạc sĩ Quản lý kinh tế Công nghệ thông tin
+698 Lê Diệu Thúy Thạc sĩ Quản lý kinh tế Công nghệ thông tin
 699 Lê Ngọc Trâm Thạc sĩ Chính trị học Kỹ thuật phần mềm
 700 Phạm Kim Chi Thạc sĩ Lý luận&p.pháp giảng dạy T.Anh Công nghệ thông tin
 701 Nguyễn Minh Hòa Thạc sĩ Kinh tế thương mại Kỹ thuật phần mềm
@@ -2107,13 +2107,13 @@ cao
 715 Nguyễn Thu Hằng Thạc sĩ Lý luận&p.pháp giảng dạy T.Anh Công nghệ thông tin
 716 Phan Thị Lan Hương Đại học Âm nhạc Công nghệ thông tin
 717 Hỏa Thị Thanh Bình Đại học Vật lý Kỹ thuật phần mềm
-718 Phạm Thị Kim Thúy Thạc sĩ Kỹ Thuật Công nghệ thông tin
+718 Phạm Thị Kim Thúy Thạc sĩ Kỹ Thuật Công nghệ thông tin
 719 Nguyễn Đăng Quang Thạc sĩ Toán học Công nghệ thông tin
 720 Trần Thị Mỹ Phụng Đại học Công nghệ sinh học/Quản trị Kinh Công nghệ thông tin
 Doanh
 721 Nguyễn Thị Thu Thảo Thạc sĩ Lý luận&p.pháp giảng dạy T.Anh Công nghệ thông tin
 722 Hoàng Thị Thu Hương Thạc sĩ Quản trị du lịch và lữ hành Công nghệ thông tin
-723 Lê Phước Hùng Phó giáo Tiến sĩ Quản lý Quản trị kinh doanh
+723 Lê Phước Hùng Phó giáo Tiến sĩ Quản lý Quản trị kinh doanh
 sư
 724 Trương Thị Minh Châu Thạc sĩ Kinh tế chính trị Công nghệ thông tin
 725 Đỗ Hoàng Anh Thạc sĩ Truyền thông Công nghệ thông tin
@@ -2141,7 +2141,7 @@ cao
 740 Nguyễn Thị Mỹ Hạnh Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 741 Đinh Đức Mạnh Thạc sĩ Hệ thống thông tin quản lý Công nghệ thông tin
 742 Trần Thủy Tiên Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
-743 Nguyễn Trần Phước Bảo Thạc sĩ Tài chính và thương mại quốctế Công nghệ thông tin
+743 Nguyễn Trần Phước Bảo Thạc sĩ Tài chính và thương mại quốctế Công nghệ thông tin
 744 Trần Tuấn Anh Thạc sĩ Khoa học máy tính Công nghệ thông tin
 745 Phùng Thị Hà Thạc sĩ Vật lý Công nghệ thông tin
 746 Đặng Kim Thi Đại học Công nghệ thông tin Công nghệ thông tin
@@ -2156,7 +2156,7 @@ danh chuyên môn Tên Tên ngành đại học
 khoa học ngành
 cao
 đẳng
-751 Nguyễn Hoàng Thảo Thạc sĩ Quan hệ công chúng Truyền thông đa
+751 Nguyễn Hoàng Thảo Thạc sĩ Quan hệ công chúng Truyền thông đa
 phương tiện
 752 Nguyễn Trung Kiên Đại học Tài chính ngân hàng Công nghệ thông tin
 753 Trần Duy Phong Thạc sĩ Khoa học máy tính Công nghệ thông tin
@@ -2191,7 +2191,7 @@ cao
 773 Trịnh Phương Anh Thạc sĩ Quản lý kinh tế Công nghệ thông tin
 774 Nguyễn Hạnh Nguyên Thạc sĩ Kinh tế Quản trị kinh doanh
 775 Lê Phát Minh Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
-776 Vũ Diệu Thúy Thạc sĩ Marketing Quản trị kinh doanh
+776 Vũ Diệu Thúy Thạc sĩ Marketing Quản trị kinh doanh
 777 Phan Đình Hải Đại học Huấn luyện thể thao Công nghệ thông tin
 778 Nguyễn Thị Thanh Xuân Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 779 Nguyễn Thị Thùy Trang Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
@@ -2201,7 +2201,7 @@ sư
 782 Phan Trường Lâm Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 783 Trần Thị Hường Thạc sĩ Hệ thống thông tin Công nghệ thông tin
 784 Nguyễn Duy Hồng Thạc sĩ Kinh doanh và quản lý Quản trị kinh doanh
-785 Nguyễn Thúy Hường Thạc sĩ Xử Lý Thông Tin Công nghệ thông tin
+785 Nguyễn Thúy Hường Thạc sĩ Xử Lý Thông Tin Công nghệ thông tin
 786 Phạm Hương Giang Thạc sĩ Kỹ thuật tự động hóa Công nghệ thông tin
 787 Ngô Trần Thái Dương Tiến sĩ Kinh tế học Quản trị kinh doanh
 788 Nguyễn Hùng Dũng Thạc sĩ Hệ thống thông tin Công nghệ thông tin
@@ -2213,16 +2213,16 @@ khoa học ngành
 cao
 đẳng
 789 Nguyễn Trung Kiên Thạc sĩ Quản trị kinh doanh Công nghệ thông tin
-790 Hoàng Thị Cúc Phương Thạc sĩ Thiết Kế Web Công nghệ thông tin
+790 Hoàng Thị Cúc Phương Thạc sĩ Thiết Kế Web Công nghệ thông tin
 791 Trần Thị Thu Phó giáo Tiến sĩ Kinh tế Quản trị kinh doanh
 sư
 792 Vũ Khắc Kỷ Tiến sĩ Khoa học máy tính Khoa học máy tính
 793 Nguyễn Đình Chi Tiến sĩ Kỹ thuật thông tin và truyền thông Công nghệ thông tin
-794 Lê Hải Việt Hoàng Thạc sĩ Kiến trúc Công nghệ thông tin
+794 Lê Hải Việt Hoàng Thạc sĩ Kiến trúc Công nghệ thông tin
 795 Bùi Thị Trang Thạc sĩ Lịch sử Công nghệ thông tin
 796 Trần Công Mua Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 797 Đỗ Công Hùng Tiến sĩ Kỹ Thuật Công nghệ thông tin
-798 Nguyễn Tấn Phúc Thạc sĩ Công nghệ thông tin Công nghệ thông tin
+798 Nguyễn Tấn Phúc Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 799 Trần Hữu Thiện Đại học Kỹ thuật phần mềm Kỹ thuật phần mềm
 800 Mai Anh Duy Thạc sĩ Tiếp thị&hoạt động thương mại Công nghệ thông tin
 801 Vũ Thị Tuyết Mai Thạc sĩ Toán ứng dụng Công nghệ thông tin
@@ -2230,7 +2230,7 @@ sư
 803 Mai Phương Thảo Thạc sĩ Giảng dạy tiếng Anh cho người nói Công nghệ thông tin
 ngôn ngữ khác
 804 Nguyễn Thị Phương Linh Đại học Sư phạm tiếng Anh Công nghệ thông tin
-805 Dương Trọng Phú Sơn Thạc sĩ Khoa học máy tính Kỹ thuật phần mềm
+805 Dương Trọng Phú Sơn Thạc sĩ Khoa học máy tính Kỹ thuật phần mềm
 806 Phùng Tấn Việt Tiến sĩ Kinh tế Quản trị kinh doanh
 807 Văn Ngọc Quỳnh Như Thạc sĩ Quản trị KD du lịch-khách sạn Quản trị khách sạn
 40
@@ -2300,7 +2300,7 @@ cao
 849 Huỳnh Ngọc Đông Giao Thạc sĩ Quản trị Truyền thông Công nghệ thông tin
 850 Tống Ngọc Hoa Đại học Quản lý giáo dục Công nghệ thông tin
 851 Dương Phương Linh Thạc sĩ Luật Công nghệ thông tin
-852 Đỗ Văn Phú Thạc sĩ Giáo dục học Công nghệ thông tin
+852 Đỗ Văn Phú Thạc sĩ Giáo dục học Công nghệ thông tin
 853 Hoàng Thị Thùy Linh Đại học Sư phạm tiếng Anh Công nghệ thông tin
 854 La Thị Vân Tiến sĩ Quản lý Quản trị kinh doanh
 855 Khuất Thị Hoa Thạc sĩ Tâm lý học Công nghệ thông tin
@@ -2328,7 +2328,7 @@ cao
 868 Đinh Nguyên Độ Thạc sĩ Giảng dạy tiếng Anh Công nghệ thông tin
 869 Hồ Thị Hải Yến Tiến sĩ Kinh tế Quản trị kinh doanh
 870 Tạ Trung Nam Thạc sĩ Lý luận&p.pháp giảng dạy T.Anh Công nghệ thông tin
-871 Trần Minh Phú Thạc sĩ Giáo dục học Công nghệ thông tin
+871 Trần Minh Phú Thạc sĩ Giáo dục học Công nghệ thông tin
 872 Nguyễn Văn Sa Thạc sĩ Ngôn ngữ học ứng dụng Công nghệ thông tin
 873 Nguyễn Thu Giang Thạc sĩ Quản lý kinh tế Quản trị kinh doanh
 874 Vũ Thanh Loan Thạc sĩ Ngoại ngữ - Tiếng Anh Công nghệ thông tin
@@ -2338,7 +2338,7 @@ cao
 878 Nguyễn Trọng Thức Thạc sĩ Hệ thống thông tin Công nghệ thông tin
 879 Lê Thu Hằng Thạc sĩ Khoa học quản lý Quản trị kinh doanh
 880 Lê Văn Thuận Đại học Lâm nghiệp xã hội Công nghệ thông tin
-881 Đỗ Thị Phương Thúy Thạc sĩ Tiếng Anh Công nghệ thông tin
+881 Đỗ Thị Phương Thúy Thạc sĩ Tiếng Anh Công nghệ thông tin
 882 Phạm Thị Vân Anh Thạc sĩ Ngoại ngữ - Tiếng Anh Công nghệ thông tin
 883 Trần Ngọc Sơn Tiến sĩ Kinh tế Quản trị kinh doanh
 884 Nguyễn Văn Bình Thạc sĩ Kinh tế chính trị Ngôn ngữ Nhật
@@ -2366,7 +2366,7 @@ cao
 899 Phan Trung Chính Tiến sĩ Kinh tế Quản trị kinh doanh
 900 Nguyễn Văn Thiện Tiến sĩ Toán học Công nghệ thông tin
 901 Nguyễn Thị Phương Anh Thạc sĩ Giáo dục học Công nghệ thông tin
-902 Lê Lan Ngọc Thạc sĩ Quảng cáo & quan hệ công chúng Ngôn ngữ Anh
+902 Lê Lan Ngọc Thạc sĩ Quảng cáo & quan hệ công chúng Ngôn ngữ Anh
 903 Hoàng Việt Hà Tiến sĩ Quản trị kinh doanh Quản trị kinh doanh
 904 Trần Anh Thư Thạc sĩ Châu Á học Ngôn ngữ Nhật
 905 Nguyễn Thị Nhài Đại học Ngoại ngữ - Tiếng Anh Công nghệ thông tin
@@ -2387,11 +2387,11 @@ phương tiện
 912 Nguyễn Đình Sơn Thạc sĩ Quản trị kinh doanh Công nghệ thông tin
 913 Trương Ngọc Thịnh Thạc sĩ Thị trường tài chính quốc tế Quản trị kinh doanh
 914 Vũ Bích Hạnh Thạc sĩ Ngoại ngữ - Tiếng Nhật Ngôn ngữ Nhật
-915 Ngô Thị Thúy An Thạc sĩ Kinh tế Công nghệ thông tin
+915 Ngô Thị Thúy An Thạc sĩ Kinh tế Công nghệ thông tin
 916 Phan Thành Trung Tiến sĩ Khoa học máy tính Công nghệ thông tin
 917 Phan Đình Trâm Anh Tiến sĩ Quản trị kinh doanh Quản trị kinh doanh
 918 Hồ Hoàn Kiếm Thạc sĩ Khoa học máy tính Công nghệ thông tin
-919 Nguyễn Thị Thới Thạc sĩ Quản trị chiến lược Ngôn ngữ Anh
+919 Nguyễn Thị Thới Thạc sĩ Quản trị chiến lược Ngôn ngữ Anh
 920 Nguyễn Thu Hương Thạc sĩ Công nghệ thực phẩm Quản trị kinh doanh
 921 Nguyễn Mạnh Nguyên Thạc sĩ Thông tin học Kỹ thuật phần mềm
 922 Phạm Vân Quỳnh Thạc sĩ Quản trị kinh doanh Công nghệ thông tin
@@ -2424,7 +2424,7 @@ sư
 941 Hoàng Huy Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
 942 Nguyễn Thị Trang Thạc sĩ Lịch sử Công nghệ thông tin
 943 Nguyễn Thị Phương Thảo Thạc sĩ Lý luận&p.pháp giảng dạy T.Anh Công nghệ thông tin
-944 Tống Phước Quan Thạc sĩ Khoa học máy tính Công nghệ thông tin
+944 Tống Phước Quan Thạc sĩ Khoa học máy tính Công nghệ thông tin
 945 Trần Thanh Thùy Thạc sĩ Khoa học Kinh tế & QTKD Quản trị kinh doanh
 946 Vũ Thị Lan Anh Thạc sĩ Tài chính đầu tư Quản trị kinh doanh
 947 Trịnh Thanh Huyền Thạc sĩ Tiếng Anh Công nghệ thông tin
@@ -2450,13 +2450,13 @@ cao
 960 Nguyễn Thị Hằng Thạc sĩ Vật lý Công nghệ thông tin
 961 Lý Thị Cẩm Linh Thạc sĩ T.Anh cho người nói ngôn ngữ # Công nghệ thông tin
 962 Nguyễn Thị Hoài Đại học Sư phạm giáo dục thể chất Công nghệ thông tin
-963 Cécile Ngọc Sương Perdu Thạc sĩ Kiến Trúc Công nghệ thông tin
+963 Cécile Ngọc Sương Perdu Thạc sĩ Kiến Trúc Công nghệ thông tin
 964 Trần Huyền Thanh Đại học Thiết kế đồ họa Công nghệ thông tin
 965 Bùi Trinh Tiến sĩ Toán Kinh tế Quản trị kinh doanh
 966 Phùng Thị Hương Thảo Thạc sĩ Quản lý giáo dục Công nghệ thông tin
 967 Trần Quý Ban Thạc sĩ Quản lý kinh tế Công nghệ thông tin
 968 Dương Ngọc Sơn Thạc sĩ Quản lý dự án Quản trị kinh doanh
-969 Hoàng Vũ Quốc Anh Thạc sĩ Truyền thông&quan hệ côngchúng Công nghệ thông tin
+969 Hoàng Vũ Quốc Anh Thạc sĩ Truyền thông&quan hệ côngchúng Công nghệ thông tin
 48
 
 STT Họ và tên Chức Trình độ Chuyên môn đào tạo Ngành tham gia giảng dạy
@@ -2500,7 +2500,7 @@ cao
 995 Trần Thị Hải Yến Thạc sĩ Thương mại Quản trị kinh doanh
 996 Chử Lan Phương Tiến sĩ Luật Quản trị kinh doanh
 997 Nguyễn Thị Ngọc Chinh Thạc sĩ Ngoại ngữ - Tiếng Anh Công nghệ thông tin
-998 Nguyễn Thúy Quỳnh Đại học Sư phạm hoá học Kỹ thuật phần mềm
+998 Nguyễn Thúy Quỳnh Đại học Sư phạm hoá học Kỹ thuật phần mềm
 999 Nguyễn Tất Trung Thạc sĩ Quản trị kinh doanh Kỹ thuật phần mềm
 1000 Bùi Vũ Huỳnh Sang Đại học Quy hoạch Vùng và Đô thị Công nghệ thông tin
 1001 Vương Minh Tuấn Thạc sĩ Khoa học máy tính Công nghệ thông tin
@@ -2535,7 +2535,7 @@ thuật ứng dụng
 1022 Phan Chí Trứ Thạc sĩ Ngôn ngữ học ứng dụng Công nghệ thông tin
 1023 Trần Thị Hợp Thạc sĩ Sư phạm tiếng Trung Công nghệ thông tin
 1024 Lê Huỳnh Quốc Bảo Thạc sĩ Hệ thống thông tin Công nghệ thông tin
-1025 Huỳnh Công Tước Thạc sĩ Ngành biến động quần thể sinh vật Công nghệ thông tin
+1025 Huỳnh Công Tước Thạc sĩ Ngành biến động quần thể sinh vật Công nghệ thông tin
 biển
 1026 Trần Diệu Huyền Thạc sĩ Truyền thông và Phát triển Truyền thông đa
 phương tiện
@@ -2560,12 +2560,12 @@ cao
 1038 Phạm Hùng Quý Phó giáo Tiến sĩ Toán học Công nghệ thông tin
 sư
 1039 Nguyễn Thành Tâm Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
-1040 Chu Đình Phú Thạc sĩ Kinh tế Công nghệ thông tin
+1040 Chu Đình Phú Thạc sĩ Kinh tế Công nghệ thông tin
 1041 Nguyễn Thị Hồng Phương Thạc sĩ Kinh doanh quốc tế Công nghệ thông tin
 1042 Lê Văn Tư Tiến sĩ Quản trị kinh doanh Quản trị kinh doanh
 1043 Nguyễn Thị Ngọc Thạc sĩ T.Anh cho người nói ngôn ngữ # Công nghệ thông tin
-1044 Nguyễn Phương Tú Thạc sĩ Marketing Quản trị kinh doanh
-1045 Nguyễn Thanh Tú Thạc sĩ Công nghệ thông tin Công nghệ thông tin
+1044 Nguyễn Phương Tú Thạc sĩ Marketing Quản trị kinh doanh
+1045 Nguyễn Thanh Tú Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 1046 Phạm Phương Nhi Đại học Ngoại ngữ - Tiếng Anh Kỹ thuật phần mềm
 1047 Huỳnh Tấn Hội Thạc sĩ T.Anh cho người nói ngôn ngữ # Công nghệ thông tin
 1048 Tạ Thị Mai Thạc sĩ Hệ thống thông tin Kỹ thuật phần mềm
@@ -2743,13 +2743,13 @@ Phó giáo
 67 Phạm Yến Nhi Thạc sĩ Hệ thống thông tin Công nghệ thông tin
 68 Nguyễn Thắng Lợi Thạc sĩ Logistics và Chuỗi cung ứng Quản trị kinh doanh
 69 Đoàn Duy Bình Thạc sĩ Khoa học máy tính Kỹ thuật phần mềm
-70 Ngô Thị Thúy Anh Thạc sĩ Lý luận và lịch sử Mỹ thuật Công nghệ thông tin
-71 Nguyễn Khánh An Thạc sĩ PP giảng dạy CN Sáo trúc Ngôn ngữ Hàn Quốc
+70 Ngô Thị Thúy Anh Thạc sĩ Lý luận và lịch sử Mỹ thuật Công nghệ thông tin
+71 Nguyễn Khánh An Thạc sĩ PP giảng dạy CN Sáo trúc Ngôn ngữ Hàn Quốc
 72 Lý Kính Hiền Thạc sĩ Hàn Quốc Học Ngôn ngữ Hàn Quốc
-73 Đào Thị Thúy Quỳnh Tiến sĩ Khoa học máy tính Công nghệ thông tin
+73 Đào Thị Thúy Quỳnh Tiến sĩ Khoa học máy tính Công nghệ thông tin
 74 Lê Hà Châu Thạc sĩ T.Anh cho người nói ngôn ngữ # Ngôn ngữ Anh
 75 Nguyễn Thái Nghe Tiến sĩ Khoa học máy tính Công nghệ thông tin
-76 Thân Hồng Phúc Tiến sĩ Công nghệ thông tin Công nghệ thông tin
+76 Thân Hồng Phúc Tiến sĩ Công nghệ thông tin Công nghệ thông tin
 4
 
 Ngành tham gia giảng dạy
@@ -2776,11 +2776,11 @@ tác
 89 Lâm Nhựt Khang Tiến sĩ Khoa học máy tính Công nghệ thông tin
 90 Vương Thị Nhung Thạc sĩ Hệ thống thông tin Công nghệ thông tin
 91 Nguyễn Thanh Hải Tiến sĩ Khoa học máy tính Công nghệ thông tin
-92 Thẩm Thúy Hồng Thạc sĩ Ngoại ngữ - Tiếng Nhật Ngôn ngữ Nhật
+92 Thẩm Thúy Hồng Thạc sĩ Ngoại ngữ - Tiếng Nhật Ngôn ngữ Nhật
 93 Nguyễn Xuân Hải Yến Thạc sĩ Sư phạm tiếng Trung Quản trị kinh doanh
 94 Phan Đình Vấn Tiến sĩ Quản trị thông tin Công nghệ thông tin
-95 Nguyễn Hữu Nam Phúc Thạc sĩ Quản trị doanh nghiệp Quản trị kinh doanh
-96 Nguyễn Thanh Phước Thạc sĩ Tin học Công nghệ thông tin
+95 Nguyễn Hữu Nam Phúc Thạc sĩ Quản trị doanh nghiệp Quản trị kinh doanh
+96 Nguyễn Thanh Phước Thạc sĩ Tin học Công nghệ thông tin
 97 Nguyễn Thị Cẩm Ngoan Thạc sĩ Hệ thống thông tin Công nghệ thông tin
 5
 
@@ -2794,14 +2794,14 @@ khoa học môn cao
 tác
 đẳng
 98 Lê Thị Long Châu Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
-99 Phạm Tú Ngọc Thạc sĩ Thiết kế Công nghệ thông tin
+99 Phạm Tú Ngọc Thạc sĩ Thiết kế Công nghệ thông tin
 100 Đào Thị Thanh Hà Thạc sĩ TrThông & Ph.tiện truyền thông Quản trị kinh doanh
 101 Mai Thanh Tâm Thạc sĩ Khoa học máy tính Công nghệ thông tin
 102 Nguyễn Ngọc Quý Tiến sĩ Quản trị kinh doanh Quản trị kinh doanh
 103 Nguyễn Thành Thủy Thạc sĩ Khoa học máy tính Kỹ thuật phần mềm
-104 Lê Thị Trúc Mai Thạc sĩ Lý luận&p.pháp giảng dạy T.Anh Ngôn ngữ Anh
+104 Lê Thị Trúc Mai Thạc sĩ Lý luận&p.pháp giảng dạy T.Anh Ngôn ngữ Anh
 105 Nguyễn Thị Phương Thạc sĩ Tâm lý học Quản trị kinh doanh
-106 Đoàn Đức Phúc Thạc sĩ Mỹ thuật ứng dụng Công nghệ thông tin
+106 Đoàn Đức Phúc Thạc sĩ Mỹ thuật ứng dụng Công nghệ thông tin
 107 Lê Thị Việt Hà Tiến sĩ Quản trị kinh doanh Quản trị kinh doanh
 108 Nguyễn Văn Thắng Thạc sĩ Công nghệ Điện tử - Viễn thông Công nghệ thông tin
 109 Luyện Thu Trang Thạc sĩ Thiết kế Hệ thống thông tin Công nghệ thông tin
@@ -2828,7 +2828,7 @@ tác
 119 Trần Thị Thu Hà Thạc sĩ Mỹ thuật tạo hình Công nghệ thông tin
 120 Huỳnh Nam Thạc sĩ Kỹ thuật phần mềm Kỹ thuật phần mềm
 121 Trần Liên Hồng Nhung Thạc sĩ Mỹ thuật ứng dụng Công nghệ thông tin
-122 Huỳnh Bá Việt Thạc sĩ Ngành đổi mới Kỹ thuật số Công nghệ thông tin
+122 Huỳnh Bá Việt Thạc sĩ Ngành đổi mới Kỹ thuật số Công nghệ thông tin
 123 Lê Phạm Khánh Hòa Thạc sĩ Kinh doanh và quản lý Quản trị kinh doanh
 124 Lê Tiến Đạt Tiến sĩ Quản trị kinh doanh Quản trị kinh doanh
 125 Trần Thế Vũ Tiến sĩ Công nghệ thông tin Công nghệ thông tin
@@ -2869,7 +2869,7 @@ tạo&Robot
 148 Nguyễn Đình Trần Long Thạc sĩ Khoa học máy tính Kỹ thuật phần mềm
 149 Phạm Xuân Hùng Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
 150 Đỗ Xuân Chợ Tiến sĩ Khoa học Công nghệ thông tin
-151 Bùi Thị Thúy Minh Thạc sĩ Văn học TQ hiện đại & đươngđại Quản trị kinh doanh
+151 Bùi Thị Thúy Minh Thạc sĩ Văn học TQ hiện đại & đươngđại Quản trị kinh doanh
 152 Lại Mạnh Dũng Tiến sĩ Khoa học máy tính Công nghệ thông tin
 153 Huỳnh Thanh Tân Thạc sĩ Khoa học máy tính Kỹ thuật phần mềm
 154 Lê Thị Thu Nga Tiến sĩ Khoa học máy tính Kỹ thuật phần mềm
@@ -2900,10 +2900,10 @@ tác
 168 Cao Thùy Linh Tiến sĩ Kinh doanh quốc tế Kinh doanh quốc tế
 169 Phạm Ngọc Huy Đại học Công nghệ thông tin Công nghệ thông tin
 170 Nguyễn Lê Lộc Tiên Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
-171 Bùi Hữu Phúc Đại học Kỹ thuật phần mềm Kỹ thuật phần mềm
+171 Bùi Hữu Phúc Đại học Kỹ thuật phần mềm Kỹ thuật phần mềm
 172 Trần Thị Kim Khánh Thạc sĩ Khoa học máy tính Công nghệ thông tin
-173 Nguyễn Ngọc Tú Thạc sĩ Kỹ Thuật Công nghệ thông tin
-174 Nguyễn Phú Cường Thạc sĩ Khoa học giáo dục Quản trị kinh doanh
+173 Nguyễn Ngọc Tú Thạc sĩ Kỹ Thuật Công nghệ thông tin
+174 Nguyễn Phú Cường Thạc sĩ Khoa học giáo dục Quản trị kinh doanh
 175 Nguyễn Lê Duy Thạc sĩ Thiết kế mỹ thuật công nghiệp Công nghệ thông tin
 176 Võ Đức Hoàng Tiến sĩ Khoa học máy tính Kỹ thuật phần mềm
 Phương pháp giảng dạy
@@ -2932,7 +2932,7 @@ tác
 188 Tôn Vân Trang Thạc sĩ Ngoại ngữ - Tiếng Anh Ngôn ngữ Anh
 189 Hoàng Thị Thu Phương Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
 190 Hoàng Tùng Thạc sĩ Khoa học máy tính Công nghệ thông tin
-191 Nguyễn Xuân Phú Thạc sĩ Kỹ thuật Thông tin viễn thông Công nghệ thông tin
+191 Nguyễn Xuân Phú Thạc sĩ Kỹ thuật Thông tin viễn thông Công nghệ thông tin
 192 Hoàng Tùng Thạc sĩ Đại số và lý thuyết số Quản trị kinh doanh
 193 Nguyễn Đức Ngà Thạc sĩ Toán học Quản trị kinh doanh
 194 Trần Thị Huệ Thạc sĩ Khoa học máy tính Công nghệ thông tin
@@ -2988,7 +2988,7 @@ tác
 221 Trần Huy Phương Tiến sĩ Quản trị kinh doanh Quản trị kinh doanh
 222 Nguyễn Cẩm Nhiêm Thạc sĩ LT xác suất & thống kê Toán Quản trị kinh doanh
 223 Lê Thị Ánh Tuyết Thạc sĩ Ngoại ngữ - Tiếng Anh Ngôn ngữ Anh
-224 Nguyễn Phú Hà Tiến sĩ Quản trị kinh doanh Quản trị kinh doanh
+224 Nguyễn Phú Hà Tiến sĩ Quản trị kinh doanh Quản trị kinh doanh
 225 Trần Lê Thanh Thiện Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
 226 Nguyễn Minh Triết Thạc sĩ Hệ thống thông tin Công nghệ thông tin
 227 Nguyễn Thị Liễu Trang Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
@@ -3052,19 +3052,19 @@ tác
 262 Nguyễn Hữu Chữ Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
 263 Hàn Thị Thu Hà Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
 264 Phạm Minh Vũ Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
-265 Nguyễn Vương Hồng Thạc sĩ Kiến trúc Công nghệ thông tin
+265 Nguyễn Vương Hồng Thạc sĩ Kiến trúc Công nghệ thông tin
 Đồ họa trong XD & nhận diện
 266 Nguyễn Thị Thùy Trang Thạc sĩ TH Công nghệ thông tin
 267 Lê Thị Bích Loan Thạc sĩ Lý luận và lịch sử Mỹ thuật Công nghệ thông tin
 268 Trần Công Tịnh Thạc sĩ Âm nhạc Quản trị kinh doanh
 269 Phạm Minh Thuấn Thạc sĩ Kỹ thuật mật mã Công nghệ thông tin
-270 Huỳnh Phú Tân Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
+270 Huỳnh Phú Tân Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
 271 Phan Văn Hùng Thạc sĩ Việt Nam Học Công nghệ thông tin
 272 Trần Công Thành Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
 273 Trương Mạnh Đạt Thạc sĩ Hệ thống thông tin Công nghệ thông tin
 274 Nguyễn Văn Quảng Thạc sĩ Hệ thống thông tin Công nghệ thông tin
 275 Bùi Thanh Hùng Tiến sĩ Khoa học máy tính Công nghệ thông tin
-276 Vũ Thị Tuyết Nhung Thạc sĩ Quan hệ công chúng Quản trị kinh doanh
+276 Vũ Thị Tuyết Nhung Thạc sĩ Quan hệ công chúng Quản trị kinh doanh
 277 Trần Văn Tiền Thạc sĩ Khoa học máy tính Công nghệ thông tin
 278 Trần Quý Nam Tiến sĩ Công nghệ thông tin Công nghệ thông tin
 279 Phan Minh Hiếu Thạc sĩ Quản trị du lịch Công nghệ thông tin
@@ -3086,7 +3086,7 @@ tác
 284 Nguyễn Nguyên Bình Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 285 Trần Ngọc Hoàng Tiến sĩ Điện tử-Máy tính Công nghệ thông tin
 286 Tạ Thị Thúy Thạc sĩ Tâm lý học Kỹ thuật phần mềm
-287 Nguyễn Thị Thu Nga Thạc sĩ Kiến trúc Công nghệ thông tin
+287 Nguyễn Thị Thu Nga Thạc sĩ Kiến trúc Công nghệ thông tin
 288 Nguyễn Trung Việt Thạc sĩ Hệ thống thông tin Công nghệ thông tin
 289 Nguyễn Văn Quân Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 290 Hoàng Thị Phương Thảo Thạc sĩ Chính sách Công Quản trị kinh doanh
@@ -3097,7 +3097,7 @@ tác
 295 Lê Mạnh Đức Tiến sĩ Kinh tế Quản trị kinh doanh
 296 Võ Hồng Phượng Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
 297 Đặng Thị Ngọc Huyền Thạc sĩ Quản Trị Dự Án Quản trị kinh doanh
-298 Châu Trần Trúc Ly Thạc sĩ Công nghệ thông tin Công nghệ thông tin
+298 Châu Trần Trúc Ly Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 299 Trần Kim Hồng Tiến sĩ Khoa Học Xã Hội Quản trị kinh doanh
 300 Nguyễn Bích Thủy Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
 301 Bùi Việt Thắng Thạc sĩ Khoa học máy tính Công nghệ thông tin
@@ -3159,7 +3159,7 @@ tác
 333 Lê Văn Phương Tiến sĩ Văn học Quản trị kinh doanh
 334 Trần Song Thục Nguyên Thạc sĩ T.Anh cho người nói ngôn ngữ # Ngôn ngữ Anh
 335 Nguyễn Thanh An Tiến sĩ Công nghệ thông tin Công nghệ thông tin
-336 Võ Thị Ngọc Tú Thạc sĩ Khoa học máy tính Công nghệ thông tin
+336 Võ Thị Ngọc Tú Thạc sĩ Khoa học máy tính Công nghệ thông tin
 Thông Tin
 337 Nguyễn Vũ Anh Quang Tiến sĩ Tr.Thông/Truyềnthông Công nghệ thông tin
 338 Nguyễn Đại Thọ Tiến sĩ Công nghệ thông tin Công nghệ thông tin
@@ -3180,7 +3180,7 @@ tác
 342 Phan Viết Thế Thạc sĩ Khoa học máy tính Công nghệ thông tin
 343 Nguyễn Văn Tẩn Thạc sĩ Khoa học máy tính Công nghệ thông tin
 344 Hoàng Văn Long Thạc sĩ Kinh tế Quản trị kinh doanh
-345 Lê Thị Thanh Tú Thạc sĩ Toán học Kỹ thuật phần mềm
+345 Lê Thị Thanh Tú Thạc sĩ Toán học Kỹ thuật phần mềm
 Xây dựng Đảng Cộng sản Việt
 346 Đoàn Trung Dũng Thạc sĩ Nam Công nghệ thông tin
 347 Trần Thị Ngọc Vỹ Tiến sĩ Kinh tế Quản trị kinh doanh
@@ -3210,7 +3210,7 @@ khoa học môn cao
 tác
 đẳng
 362 Phạm An Bình Thạc sĩ Khoa học máy tính Công nghệ thông tin
-363 Phạm Thị Tú Uyên Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
+363 Phạm Thị Tú Uyên Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
 364 Võ Thành Trung Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 365 Lê Thế Anh Tiến sĩ PTHT điều khiển&xửlý thông tin Công nghệ thông tin
 366 Nguyễn Phạm Hải An Thạc sĩ Thiết kế đồ họa Công nghệ thông tin
@@ -3243,7 +3243,7 @@ tác
 đẳng
 383 Đặng Ngọc Chương Thạc sĩ Khoa học máy tính Công nghệ thông tin
 384 Nguyễn Đức Huy Tiến sĩ Công nghệ thông tin Công nghệ thông tin
-385 Bùi Vĩnh Phú Thạc sĩ Công nghệ thông tin Công nghệ thông tin
+385 Bùi Vĩnh Phú Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 386 Đỗ Đình Thủ Thạc sĩ Khoa học máy tính Công nghệ thông tin
 387 Huỳnh Ngọc Dũng Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 388 Lê Thị Ngọc Mai Thạc sĩ Thị trường tài chính quốc tế Công nghệ thông tin
@@ -3255,12 +3255,12 @@ tác
 394 Đỗ Hồng Long Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 395 Mai Minh Hải Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 396 Ngô Quang Huy Thạc sĩ Lý luận&p.pháp giảng dạy T.Anh Ngôn ngữ Anh
-397 Lai Văn Phút Thạc sĩ Toán giải tích Quản trị kinh doanh
-398 Đào Hoàng Tú Thạc sĩ Khoa học máy tính Công nghệ thông tin
+397 Lai Văn Phút Thạc sĩ Toán giải tích Quản trị kinh doanh
+398 Đào Hoàng Tú Thạc sĩ Khoa học máy tính Công nghệ thông tin
 399 Hoàng Phi Thạc sĩ Khoa học máy tính Công nghệ thông tin
 400 Nguyễn Thiên Bảo Tiến sĩ CNTT và truyền thông Công nghệ thông tin
 401 Nguyễn Hồng Giang Thạc sĩ Khoa học máy tính Công nghệ thông tin
-402 Phạm Thị Thanh Thúy Thạc sĩ Công nghệ thông tin Công nghệ thông tin
+402 Phạm Thị Thanh Thúy Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 403 Nguyễn Hữu Đức Thạc sĩ Khoa học máy tính Công nghệ thông tin
 20
 
@@ -3379,15 +3379,15 @@ tác
 473 Mai Thị Dinh Thạc sĩ Khoa học máy tính Công nghệ thông tin
 474 Vũ Duy Khương Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 475 Lương Hoài Nhơn Thạc sĩ Công nghệ thông tin Công nghệ thông tin
-476 Nguyễn Thị Tú Mi Thạc sĩ Khoa học máy tính Công nghệ thông tin
+476 Nguyễn Thị Tú Mi Thạc sĩ Khoa học máy tính Công nghệ thông tin
 477 Nguyễn Xuân Thạch Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 478 Phan Quốc Kiệt Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
 479 Trần Đức Nguyên Thạc sĩ Khoa học Công nghệ thông tin
 480 Nguyễn Anh Đức Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 481 Bùi Văn Đoàn Thạc sĩ Hệ thống thông tin Công nghệ thông tin
 482 Nguyễn Hoàng Phương Thạc sĩ Khoa học máy tính Công nghệ thông tin
-483 Hồ Hướng Thiên Thạc sĩ Khoa học máy tính Công nghệ thông tin
-484 Nguyễn Thị Minh Tú Thạc sĩ Khoa học máy tính Công nghệ thông tin
+483 Hồ Hướng Thiên Thạc sĩ Khoa học máy tính Công nghệ thông tin
+484 Nguyễn Thị Minh Tú Thạc sĩ Khoa học máy tính Công nghệ thông tin
 485 Phạm Văn Tính Thạc sĩ Khoa học máy tính Công nghệ thông tin
 486 Phạm Trí Công Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 24
@@ -3402,7 +3402,7 @@ khoa học môn cao
 tác
 đẳng
 487 Huỳnh Thanh Việt Thạc sĩ Kỹ Sư máy tính Công nghệ thông tin
-488 Lưu Thanh Tú Thạc sĩ Công nghệ thông tin Công nghệ thông tin
+488 Lưu Thanh Tú Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 489 Phạm Trung Dũng Thạc sĩ Quản trị chất lượng Quản trị kinh doanh
 490 Nguyễn Quang Hiếu Thạc sĩ Ngoại ngữ - Tiếng Anh Công nghệ thông tin
 Phương pháp giảng dạy
@@ -3443,16 +3443,16 @@ tác
 514 Trần Khánh Hiệp Thạc sĩ An toàn thông tin An toàn thông tin
 515 Phan Thị Đăng Thư Thạc sĩ Kỹ Thuật Công nghệ thông tin
 516 Huỳnh Trọng Thưa Tiến sĩ Khoa học máy tính Công nghệ thông tin
-517 Nguyễn Thiên Thanh Trúc Thạc sĩ Ngôn ngữ học ứng dụng Công nghệ thông tin
+517 Nguyễn Thiên Thanh Trúc Thạc sĩ Ngôn ngữ học ứng dụng Công nghệ thông tin
 518 Hoàng Đức Huy Thạc sĩ Quản trị Quản trị kinh doanh
 519 Phạm Thế Hùng Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 520 Nguyễn Hữu Đạt Thạc sĩ Hệ thống thông tin Công nghệ thông tin
-521 Nguyễn Tú Nam Thạc sĩ Khoa học máy tính Công nghệ thông tin
+521 Nguyễn Tú Nam Thạc sĩ Khoa học máy tính Công nghệ thông tin
 522 Dương Ngọc Quỳnh Lâm Thạc sĩ Thiết Kế Nội Thất Công nghệ thông tin
 523 Hà Bách Nam Thạc sĩ An toàn thông tin An toàn thông tin
 524 Mai Văn Thịnh Thạc sĩ Khoa học máy tính Kỹ thuật phần mềm
 525 Nguyễn Huỳnh Phương Bảo Thạc sĩ Kỹ thuật viễn thông An toàn thông tin
-526 Hà Thị Việt Thúy Thạc sĩ Kinh tế chính trị Công nghệ thông tin
+526 Hà Thị Việt Thúy Thạc sĩ Kinh tế chính trị Công nghệ thông tin
 527 Nguyễn Thị Bích Vân Thạc sĩ Lý luận và lịch sử Mỹ thuật Công nghệ thông tin
 26
 
@@ -3466,7 +3466,7 @@ khoa học môn cao
 tác
 đẳng
 528 Nguyễn Hữu Loan Thạc sĩ Công nghệ thông tin Công nghệ thông tin
-529 Nguyễn Lê Thanh Trúc Thạc sĩ Công nghệ thông tin Công nghệ thông tin
+529 Nguyễn Lê Thanh Trúc Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 530 Hoàng Thị Lan Phương Thạc sĩ Khoa học máy tính Công nghệ thông tin
 531 Nguyễn Quang Hiếu Thạc sĩ Khoa học máy tính Công nghệ thông tin
 532 Nguyễn Hoài Trung Thạc sĩ Quản trị kinh doanh Quản trị kinh doanh
@@ -3478,7 +3478,7 @@ tác
 538 Phan Tuấn Ly Thạc sĩ Châu Á học Ngôn ngữ Nhật
 539 Nguyễn Hồng Phương Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 540 Huỳnh Khắc Duy Thạc sĩ Khoa học máy tính Công nghệ thông tin
-541 Đinh Thị Thanh Trúc Thạc sĩ Lý luận và lịch sử Mỹ thuật Công nghệ thông tin
+541 Đinh Thị Thanh Trúc Thạc sĩ Lý luận và lịch sử Mỹ thuật Công nghệ thông tin
 542 Nguyễn Trần Thanh Bình Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 543 Nguyễn Thị Linh Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 544 Phạm Đỗ Việt Thạc sĩ Toán - Tin ứng dụng Công nghệ thông tin
@@ -3512,10 +3512,10 @@ tác
 561 LÂM HỒNG THANH Thạc sĩ Quản lý thông tin Công nghệ thông tin
 562 Trương Công Đoàn Tiến sĩ Công nghệ thông tin Công nghệ thông tin
 563 Huỳnh Thanh Tâm Thạc sĩ Khoa học máy tính Công nghệ thông tin
-564 Nguyễn Thúy Ngọc Thạc sĩ Giáo dục Tiếng Nhật Ngôn ngữ Nhật
+564 Nguyễn Thúy Ngọc Thạc sĩ Giáo dục Tiếng Nhật Ngôn ngữ Nhật
 565 Nguyễn Thị Thanh Ngân Thạc sĩ Khoa học nhân văn Ngôn ngữ Nhật
 566 Nguyễn Kiều Linh Tiến sĩ Toán ứng dụng Kỹ thuật phần mềm
-567 Nguyễn Thị Thanh Trúc Thạc sĩ Công nghệ thông tin Công nghệ thông tin
+567 Nguyễn Thị Thanh Trúc Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 568 Trần Cẩm Bình Thạc sĩ Quản lý Hành chính công Quản trị kinh doanh
 569 Bùi Mai Trinh Tiến sĩ Thiết kế Công nghệ thông tin
 28
@@ -3533,11 +3533,11 @@ tác
 571 Cao Minh Hồng Hạnh Thạc sĩ Mỹ thuật tạo hình Công nghệ thông tin
 572 Nguyễn Tuấn Đăng Tiến sĩ Tin học Công nghệ thông tin
 573 Lê Minh Nhựt Triều Tiến sĩ Khoa học Công nghệ thông tin
-574 Lê Nhị Lãm Thúy Thạc sĩ Công nghệ thông tin Công nghệ thông tin
+574 Lê Nhị Lãm Thúy Thạc sĩ Công nghệ thông tin Công nghệ thông tin
 575 Lê Hữu Duy Thạc sĩ Kỹ Thuật Công nghệ thông tin
 576 Nguyễn Ngọc Tuấn Thạc sĩ Đồ hoạ Công nghệ thông tin
 577 Nguyễn Đình Huy Thạc sĩ Nghệ thuật Điện ảnh-Truyềnhình Công nghệ thông tin
-578 Nguyễn Thị Minh Thúy Thạc sĩ Mỹ thuật ứng dụng Công nghệ thông tin
+578 Nguyễn Thị Minh Thúy Thạc sĩ Mỹ thuật ứng dụng Công nghệ thông tin
 579 Trần Nguyễn Mỹ Linh Thạc sĩ Ngôn ngữ học Ngôn ngữ Nhật
 580 Ôn Trí Đức Thạc sĩ Mỹ thuật ứng dụng Công nghệ thông tin
 581 Trần Hải Thạc sĩ Mỹ thuật tạo hình Thiết kế đồ họa
@@ -3578,8 +3578,8 @@ tác
 605 Lý Quỳnh Trân Tiến sĩ Công nghệ thông tin Công nghệ thông tin
 606 Trịnh Thị Ngọc Linh Thạc sĩ Kỹ Thuật Công nghệ thông tin
 607 Hồ Văn Phi Tiến sĩ Kỹ Thuật Kỹ thuật phần mềm
-608 Trần Thị Thúy Ngọc Thạc sĩ Mỹ thuật ứng dụng Công nghệ thông tin
-609 Lê Phước Cửu Long Tiến sĩ Quản trị kinh doanh Quản trị kinh doanh
+608 Trần Thị Thúy Ngọc Thạc sĩ Mỹ thuật ứng dụng Công nghệ thông tin
+609 Lê Phước Cửu Long Tiến sĩ Quản trị kinh doanh Quản trị kinh doanh
 610 Trần Thế Sơn Tiến sĩ Mạng máy tính và truyền thông Công nghệ thông tin
 611 Lê Thị Bích Tra Thạc sĩ Khoa học máy tính Công nghệ thông tin
 30
@@ -3610,7 +3610,7 @@ tác
 626 Nguyễn Thiện Đức Tiến sĩ Mỹ thuật Công nghệ thông tin
 627 Nguyễn Thị Hiền Lê Thạc sĩ Nghệ thuật Công nghệ thông tin
 628 Huỳnh Trung Trụ Thạc sĩ Hệ thống thông tin Công nghệ thông tin
-629 Nguyễn Chánh Tú Tiến sĩ Toán học Công nghệ thông tin
+629 Nguyễn Chánh Tú Tiến sĩ Toán học Công nghệ thông tin
 630 Phan Quang Như Anh Thạc sĩ Phương pháp Toán Sơ cấp Quản trị kinh doanh
 631 Mai Văn Hà Thạc sĩ Khoa học máy tính Kỹ thuật phần mềm
 632 Trương Ngọc Châu Tiến sĩ Toán học Công nghệ thông tin

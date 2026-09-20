@@ -11,6 +11,7 @@ Mỗi document/chunk phải theo docs/MODULE_CONTRACTS.md. ID cần ổn định
 chạy lại pipeline không tạo dữ liệu trùng. Task 5 phải dùng chung embed_texts().
 """
 
+import unicodedata
 from pathlib import Path
 
 import chromadb
@@ -64,7 +65,9 @@ def load_documents() -> list[dict]:
     """Đọc mọi .md trong data/standardized/ và trả về list Document."""
     documents = []
     for path in sorted(STANDARDIZED_DIR.rglob("*.md")):
-        content = path.read_text(encoding="utf-8").strip()
+        content = unicodedata.normalize(
+            "NFC", path.read_text(encoding="utf-8")
+        ).strip()
         if not content:
             continue  # bỏ qua file rỗng
 
@@ -123,6 +126,13 @@ def index_to_vectorstore(chunks: list[dict]) -> None:
         print("No chunks to index.")
         return
     collection = get_collection()
+
+    # Xóa chunk cũ không còn trong lần index này (vd. sau khi đổi cách chunk).
+    new_ids = {chunk["id"] for chunk in chunks}
+    stale_ids = [i for i in collection.get(include=[])["ids"] if i not in new_ids]
+    for start in range(0, len(stale_ids), 500):
+        collection.delete(ids=stale_ids[start:start + 500])
+
     collection.upsert(
         ids=[chunk["id"] for chunk in chunks],
         documents=[chunk["content"] for chunk in chunks],

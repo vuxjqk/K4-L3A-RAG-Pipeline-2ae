@@ -8,11 +8,17 @@ Hướng dẫn:
     4. Không tạo file rỗng hoặc file trùng khi chạy lại.
 """
 
+import unicodedata
 from pathlib import Path
 
 
 LANDING_DIR = Path(__file__).parent.parent / "data" / "landing"
 OUTPUT_DIR = Path(__file__).parent.parent / "data" / "standardized"
+
+
+def normalize_text(text: str) -> str:
+    """Chuẩn hóa Unicode về NFC để BM25/embedding khớp với query người dùng."""
+    return unicodedata.normalize("NFC", text)
 
 
 def convert_legal_docs() -> None:
@@ -37,7 +43,7 @@ def convert_legal_docs() -> None:
 
         try:
             result = converter.convert(str(path))
-            content = result.text_content.strip()
+            content = normalize_text(result.text_content).strip()
 
             if not content:
                 print(f"Skipped empty legal document: {path.name}")
@@ -92,7 +98,7 @@ def convert_news_articles() -> None:
                 )
                 continue
 
-            content = data["content_markdown"].strip()
+            content = normalize_text(data["content_markdown"]).strip()
 
             if not content:
                 print(f"Skipped empty article: {path.name}")

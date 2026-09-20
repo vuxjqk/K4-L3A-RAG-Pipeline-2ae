@@ -17,7 +17,23 @@ from .task7_reranking import rerank_rrf
 from .task8_pageindex_vectorless import pageindex_search
 
 
-SCORE_THRESHOLD = 0.3
+import os
+
+from dotenv import load_dotenv
+
+load_dotenv()
+
+
+def _threshold_from_env(default: float = 0.3) -> float:
+    """Đọc SCORE_THRESHOLD từ .env; rỗng hoặc sai định dạng thì dùng mặc định."""
+    raw = os.getenv("SCORE_THRESHOLD", "").strip()
+    try:
+        return float(raw) if raw else default
+    except ValueError:
+        return default
+
+
+SCORE_THRESHOLD = _threshold_from_env()
 DEFAULT_TOP_K = 5
 
 
