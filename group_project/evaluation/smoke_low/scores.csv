@@ -1,0 +1,5 @@
+﻿case_id,config,question,type,judge_seconds,status,faithfulness,answer_relevancy,context_recall,context_precision
+1,A,"Theo đề án tuyển sinh 2024, học phí kỳ định hướng tại cơ sở Hà Nội và phân hiệu TP.HCM là bao nhiêu?",factual,2.2692031000005954,scored,0.0,0.0,0.0,1.0
+1,B,"Theo đề án tuyển sinh 2024, học phí kỳ định hướng tại cơ sở Hà Nội và phân hiệu TP.HCM là bao nhiêu?",factual,2.2692031000005954,scored,1.0,1.0,1.0,1.0
+2,A,"Năm 2024, học phí chuyên ngành từ học kỳ 1 đến học kỳ 3 tại Hà Nội và TP.HCM là bao nhiêu mỗi kỳ?",factual,2.10944439999912,scored,0.0,0.0,0.0,1.0
+2,B,"Năm 2024, học phí chuyên ngành từ học kỳ 1 đến học kỳ 3 tại Hà Nội và TP.HCM là bao nhiêu mỗi kỳ?",factual,2.10944439999912,scored,1.0,1.0,1.0,1.0

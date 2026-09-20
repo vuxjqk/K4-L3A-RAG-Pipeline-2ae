@@ -1,0 +1,12 @@
+{
+  "fingerprint": "6bc0ad1ce00bd078db325bae0818486275647c517aeac31002218c4fbfae610c",
+  "generator_model": "gemini-2.5-flash",
+  "evaluator_model": "gemini-2.5-flash",
+  "embedding_model": "BAAI/bge-m3",
+  "top_k": 5,
+  "limit": 2,
+  "ragas_version": "0.4.3",
+  "in_domain_count": 2,
+  "git_commit": "3b72d5c42e9e9dd38b52afe1a800c2c5b68cb939",
+  "started_utc": "2026-09-20T10:30:44.663464+00:00"
+}

@@ -329,7 +329,7 @@ def generate_with_citation(
 
     return {
         "answer": answer,
-        "sources": chunks,
+        "sources": reordered,
         "retrieval_source": retrieval_source,
     }
 

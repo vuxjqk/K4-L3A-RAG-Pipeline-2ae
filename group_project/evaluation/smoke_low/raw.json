@@ -1,0 +1,250 @@
+[
+  {
+    "case_id": 1,
+    "config": "A",
+    "question": "Theo đề án tuyển sinh 2024, học phí kỳ định hướng tại cơ sở Hà Nội và phân hiệu TP.HCM là bao nhiêu?",
+    "type": "factual",
+    "reference": "11,900,000 VNĐ (chỉ có 01 kỳ định hướng, áp dụng cho sinh viên mới nhập học).",
+    "expected_context": "+ Học phí kỳ định hướng: 11,900,000 VNĐ (có 01 kỳ định hướng, chỉ áp dụng cho",
+    "response": "Thông tin về học phí kỳ định hướng tại cơ sở Hà Nội và phân hiệu TP.HCM không có trong ngữ cảnh được cung cấp.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.36965876817703247,
+        "metadata": {
+          "source": "article_05.md",
+          "doc_type": "news",
+          "title": "article_05",
+          "chunk_index": 43,
+          "url": null
+        },
+        "retrieval_method": "dense"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)"
+    ],
+    "judge_seconds": 2.2692031000005954,
+    "reason": "Context A only contains a link to TikTok and no information about tuition fees.",
+    "status": "scored",
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0,
+    "context_recall": 0.0,
+    "context_precision": 1.0
+  },
+  {
+    "case_id": 1,
+    "config": "B",
+    "question": "Theo đề án tuyển sinh 2024, học phí kỳ định hướng tại cơ sở Hà Nội và phân hiệu TP.HCM là bao nhiêu?",
+    "type": "factual",
+    "reference": "11,900,000 VNĐ (chỉ có 01 kỳ định hướng, áp dụng cho sinh viên mới nhập học).",
+    "expected_context": "+ Học phí kỳ định hướng: 11,900,000 VNĐ (có 01 kỳ định hướng, chỉ áp dụng cho",
+    "response": "Theo đề án tuyển sinh 2024, học phí kỳ định hướng tại cơ sở Hà Nội và phân hiệu TP.HCM là 11,900,000 VNĐ. Thông tin này áp dụng cho sinh viên mới nhập học và có 01 kỳ định hướng.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "title": "article_05",
+          "chunk_index": 43,
+          "doc_type": "news",
+          "source": "article_05.md",
+          "url": null
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/de-an-tuyen-sinh-2022-upweb.md::chunk-146",
+        "content": "1.10. Học phí dự kiến với sinh viên chính quy; lộ trình tăng học phí tối đa cho từng năm (nếu có).\nHọc phí và các khoản phí khác đối với sinh viên chính quy và lộ trình tăng học phí tối đa cho từng năm dựa vào Quy định tài chính\nhiện hành cho sinh viên các hệ đào tạo của Trường Đại học FPT, cụ thể áp dụng cho các thí sinh nhập học tại các địa điểm đào tạo\nnhư sau:\n❖ Cơ sở đào tạo chính tại Tp. Hà Nội và phân hiệu tại Tp. Hồ Chí Minh:\n+ Học phí kỳ định hướng: 11,300,000 VNĐ",
+        "score": 0.016129032258064516,
+        "metadata": {
+          "source": "de-an-tuyen-sinh-2022-upweb.md",
+          "title": "de-an-tuyen-sinh-2022-upweb",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 146
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/de-an-tuyen-sinh-2022-upweb.md::chunk-147",
+        "content": "+ Học phí kỳ định hướng: 11,300,000 VNĐ\n+ Học phí tiếng Anh chuẩn bị: 11,300,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ trình độ)\n+ Học phí chuyên ngành: 27,300,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n❖ Phân hiệu tại Tp. Đà Nẵng và tỉnh Bình Định\n+ Học phí kỳ định hướng: 7,910,000 VNĐ\n+ Học phí tiếng Anh chuẩn bị: 7,910,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ trình độ)\n+ Học phí chuyên ngành: 19,110,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n❖ Phân hiệu tại Tp. Cần Thơ:",
+        "score": 0.015625,
+        "metadata": {
+          "source": "de-an-tuyen-sinh-2022-upweb.md",
+          "title": "de-an-tuyen-sinh-2022-upweb",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 147
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2024.md::chunk-138",
+        "content": "như sau:\nv Cơ sở đào tạo chính tại TP. Hà Nội, phân hiệu tại TP. Hồ Chí Minh:\n+ Học phí kỳ định hướng: 11,900,000 VNĐ (có 01 kỳ định hướng, chỉ áp dụng cho\nsinh viên mới nhập học).\n+ Học phí tiếng Anh chuẩn bị: 11,900,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ\ntrình độ).\n+ Học phí chuyên ngành: gồm 9 kỳ học chuyên ngành:\nTừ học kỳ 1 đến học kỳ 3: 28,700,000 VNĐ/kỳ.\nTừ học kỳ 4 đến học kỳ 6: 30,500,000 VNĐ/kỳ\nTừ học kỳ 7 đến học kỳ 9: 32,500,000 VNĐ/kỳ",
+        "score": 0.015873015873015872,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2024.md",
+          "title": "DE-AN-TUYEN-SINH-2024",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 138
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2023-upweb.md::chunk-122",
+        "content": "năm (nếu có).\nHọc phí và các khoản phí khác đối với sinh viên chính quy và lộ trình tăng học phí tối\nđa cho từng năm dựa vào Quy định tài chính hiện hành cho sinh viên các hệ đào tạo\ncủa Trường Đại học FPT, cụ thể áp dụng cho các thí sinh nhập học tại các địa điểm\nđào tạo như sau:\n❖ Cơ sở đào tạo chính tại Tp. Hà Nội và phân hiệu tại Tp. Hồ Chí Minh:\n|     |   + Học phí kỳ định hướng: 11,900,000 VNĐ  |     |     |     |     |",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2023-upweb.md",
+          "title": "DE-AN-TUYEN-SINH-2023-upweb",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 122
+        },
+        "retrieval_method": "hybrid"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+      "1.10. Học phí dự kiến với sinh viên chính quy; lộ trình tăng học phí tối đa cho từng năm (nếu có).\nHọc phí và các khoản phí khác đối với sinh viên chính quy và lộ trình tăng học phí tối đa cho từng năm dựa vào Quy định tài chính\nhiện hành cho sinh viên các hệ đào tạo của Trường Đại học FPT, cụ thể áp dụng cho các thí sinh nhập học tại các địa điểm đào tạo\nnhư sau:\n❖ Cơ sở đào tạo chính tại Tp. Hà Nội và phân hiệu tại Tp. Hồ Chí Minh:\n+ Học phí kỳ định hướng: 11,300,000 VNĐ",
+      "+ Học phí kỳ định hướng: 11,300,000 VNĐ\n+ Học phí tiếng Anh chuẩn bị: 11,300,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ trình độ)\n+ Học phí chuyên ngành: 27,300,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n❖ Phân hiệu tại Tp. Đà Nẵng và tỉnh Bình Định\n+ Học phí kỳ định hướng: 7,910,000 VNĐ\n+ Học phí tiếng Anh chuẩn bị: 7,910,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ trình độ)\n+ Học phí chuyên ngành: 19,110,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n❖ Phân hiệu tại Tp. Cần Thơ:",
+      "như sau:\nv Cơ sở đào tạo chính tại TP. Hà Nội, phân hiệu tại TP. Hồ Chí Minh:\n+ Học phí kỳ định hướng: 11,900,000 VNĐ (có 01 kỳ định hướng, chỉ áp dụng cho\nsinh viên mới nhập học).\n+ Học phí tiếng Anh chuẩn bị: 11,900,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ\ntrình độ).\n+ Học phí chuyên ngành: gồm 9 kỳ học chuyên ngành:\nTừ học kỳ 1 đến học kỳ 3: 28,700,000 VNĐ/kỳ.\nTừ học kỳ 4 đến học kỳ 6: 30,500,000 VNĐ/kỳ\nTừ học kỳ 7 đến học kỳ 9: 32,500,000 VNĐ/kỳ",
+      "năm (nếu có).\nHọc phí và các khoản phí khác đối với sinh viên chính quy và lộ trình tăng học phí tối\nđa cho từng năm dựa vào Quy định tài chính hiện hành cho sinh viên các hệ đào tạo\ncủa Trường Đại học FPT, cụ thể áp dụng cho các thí sinh nhập học tại các địa điểm\nđào tạo như sau:\n❖ Cơ sở đào tạo chính tại Tp. Hà Nội và phân hiệu tại Tp. Hồ Chí Minh:\n|     |   + Học phí kỳ định hướng: 11,900,000 VNĐ  |     |     |     |     |"
+    ],
+    "judge_seconds": 2.2692031000005954,
+    "reason": "Context B (Chunks 4 and 5) directly states the tuition fee for the orientation period at the Hanoi campus and Ho Chi Minh City branch is 11,900,000 VNĐ, applicable to new students and consisting of one orientation period.",
+    "status": "scored",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "context_recall": 1.0,
+    "context_precision": 1.0
+  },
+  {
+    "case_id": 2,
+    "config": "A",
+    "question": "Năm 2024, học phí chuyên ngành từ học kỳ 1 đến học kỳ 3 tại Hà Nội và TP.HCM là bao nhiêu mỗi kỳ?",
+    "type": "factual",
+    "reference": "28,700,000 VNĐ/kỳ.",
+    "expected_context": "Từ học kỳ 1 đến học kỳ 3: 28,700,000 VNĐ/kỳ.",
+    "response": "Thông tin về học phí chuyên ngành từ học kỳ 1 đến học kỳ 3 tại Hà Nội và TP.HCM không có trong ngữ cảnh được cung cấp.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.34774041175842285,
+        "metadata": {
+          "doc_type": "news",
+          "source": "article_05.md",
+          "title": "article_05",
+          "chunk_index": 43,
+          "url": null
+        },
+        "retrieval_method": "dense"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)"
+    ],
+    "judge_seconds": 2.10944439999912,
+    "reason": "Context A only contains a TikTok link and no information about tuition fees.",
+    "status": "scored",
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0,
+    "context_recall": 0.0,
+    "context_precision": 1.0
+  },
+  {
+    "case_id": 2,
+    "config": "B",
+    "question": "Năm 2024, học phí chuyên ngành từ học kỳ 1 đến học kỳ 3 tại Hà Nội và TP.HCM là bao nhiêu mỗi kỳ?",
+    "type": "factual",
+    "reference": "28,700,000 VNĐ/kỳ.",
+    "expected_context": "Từ học kỳ 1 đến học kỳ 3: 28,700,000 VNĐ/kỳ.",
+    "response": "Năm 2024, học phí chuyên ngành từ học kỳ 1 đến học kỳ 3 tại Hà Nội và TP.HCM là 28,700,000 VNĐ/kỳ.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "source": "article_05.md",
+          "title": "article_05",
+          "doc_type": "news",
+          "chunk_index": 43,
+          "url": null
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2024.md::chunk-139",
+        "content": "Từ học kỳ 7 đến học kỳ 9: 32,500,000 VNĐ/kỳ\nv Phân hiệu tại TP. Đà Nẵng, tỉnh Bình Định và TP. Cần Thơ:\n+ Học phí kỳ định hướng: 8,330,000 VNĐ (có 01 kỳ định hướng, chỉ áp dụng cho\nsinh viên mới nhập học).\n+ Học phí tiếng Anh chuẩn bị: 8,330,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ\ntrình độ).\n+ Học phí chuyên ngành: gồm 9 kỳ học chuyên ngành:\nTừ học kỳ 1 đến học kỳ 3: 20,090,000 VNĐ/kỳ.\nTừ học kỳ 4 đến học kỳ 6: 21,350,000 VNĐ/kỳ\nTừ học kỳ 7 đến học kỳ 9: 22,750,000 VNĐ/kỳ",
+        "score": 0.016129032258064516,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2024.md",
+          "title": "DE-AN-TUYEN-SINH-2024",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 139
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2024.md::chunk-140",
+        "content": "Từ học kỳ 7 đến học kỳ 9: 22,750,000 VNĐ/kỳ\n- Đợt nộp Học phí đầu tiên khi nhập học sinh viên nộp học phí kỳ định hướng và 1 mức\ntiếng anh chuẩn bị.\n1.11. Thời gian dự kiến tuyển sinh các đợt trong năm.\n- Căn cứ theo lịch trình xét tuyển năm 2024 của Bộ Giáo dục & Đào tạo;\n- Thời hạn đăng ký đợt 1: 30/06/2024;\n- Các đợt tuyển bổ sung (nếu có) căn cứ vào kết quả đợt tuyển sinh trước đó và sẽ được\nthông báo khi trường chưa tuyển đủ chỉ tiêu.",
+        "score": 0.015625,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2024.md",
+          "title": "DE-AN-TUYEN-SINH-2024",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 140
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/de-an-tuyen-sinh-2022-upweb.md::chunk-148",
+        "content": "❖ Phân hiệu tại Tp. Cần Thơ:\n+ Học phí kỳ định hướng: 7,250,000 VNĐ\n+ Học phí tiếng Anh chuẩn bị: 7,250,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ trình độ)\n+ Học phí đối với chuyên ngành CNTT và Thiết kế đồ họa: 17,500,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n+ Học phí đối với chuyên ngành Kinh tế và Ngôn ngữ: 14,800,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n- Học phí có thể được điều chỉnh hàng năm không quá 10%;",
+        "score": 0.015873015873015872,
+        "metadata": {
+          "source": "de-an-tuyen-sinh-2022-upweb.md",
+          "title": "de-an-tuyen-sinh-2022-upweb",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 148
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2024.md::chunk-138",
+        "content": "như sau:\nv Cơ sở đào tạo chính tại TP. Hà Nội, phân hiệu tại TP. Hồ Chí Minh:\n+ Học phí kỳ định hướng: 11,900,000 VNĐ (có 01 kỳ định hướng, chỉ áp dụng cho\nsinh viên mới nhập học).\n+ Học phí tiếng Anh chuẩn bị: 11,900,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ\ntrình độ).\n+ Học phí chuyên ngành: gồm 9 kỳ học chuyên ngành:\nTừ học kỳ 1 đến học kỳ 3: 28,700,000 VNĐ/kỳ.\nTừ học kỳ 4 đến học kỳ 6: 30,500,000 VNĐ/kỳ\nTừ học kỳ 7 đến học kỳ 9: 32,500,000 VNĐ/kỳ",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2024.md",
+          "title": "DE-AN-TUYEN-SINH-2024",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 138
+        },
+        "retrieval_method": "hybrid"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+      "Từ học kỳ 7 đến học kỳ 9: 32,500,000 VNĐ/kỳ\nv Phân hiệu tại TP. Đà Nẵng, tỉnh Bình Định và TP. Cần Thơ:\n+ Học phí kỳ định hướng: 8,330,000 VNĐ (có 01 kỳ định hướng, chỉ áp dụng cho\nsinh viên mới nhập học).\n+ Học phí tiếng Anh chuẩn bị: 8,330,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ\ntrình độ).\n+ Học phí chuyên ngành: gồm 9 kỳ học chuyên ngành:\nTừ học kỳ 1 đến học kỳ 3: 20,090,000 VNĐ/kỳ.\nTừ học kỳ 4 đến học kỳ 6: 21,350,000 VNĐ/kỳ\nTừ học kỳ 7 đến học kỳ 9: 22,750,000 VNĐ/kỳ",
+      "Từ học kỳ 7 đến học kỳ 9: 22,750,000 VNĐ/kỳ\n- Đợt nộp Học phí đầu tiên khi nhập học sinh viên nộp học phí kỳ định hướng và 1 mức\ntiếng anh chuẩn bị.\n1.11. Thời gian dự kiến tuyển sinh các đợt trong năm.\n- Căn cứ theo lịch trình xét tuyển năm 2024 của Bộ Giáo dục & Đào tạo;\n- Thời hạn đăng ký đợt 1: 30/06/2024;\n- Các đợt tuyển bổ sung (nếu có) căn cứ vào kết quả đợt tuyển sinh trước đó và sẽ được\nthông báo khi trường chưa tuyển đủ chỉ tiêu.",
+      "❖ Phân hiệu tại Tp. Cần Thơ:\n+ Học phí kỳ định hướng: 7,250,000 VNĐ\n+ Học phí tiếng Anh chuẩn bị: 7,250,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ trình độ)\n+ Học phí đối với chuyên ngành CNTT và Thiết kế đồ họa: 17,500,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n+ Học phí đối với chuyên ngành Kinh tế và Ngôn ngữ: 14,800,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n- Học phí có thể được điều chỉnh hàng năm không quá 10%;",
+      "như sau:\nv Cơ sở đào tạo chính tại TP. Hà Nội, phân hiệu tại TP. Hồ Chí Minh:\n+ Học phí kỳ định hướng: 11,900,000 VNĐ (có 01 kỳ định hướng, chỉ áp dụng cho\nsinh viên mới nhập học).\n+ Học phí tiếng Anh chuẩn bị: 11,900,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ\ntrình độ).\n+ Học phí chuyên ngành: gồm 9 kỳ học chuyên ngành:\nTừ học kỳ 1 đến học kỳ 3: 28,700,000 VNĐ/kỳ.\nTừ học kỳ 4 đến học kỳ 6: 30,500,000 VNĐ/kỳ\nTừ học kỳ 7 đến học kỳ 9: 32,500,000 VNĐ/kỳ"
+    ],
+    "judge_seconds": 2.10944439999912,
+    "reason": "Context B (Chunk 5) explicitly states that for the main campus in Hanoi and the branch in Ho Chi Minh City, the tuition fee for specialized majors from semester 1 to semester 3 is 28,700,000 VND/semester.",
+    "status": "scored",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "context_recall": 1.0,
+    "context_precision": 1.0
+  }
+]

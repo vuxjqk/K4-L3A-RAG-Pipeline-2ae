@@ -1,0 +1,1870 @@
+[
+  {
+    "case_id": 1,
+    "config": "A",
+    "question": "Theo đề án tuyển sinh 2024, học phí kỳ định hướng tại cơ sở Hà Nội và phân hiệu TP.HCM là bao nhiêu?",
+    "type": "factual",
+    "reference": "11,900,000 VNĐ (chỉ có 01 kỳ định hướng, áp dụng cho sinh viên mới nhập học).",
+    "expected_context": "+ Học phí kỳ định hướng: 11,900,000 VNĐ (có 01 kỳ định hướng, chỉ áp dụng cho",
+    "response": "Thông tin về học phí kỳ định hướng tại cơ sở Hà Nội và phân hiệu TP.HCM không có trong ngữ cảnh được cung cấp.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.36965876817703247,
+        "metadata": {
+          "chunk_index": 43,
+          "source": "article_05.md",
+          "title": "article_05",
+          "doc_type": "news",
+          "url": null
+        },
+        "retrieval_method": "dense"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)"
+    ],
+    "judge_seconds": 2.5905644000013126,
+    "reason": "Context A only contains a link to TikTok and no information about tuition fees.",
+    "status": "scored",
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0,
+    "context_recall": 0.0,
+    "context_precision": 1.0
+  },
+  {
+    "case_id": 1,
+    "config": "B",
+    "question": "Theo đề án tuyển sinh 2024, học phí kỳ định hướng tại cơ sở Hà Nội và phân hiệu TP.HCM là bao nhiêu?",
+    "type": "factual",
+    "reference": "11,900,000 VNĐ (chỉ có 01 kỳ định hướng, áp dụng cho sinh viên mới nhập học).",
+    "expected_context": "+ Học phí kỳ định hướng: 11,900,000 VNĐ (có 01 kỳ định hướng, chỉ áp dụng cho",
+    "response": "Theo đề án tuyển sinh 2024, học phí kỳ định hướng tại cơ sở Hà Nội và phân hiệu TP.HCM là 11,900,000 VNĐ. Thông tin này áp dụng cho sinh viên mới nhập học và có 01 kỳ định hướng.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "chunk_index": 43,
+          "title": "article_05",
+          "doc_type": "news",
+          "source": "article_05.md",
+          "url": null
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/de-an-tuyen-sinh-2022-upweb.md::chunk-146",
+        "content": "1.10. Học phí dự kiến với sinh viên chính quy; lộ trình tăng học phí tối đa cho từng năm (nếu có).\nHọc phí và các khoản phí khác đối với sinh viên chính quy và lộ trình tăng học phí tối đa cho từng năm dựa vào Quy định tài chính\nhiện hành cho sinh viên các hệ đào tạo của Trường Đại học FPT, cụ thể áp dụng cho các thí sinh nhập học tại các địa điểm đào tạo\nnhư sau:\n❖ Cơ sở đào tạo chính tại Tp. Hà Nội và phân hiệu tại Tp. Hồ Chí Minh:\n+ Học phí kỳ định hướng: 11,300,000 VNĐ",
+        "score": 0.016129032258064516,
+        "metadata": {
+          "source": "de-an-tuyen-sinh-2022-upweb.md",
+          "title": "de-an-tuyen-sinh-2022-upweb",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 146
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/de-an-tuyen-sinh-2022-upweb.md::chunk-147",
+        "content": "+ Học phí kỳ định hướng: 11,300,000 VNĐ\n+ Học phí tiếng Anh chuẩn bị: 11,300,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ trình độ)\n+ Học phí chuyên ngành: 27,300,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n❖ Phân hiệu tại Tp. Đà Nẵng và tỉnh Bình Định\n+ Học phí kỳ định hướng: 7,910,000 VNĐ\n+ Học phí tiếng Anh chuẩn bị: 7,910,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ trình độ)\n+ Học phí chuyên ngành: 19,110,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n❖ Phân hiệu tại Tp. Cần Thơ:",
+        "score": 0.015625,
+        "metadata": {
+          "source": "de-an-tuyen-sinh-2022-upweb.md",
+          "title": "de-an-tuyen-sinh-2022-upweb",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 147
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2024.md::chunk-138",
+        "content": "như sau:\nv Cơ sở đào tạo chính tại TP. Hà Nội, phân hiệu tại TP. Hồ Chí Minh:\n+ Học phí kỳ định hướng: 11,900,000 VNĐ (có 01 kỳ định hướng, chỉ áp dụng cho\nsinh viên mới nhập học).\n+ Học phí tiếng Anh chuẩn bị: 11,900,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ\ntrình độ).\n+ Học phí chuyên ngành: gồm 9 kỳ học chuyên ngành:\nTừ học kỳ 1 đến học kỳ 3: 28,700,000 VNĐ/kỳ.\nTừ học kỳ 4 đến học kỳ 6: 30,500,000 VNĐ/kỳ\nTừ học kỳ 7 đến học kỳ 9: 32,500,000 VNĐ/kỳ",
+        "score": 0.015873015873015872,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2024.md",
+          "title": "DE-AN-TUYEN-SINH-2024",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 138
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2023-upweb.md::chunk-122",
+        "content": "năm (nếu có).\nHọc phí và các khoản phí khác đối với sinh viên chính quy và lộ trình tăng học phí tối\nđa cho từng năm dựa vào Quy định tài chính hiện hành cho sinh viên các hệ đào tạo\ncủa Trường Đại học FPT, cụ thể áp dụng cho các thí sinh nhập học tại các địa điểm\nđào tạo như sau:\n❖ Cơ sở đào tạo chính tại Tp. Hà Nội và phân hiệu tại Tp. Hồ Chí Minh:\n|     |   + Học phí kỳ định hướng: 11,900,000 VNĐ  |     |     |     |     |",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2023-upweb.md",
+          "title": "DE-AN-TUYEN-SINH-2023-upweb",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 122
+        },
+        "retrieval_method": "hybrid"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+      "1.10. Học phí dự kiến với sinh viên chính quy; lộ trình tăng học phí tối đa cho từng năm (nếu có).\nHọc phí và các khoản phí khác đối với sinh viên chính quy và lộ trình tăng học phí tối đa cho từng năm dựa vào Quy định tài chính\nhiện hành cho sinh viên các hệ đào tạo của Trường Đại học FPT, cụ thể áp dụng cho các thí sinh nhập học tại các địa điểm đào tạo\nnhư sau:\n❖ Cơ sở đào tạo chính tại Tp. Hà Nội và phân hiệu tại Tp. Hồ Chí Minh:\n+ Học phí kỳ định hướng: 11,300,000 VNĐ",
+      "+ Học phí kỳ định hướng: 11,300,000 VNĐ\n+ Học phí tiếng Anh chuẩn bị: 11,300,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ trình độ)\n+ Học phí chuyên ngành: 27,300,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n❖ Phân hiệu tại Tp. Đà Nẵng và tỉnh Bình Định\n+ Học phí kỳ định hướng: 7,910,000 VNĐ\n+ Học phí tiếng Anh chuẩn bị: 7,910,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ trình độ)\n+ Học phí chuyên ngành: 19,110,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n❖ Phân hiệu tại Tp. Cần Thơ:",
+      "như sau:\nv Cơ sở đào tạo chính tại TP. Hà Nội, phân hiệu tại TP. Hồ Chí Minh:\n+ Học phí kỳ định hướng: 11,900,000 VNĐ (có 01 kỳ định hướng, chỉ áp dụng cho\nsinh viên mới nhập học).\n+ Học phí tiếng Anh chuẩn bị: 11,900,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ\ntrình độ).\n+ Học phí chuyên ngành: gồm 9 kỳ học chuyên ngành:\nTừ học kỳ 1 đến học kỳ 3: 28,700,000 VNĐ/kỳ.\nTừ học kỳ 4 đến học kỳ 6: 30,500,000 VNĐ/kỳ\nTừ học kỳ 7 đến học kỳ 9: 32,500,000 VNĐ/kỳ",
+      "năm (nếu có).\nHọc phí và các khoản phí khác đối với sinh viên chính quy và lộ trình tăng học phí tối\nđa cho từng năm dựa vào Quy định tài chính hiện hành cho sinh viên các hệ đào tạo\ncủa Trường Đại học FPT, cụ thể áp dụng cho các thí sinh nhập học tại các địa điểm\nđào tạo như sau:\n❖ Cơ sở đào tạo chính tại Tp. Hà Nội và phân hiệu tại Tp. Hồ Chí Minh:\n|     |   + Học phí kỳ định hướng: 11,900,000 VNĐ  |     |     |     |     |"
+    ],
+    "judge_seconds": 2.5905644000013126,
+    "reason": "Context B (Chunks 4 and 5) directly states the tuition fee for the orientation period at the Hanoi campus and Ho Chi Minh City branch is 11,900,000 VNĐ, applicable to new students and consisting of one orientation period.",
+    "status": "scored",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "context_recall": 1.0,
+    "context_precision": 1.0
+  },
+  {
+    "case_id": 2,
+    "config": "A",
+    "question": "Năm 2024, học phí chuyên ngành từ học kỳ 1 đến học kỳ 3 tại Hà Nội và TP.HCM là bao nhiêu mỗi kỳ?",
+    "type": "factual",
+    "reference": "28,700,000 VNĐ/kỳ.",
+    "expected_context": "Từ học kỳ 1 đến học kỳ 3: 28,700,000 VNĐ/kỳ.",
+    "response": "Thông tin về học phí chuyên ngành từ học kỳ 1 đến học kỳ 3 tại Hà Nội và TP.HCM không có trong ngữ cảnh được cung cấp.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.34774041175842285,
+        "metadata": {
+          "title": "article_05",
+          "doc_type": "news",
+          "source": "article_05.md",
+          "chunk_index": 43,
+          "url": null
+        },
+        "retrieval_method": "dense"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)"
+    ],
+    "judge_seconds": 1.9248952999987523,
+    "reason": "Context A only contains a TikTok link and no information about tuition fees.",
+    "status": "scored",
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0,
+    "context_recall": 0.0,
+    "context_precision": 1.0
+  },
+  {
+    "case_id": 2,
+    "config": "B",
+    "question": "Năm 2024, học phí chuyên ngành từ học kỳ 1 đến học kỳ 3 tại Hà Nội và TP.HCM là bao nhiêu mỗi kỳ?",
+    "type": "factual",
+    "reference": "28,700,000 VNĐ/kỳ.",
+    "expected_context": "Từ học kỳ 1 đến học kỳ 3: 28,700,000 VNĐ/kỳ.",
+    "response": "Năm 2024, học phí chuyên ngành từ học kỳ 1 đến học kỳ 3 tại Hà Nội và TP.HCM là 28,700,000 VNĐ/kỳ.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "source": "article_05.md",
+          "chunk_index": 43,
+          "doc_type": "news",
+          "title": "article_05",
+          "url": null
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2024.md::chunk-139",
+        "content": "Từ học kỳ 7 đến học kỳ 9: 32,500,000 VNĐ/kỳ\nv Phân hiệu tại TP. Đà Nẵng, tỉnh Bình Định và TP. Cần Thơ:\n+ Học phí kỳ định hướng: 8,330,000 VNĐ (có 01 kỳ định hướng, chỉ áp dụng cho\nsinh viên mới nhập học).\n+ Học phí tiếng Anh chuẩn bị: 8,330,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ\ntrình độ).\n+ Học phí chuyên ngành: gồm 9 kỳ học chuyên ngành:\nTừ học kỳ 1 đến học kỳ 3: 20,090,000 VNĐ/kỳ.\nTừ học kỳ 4 đến học kỳ 6: 21,350,000 VNĐ/kỳ\nTừ học kỳ 7 đến học kỳ 9: 22,750,000 VNĐ/kỳ",
+        "score": 0.016129032258064516,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2024.md",
+          "title": "DE-AN-TUYEN-SINH-2024",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 139
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2024.md::chunk-140",
+        "content": "Từ học kỳ 7 đến học kỳ 9: 22,750,000 VNĐ/kỳ\n- Đợt nộp Học phí đầu tiên khi nhập học sinh viên nộp học phí kỳ định hướng và 1 mức\ntiếng anh chuẩn bị.\n1.11. Thời gian dự kiến tuyển sinh các đợt trong năm.\n- Căn cứ theo lịch trình xét tuyển năm 2024 của Bộ Giáo dục & Đào tạo;\n- Thời hạn đăng ký đợt 1: 30/06/2024;\n- Các đợt tuyển bổ sung (nếu có) căn cứ vào kết quả đợt tuyển sinh trước đó và sẽ được\nthông báo khi trường chưa tuyển đủ chỉ tiêu.",
+        "score": 0.015625,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2024.md",
+          "title": "DE-AN-TUYEN-SINH-2024",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 140
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/de-an-tuyen-sinh-2022-upweb.md::chunk-148",
+        "content": "❖ Phân hiệu tại Tp. Cần Thơ:\n+ Học phí kỳ định hướng: 7,250,000 VNĐ\n+ Học phí tiếng Anh chuẩn bị: 7,250,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ trình độ)\n+ Học phí đối với chuyên ngành CNTT và Thiết kế đồ họa: 17,500,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n+ Học phí đối với chuyên ngành Kinh tế và Ngôn ngữ: 14,800,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n- Học phí có thể được điều chỉnh hàng năm không quá 10%;",
+        "score": 0.015873015873015872,
+        "metadata": {
+          "source": "de-an-tuyen-sinh-2022-upweb.md",
+          "title": "de-an-tuyen-sinh-2022-upweb",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 148
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2024.md::chunk-138",
+        "content": "như sau:\nv Cơ sở đào tạo chính tại TP. Hà Nội, phân hiệu tại TP. Hồ Chí Minh:\n+ Học phí kỳ định hướng: 11,900,000 VNĐ (có 01 kỳ định hướng, chỉ áp dụng cho\nsinh viên mới nhập học).\n+ Học phí tiếng Anh chuẩn bị: 11,900,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ\ntrình độ).\n+ Học phí chuyên ngành: gồm 9 kỳ học chuyên ngành:\nTừ học kỳ 1 đến học kỳ 3: 28,700,000 VNĐ/kỳ.\nTừ học kỳ 4 đến học kỳ 6: 30,500,000 VNĐ/kỳ\nTừ học kỳ 7 đến học kỳ 9: 32,500,000 VNĐ/kỳ",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2024.md",
+          "title": "DE-AN-TUYEN-SINH-2024",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 138
+        },
+        "retrieval_method": "hybrid"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+      "Từ học kỳ 7 đến học kỳ 9: 32,500,000 VNĐ/kỳ\nv Phân hiệu tại TP. Đà Nẵng, tỉnh Bình Định và TP. Cần Thơ:\n+ Học phí kỳ định hướng: 8,330,000 VNĐ (có 01 kỳ định hướng, chỉ áp dụng cho\nsinh viên mới nhập học).\n+ Học phí tiếng Anh chuẩn bị: 8,330,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ\ntrình độ).\n+ Học phí chuyên ngành: gồm 9 kỳ học chuyên ngành:\nTừ học kỳ 1 đến học kỳ 3: 20,090,000 VNĐ/kỳ.\nTừ học kỳ 4 đến học kỳ 6: 21,350,000 VNĐ/kỳ\nTừ học kỳ 7 đến học kỳ 9: 22,750,000 VNĐ/kỳ",
+      "Từ học kỳ 7 đến học kỳ 9: 22,750,000 VNĐ/kỳ\n- Đợt nộp Học phí đầu tiên khi nhập học sinh viên nộp học phí kỳ định hướng và 1 mức\ntiếng anh chuẩn bị.\n1.11. Thời gian dự kiến tuyển sinh các đợt trong năm.\n- Căn cứ theo lịch trình xét tuyển năm 2024 của Bộ Giáo dục & Đào tạo;\n- Thời hạn đăng ký đợt 1: 30/06/2024;\n- Các đợt tuyển bổ sung (nếu có) căn cứ vào kết quả đợt tuyển sinh trước đó và sẽ được\nthông báo khi trường chưa tuyển đủ chỉ tiêu.",
+      "❖ Phân hiệu tại Tp. Cần Thơ:\n+ Học phí kỳ định hướng: 7,250,000 VNĐ\n+ Học phí tiếng Anh chuẩn bị: 7,250,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ trình độ)\n+ Học phí đối với chuyên ngành CNTT và Thiết kế đồ họa: 17,500,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n+ Học phí đối với chuyên ngành Kinh tế và Ngôn ngữ: 14,800,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n- Học phí có thể được điều chỉnh hàng năm không quá 10%;",
+      "như sau:\nv Cơ sở đào tạo chính tại TP. Hà Nội, phân hiệu tại TP. Hồ Chí Minh:\n+ Học phí kỳ định hướng: 11,900,000 VNĐ (có 01 kỳ định hướng, chỉ áp dụng cho\nsinh viên mới nhập học).\n+ Học phí tiếng Anh chuẩn bị: 11,900,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ\ntrình độ).\n+ Học phí chuyên ngành: gồm 9 kỳ học chuyên ngành:\nTừ học kỳ 1 đến học kỳ 3: 28,700,000 VNĐ/kỳ.\nTừ học kỳ 4 đến học kỳ 6: 30,500,000 VNĐ/kỳ\nTừ học kỳ 7 đến học kỳ 9: 32,500,000 VNĐ/kỳ"
+    ],
+    "judge_seconds": 1.9248952999987523,
+    "reason": "Context B (Chunk 5) explicitly states that for the main campus in Hanoi and the branch in Ho Chi Minh City, the tuition fee for specialized majors from semester 1 to semester 3 is 28,700,000 VND/semester.",
+    "status": "scored",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "context_recall": 1.0,
+    "context_precision": 1.0
+  },
+  {
+    "case_id": 3,
+    "config": "A",
+    "question": "Đề án tuyển sinh 2024: học phí chuyên ngành học kỳ 1 đến 3 ở Đà Nẵng, Bình Định và Cần Thơ là bao nhiêu?",
+    "type": "factual",
+    "reference": "20,090,000 VNĐ/kỳ.",
+    "expected_context": "Từ học kỳ 1 đến học kỳ 3: 20,090,000 VNĐ/kỳ.",
+    "response": "Xin lỗi, tôi không tìm thấy thông tin về học phí chuyên ngành học kỳ 1 đến 3 tại Đà Nẵng, Bình Định và Cần Thơ trong ngữ cảnh được cung cấp.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.31265926361083984,
+        "metadata": {
+          "doc_type": "news",
+          "source": "article_05.md",
+          "chunk_index": 43,
+          "title": "article_05",
+          "url": null
+        },
+        "retrieval_method": "dense"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)"
+    ],
+    "judge_seconds": 2.1555607999998756,
+    "reason": "Context A chỉ chứa một liên kết TikTok và không có bất kỳ thông tin nào về học phí.",
+    "status": "scored",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0,
+    "context_recall": 0.0,
+    "context_precision": 1.0
+  },
+  {
+    "case_id": 3,
+    "config": "B",
+    "question": "Đề án tuyển sinh 2024: học phí chuyên ngành học kỳ 1 đến 3 ở Đà Nẵng, Bình Định và Cần Thơ là bao nhiêu?",
+    "type": "factual",
+    "reference": "20,090,000 VNĐ/kỳ.",
+    "expected_context": "Từ học kỳ 1 đến học kỳ 3: 20,090,000 VNĐ/kỳ.",
+    "response": "Học phí chuyên ngành học kỳ 1 đến 3 tại các phân hiệu ở TP. Đà Nẵng, TP. Cần Thơ và tỉnh Bình Định là 20,090,000 VNĐ/kỳ.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "doc_type": "news",
+          "source": "article_05.md",
+          "chunk_index": 43,
+          "title": "article_05",
+          "url": null
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2023-upweb.md::chunk-124",
+        "content": "+ Học phí chuyên ngành: 28,700,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n❖ Phân hiệu tại Tp. Đà Nẵng, TP. Cần Thơ và tỉnh Bình Định\n+ Học phí kỳ định hướng: 8,330,000 VNĐ\n+ Học phí tiếng Anh chuẩn bị: 8,330,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ\ntrình độ)\n+ Học phí chuyên ngành: 20,090,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n|     | -  Học phí có thể được điều chỉnh hàng năm không quá 10%;  |     |     |     |",
+        "score": 0.016129032258064516,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2023-upweb.md",
+          "title": "DE-AN-TUYEN-SINH-2023-upweb",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 124
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2024.md::chunk-138",
+        "content": "như sau:\nv Cơ sở đào tạo chính tại TP. Hà Nội, phân hiệu tại TP. Hồ Chí Minh:\n+ Học phí kỳ định hướng: 11,900,000 VNĐ (có 01 kỳ định hướng, chỉ áp dụng cho\nsinh viên mới nhập học).\n+ Học phí tiếng Anh chuẩn bị: 11,900,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ\ntrình độ).\n+ Học phí chuyên ngành: gồm 9 kỳ học chuyên ngành:\nTừ học kỳ 1 đến học kỳ 3: 28,700,000 VNĐ/kỳ.\nTừ học kỳ 4 đến học kỳ 6: 30,500,000 VNĐ/kỳ\nTừ học kỳ 7 đến học kỳ 9: 32,500,000 VNĐ/kỳ",
+        "score": 0.015625,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2024.md",
+          "title": "DE-AN-TUYEN-SINH-2024",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 138
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/de-an-tuyen-sinh-2022-upweb.md::chunk-147",
+        "content": "+ Học phí kỳ định hướng: 11,300,000 VNĐ\n+ Học phí tiếng Anh chuẩn bị: 11,300,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ trình độ)\n+ Học phí chuyên ngành: 27,300,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n❖ Phân hiệu tại Tp. Đà Nẵng và tỉnh Bình Định\n+ Học phí kỳ định hướng: 7,910,000 VNĐ\n+ Học phí tiếng Anh chuẩn bị: 7,910,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ trình độ)\n+ Học phí chuyên ngành: 19,110,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n❖ Phân hiệu tại Tp. Cần Thơ:",
+        "score": 0.015873015873015872,
+        "metadata": {
+          "source": "de-an-tuyen-sinh-2022-upweb.md",
+          "title": "de-an-tuyen-sinh-2022-upweb",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 147
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2024.md::chunk-139",
+        "content": "Từ học kỳ 7 đến học kỳ 9: 32,500,000 VNĐ/kỳ\nv Phân hiệu tại TP. Đà Nẵng, tỉnh Bình Định và TP. Cần Thơ:\n+ Học phí kỳ định hướng: 8,330,000 VNĐ (có 01 kỳ định hướng, chỉ áp dụng cho\nsinh viên mới nhập học).\n+ Học phí tiếng Anh chuẩn bị: 8,330,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ\ntrình độ).\n+ Học phí chuyên ngành: gồm 9 kỳ học chuyên ngành:\nTừ học kỳ 1 đến học kỳ 3: 20,090,000 VNĐ/kỳ.\nTừ học kỳ 4 đến học kỳ 6: 21,350,000 VNĐ/kỳ\nTừ học kỳ 7 đến học kỳ 9: 22,750,000 VNĐ/kỳ",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2024.md",
+          "title": "DE-AN-TUYEN-SINH-2024",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 139
+        },
+        "retrieval_method": "hybrid"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+      "+ Học phí chuyên ngành: 28,700,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n❖ Phân hiệu tại Tp. Đà Nẵng, TP. Cần Thơ và tỉnh Bình Định\n+ Học phí kỳ định hướng: 8,330,000 VNĐ\n+ Học phí tiếng Anh chuẩn bị: 8,330,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ\ntrình độ)\n+ Học phí chuyên ngành: 20,090,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n|     | -  Học phí có thể được điều chỉnh hàng năm không quá 10%;  |     |     |     |",
+      "như sau:\nv Cơ sở đào tạo chính tại TP. Hà Nội, phân hiệu tại TP. Hồ Chí Minh:\n+ Học phí kỳ định hướng: 11,900,000 VNĐ (có 01 kỳ định hướng, chỉ áp dụng cho\nsinh viên mới nhập học).\n+ Học phí tiếng Anh chuẩn bị: 11,900,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ\ntrình độ).\n+ Học phí chuyên ngành: gồm 9 kỳ học chuyên ngành:\nTừ học kỳ 1 đến học kỳ 3: 28,700,000 VNĐ/kỳ.\nTừ học kỳ 4 đến học kỳ 6: 30,500,000 VNĐ/kỳ\nTừ học kỳ 7 đến học kỳ 9: 32,500,000 VNĐ/kỳ",
+      "+ Học phí kỳ định hướng: 11,300,000 VNĐ\n+ Học phí tiếng Anh chuẩn bị: 11,300,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ trình độ)\n+ Học phí chuyên ngành: 27,300,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n❖ Phân hiệu tại Tp. Đà Nẵng và tỉnh Bình Định\n+ Học phí kỳ định hướng: 7,910,000 VNĐ\n+ Học phí tiếng Anh chuẩn bị: 7,910,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ trình độ)\n+ Học phí chuyên ngành: 19,110,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n❖ Phân hiệu tại Tp. Cần Thơ:",
+      "Từ học kỳ 7 đến học kỳ 9: 32,500,000 VNĐ/kỳ\nv Phân hiệu tại TP. Đà Nẵng, tỉnh Bình Định và TP. Cần Thơ:\n+ Học phí kỳ định hướng: 8,330,000 VNĐ (có 01 kỳ định hướng, chỉ áp dụng cho\nsinh viên mới nhập học).\n+ Học phí tiếng Anh chuẩn bị: 8,330,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ\ntrình độ).\n+ Học phí chuyên ngành: gồm 9 kỳ học chuyên ngành:\nTừ học kỳ 1 đến học kỳ 3: 20,090,000 VNĐ/kỳ.\nTừ học kỳ 4 đến học kỳ 6: 21,350,000 VNĐ/kỳ\nTừ học kỳ 7 đến học kỳ 9: 22,750,000 VNĐ/kỳ"
+    ],
+    "judge_seconds": 2.1555607999998756,
+    "reason": "Chunk 5 trong Context B cung cấp thông tin chính xác về học phí chuyên ngành từ học kỳ 1 đến 3 tại các địa điểm được hỏi là 20,090,000 VNĐ/kỳ.",
+    "status": "scored",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "context_recall": 1.0,
+    "context_precision": 1.0
+  },
+  {
+    "case_id": 4,
+    "config": "A",
+    "question": "Theo đề án tuyển sinh 2022, học phí chuyên ngành tại Hà Nội và TP.HCM là bao nhiêu mỗi kỳ?",
+    "type": "factual",
+    "reference": "27,300,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành).",
+    "expected_context": "+ Học phí chuyên ngành: 27,300,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)",
+    "response": "Thông tin về học phí chuyên ngành tại Hà Nội và TP.HCM không có trong ngữ cảnh được cung cấp.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.3488069772720337,
+        "metadata": {
+          "title": "article_05",
+          "doc_type": "news",
+          "source": "article_05.md",
+          "chunk_index": 43,
+          "url": null
+        },
+        "retrieval_method": "dense"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)"
+    ],
+    "judge_seconds": 1.7980931000001874,
+    "reason": "Context A does not contain any information about tuition fees.",
+    "status": "scored",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0,
+    "context_recall": 0.0,
+    "context_precision": 1.0
+  },
+  {
+    "case_id": 4,
+    "config": "B",
+    "question": "Theo đề án tuyển sinh 2022, học phí chuyên ngành tại Hà Nội và TP.HCM là bao nhiêu mỗi kỳ?",
+    "type": "factual",
+    "reference": "27,300,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành).",
+    "expected_context": "+ Học phí chuyên ngành: 27,300,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)",
+    "response": "Theo đề án tuyển sinh, học phí kỳ định hướng tại cơ sở đào tạo chính tại Tp. Hà Nội và phân hiệu tại Tp. Hồ Chí Minh là 11,300,000 VNĐ.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "doc_type": "news",
+          "chunk_index": 43,
+          "title": "article_05",
+          "source": "article_05.md",
+          "url": null
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/de-an-tuyen-sinh-2022-upweb.md::chunk-146",
+        "content": "1.10. Học phí dự kiến với sinh viên chính quy; lộ trình tăng học phí tối đa cho từng năm (nếu có).\nHọc phí và các khoản phí khác đối với sinh viên chính quy và lộ trình tăng học phí tối đa cho từng năm dựa vào Quy định tài chính\nhiện hành cho sinh viên các hệ đào tạo của Trường Đại học FPT, cụ thể áp dụng cho các thí sinh nhập học tại các địa điểm đào tạo\nnhư sau:\n❖ Cơ sở đào tạo chính tại Tp. Hà Nội và phân hiệu tại Tp. Hồ Chí Minh:\n+ Học phí kỳ định hướng: 11,300,000 VNĐ",
+        "score": 0.016129032258064516,
+        "metadata": {
+          "source": "de-an-tuyen-sinh-2022-upweb.md",
+          "title": "de-an-tuyen-sinh-2022-upweb",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 146
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "news/article_02.md::chunk-23",
+        "content": "Người dự tuyển phải đáp ứng các điều kiện về ngưỡng đầu vào theo quy định tại Điều 9 Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục Mầm non ban hành kèm theo Thông tư số 06/2026/TT-BGDĐT ngày 15/02/2026 của Bộ trưởng Bộ Giáo dục và Đào tạo (sau đây gọi tắt là Quy chế tuyển sinh của Bộ GDĐT); Có đủ sức khoẻ để học tập theo quy định hiện hành; Có đủ thông tin cá nhân, hồ sơ dự tuyển theo quy định.\n  1. **Chính sách ưu tiên**",
+        "score": 0.015625,
+        "metadata": {
+          "source": "article_02.md",
+          "title": "article_02",
+          "doc_type": "news",
+          "url": null,
+          "chunk_index": 23
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "news/article_01.md::chunk-21",
+        "content": "Người dự tuyển phải đáp ứng các điều kiện về ngưỡng đầu vào theo quy định tại Điều 9 Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục Mầm non ban hành kèm theo Thông tư số 06/2026/TT-BGDĐT ngày 15/02/2026 của Bộ trưởng Bộ Giáo dục và Đào tạo (sau đây gọi tắt là Quy chế tuyển sinh của Bộ GDĐT); Có đủ sức khoẻ để học tập theo quy định hiện hành; Có đủ thông tin cá nhân, hồ sơ dự tuyển theo quy định.\n  1. **Phương thức tuyển sinh:**",
+        "score": 0.015873015873015872,
+        "metadata": {
+          "source": "article_01.md",
+          "title": "article_01",
+          "doc_type": "news",
+          "url": null,
+          "chunk_index": 21
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "news/article_04.md::chunk-13",
+        "content": "![](https://daihoc.fpt.edu.vn/wp-content/themes/fpt-university/assets/images/icon-house.svg) ![](https://daihoc.fpt.edu.vn/wp-content/themes/fpt-university/assets/images/icon-arrow-right-gray.svg) [ Home ](https://daihoc.fpt.edu.vn/) ![](https://daihoc.fpt.edu.vn/wp-content/themes/fpt-university/assets/images/icon-arrow-right-gray.svg)\nHọc phí tại Campus Hà Nội\n# HỌC PHÍ TẠI CAMPUS HÀ NỘI\n_(Học phí chuẩn)_\n_Học phí áp dụng cho tân sinh viên khóa K22 (nhập học năm 2026)_",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "source": "article_04.md",
+          "title": "article_04",
+          "doc_type": "news",
+          "url": null,
+          "chunk_index": 13
+        },
+        "retrieval_method": "hybrid"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+      "1.10. Học phí dự kiến với sinh viên chính quy; lộ trình tăng học phí tối đa cho từng năm (nếu có).\nHọc phí và các khoản phí khác đối với sinh viên chính quy và lộ trình tăng học phí tối đa cho từng năm dựa vào Quy định tài chính\nhiện hành cho sinh viên các hệ đào tạo của Trường Đại học FPT, cụ thể áp dụng cho các thí sinh nhập học tại các địa điểm đào tạo\nnhư sau:\n❖ Cơ sở đào tạo chính tại Tp. Hà Nội và phân hiệu tại Tp. Hồ Chí Minh:\n+ Học phí kỳ định hướng: 11,300,000 VNĐ",
+      "Người dự tuyển phải đáp ứng các điều kiện về ngưỡng đầu vào theo quy định tại Điều 9 Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục Mầm non ban hành kèm theo Thông tư số 06/2026/TT-BGDĐT ngày 15/02/2026 của Bộ trưởng Bộ Giáo dục và Đào tạo (sau đây gọi tắt là Quy chế tuyển sinh của Bộ GDĐT); Có đủ sức khoẻ để học tập theo quy định hiện hành; Có đủ thông tin cá nhân, hồ sơ dự tuyển theo quy định.\n  1. **Chính sách ưu tiên**",
+      "Người dự tuyển phải đáp ứng các điều kiện về ngưỡng đầu vào theo quy định tại Điều 9 Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục Mầm non ban hành kèm theo Thông tư số 06/2026/TT-BGDĐT ngày 15/02/2026 của Bộ trưởng Bộ Giáo dục và Đào tạo (sau đây gọi tắt là Quy chế tuyển sinh của Bộ GDĐT); Có đủ sức khoẻ để học tập theo quy định hiện hành; Có đủ thông tin cá nhân, hồ sơ dự tuyển theo quy định.\n  1. **Phương thức tuyển sinh:**",
+      "![](https://daihoc.fpt.edu.vn/wp-content/themes/fpt-university/assets/images/icon-house.svg) ![](https://daihoc.fpt.edu.vn/wp-content/themes/fpt-university/assets/images/icon-arrow-right-gray.svg) [ Home ](https://daihoc.fpt.edu.vn/) ![](https://daihoc.fpt.edu.vn/wp-content/themes/fpt-university/assets/images/icon-arrow-right-gray.svg)\nHọc phí tại Campus Hà Nội\n# HỌC PHÍ TẠI CAMPUS HÀ NỘI\n_(Học phí chuẩn)_\n_Học phí áp dụng cho tân sinh viên khóa K22 (nhập học năm 2026)_"
+    ],
+    "judge_seconds": 1.7980931000001874,
+    "reason": "Context B provides the tuition fee for the orientation semester (11,300,000 VNĐ) but not for the specialized major as asked in the question. The reference answer mentions 27,300,000 VNĐ/semester for the specialized major, which is not present in Context B.",
+    "status": "scored",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.5,
+    "context_recall": 0.0,
+    "context_precision": 0.5
+  },
+  {
+    "case_id": 5,
+    "config": "A",
+    "question": "Đề án 2022 quy định học phí kỳ định hướng tại phân hiệu Cần Thơ là bao nhiêu?",
+    "type": "factual",
+    "reference": "7,250,000 VNĐ.",
+    "expected_context": "+ Học phí kỳ định hướng: 7,250,000 VNĐ",
+    "response": "Xin lỗi, tôi không tìm thấy thông tin về học phí kỳ định hướng tại phân hiệu Cần Thơ trong ngữ cảnh được cung cấp.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.3101351261138916,
+        "metadata": {
+          "chunk_index": 43,
+          "title": "article_05",
+          "source": "article_05.md",
+          "doc_type": "news",
+          "url": null
+        },
+        "retrieval_method": "dense"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)"
+    ],
+    "judge_seconds": 1.8176609000001918,
+    "reason": "Context A does not contain any information about tuition fees, specifically for the orientation semester at the Can Tho branch.",
+    "status": "scored",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0,
+    "context_recall": 0.0,
+    "context_precision": 1.0
+  },
+  {
+    "case_id": 5,
+    "config": "B",
+    "question": "Đề án 2022 quy định học phí kỳ định hướng tại phân hiệu Cần Thơ là bao nhiêu?",
+    "type": "factual",
+    "reference": "7,250,000 VNĐ.",
+    "expected_context": "+ Học phí kỳ định hướng: 7,250,000 VNĐ",
+    "response": "Học phí kỳ định hướng tại phân hiệu Cần Thơ là 8,330,000 VNĐ.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "source": "article_05.md",
+          "chunk_index": 43,
+          "doc_type": "news",
+          "title": "article_05",
+          "url": null
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2023-upweb.md::chunk-124",
+        "content": "+ Học phí chuyên ngành: 28,700,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n❖ Phân hiệu tại Tp. Đà Nẵng, TP. Cần Thơ và tỉnh Bình Định\n+ Học phí kỳ định hướng: 8,330,000 VNĐ\n+ Học phí tiếng Anh chuẩn bị: 8,330,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ\ntrình độ)\n+ Học phí chuyên ngành: 20,090,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n|     | -  Học phí có thể được điều chỉnh hàng năm không quá 10%;  |     |     |     |",
+        "score": 0.016129032258064516,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2023-upweb.md",
+          "title": "DE-AN-TUYEN-SINH-2023-upweb",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 124
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2024.md::chunk-139",
+        "content": "Từ học kỳ 7 đến học kỳ 9: 32,500,000 VNĐ/kỳ\nv Phân hiệu tại TP. Đà Nẵng, tỉnh Bình Định và TP. Cần Thơ:\n+ Học phí kỳ định hướng: 8,330,000 VNĐ (có 01 kỳ định hướng, chỉ áp dụng cho\nsinh viên mới nhập học).\n+ Học phí tiếng Anh chuẩn bị: 8,330,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ\ntrình độ).\n+ Học phí chuyên ngành: gồm 9 kỳ học chuyên ngành:\nTừ học kỳ 1 đến học kỳ 3: 20,090,000 VNĐ/kỳ.\nTừ học kỳ 4 đến học kỳ 6: 21,350,000 VNĐ/kỳ\nTừ học kỳ 7 đến học kỳ 9: 22,750,000 VNĐ/kỳ",
+        "score": 0.015625,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2024.md",
+          "title": "DE-AN-TUYEN-SINH-2024",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 139
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/de-an-tuyen-sinh-2022-upweb.md::chunk-143",
+        "content": "Tài Hà Nội TP.HCM Đà Nẵng Cần Thơ Quy Nhơn\nkhoản\nChủ tài Trường Đại học FPT Phân hiệu Trường Phân hiệu Trường Phân hiệu trường Phân hiệu trường\nkhoản Đại học FPT tại thành Đại học FPT tại Đại học FPT tại Đại học FPT tại tỉnh\nphố Hồ Chí Minh thành phố Đà Nẵng thành phố Cần Thơ Bình Định\nSố tài 00006969009 20209090909 03557714901 09098788005 13111113804\nkhoản\nNgân Ngân hàng Thương Ngân Hàng Thương Ngân hàng Thương Ngân hàng Thương Ngân hàng Thương",
+        "score": 0.015873015873015872,
+        "metadata": {
+          "source": "de-an-tuyen-sinh-2022-upweb.md",
+          "title": "de-an-tuyen-sinh-2022-upweb",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 143
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/de-an-tuyen-sinh-2022-upweb.md::chunk-147",
+        "content": "+ Học phí kỳ định hướng: 11,300,000 VNĐ\n+ Học phí tiếng Anh chuẩn bị: 11,300,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ trình độ)\n+ Học phí chuyên ngành: 27,300,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n❖ Phân hiệu tại Tp. Đà Nẵng và tỉnh Bình Định\n+ Học phí kỳ định hướng: 7,910,000 VNĐ\n+ Học phí tiếng Anh chuẩn bị: 7,910,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ trình độ)\n+ Học phí chuyên ngành: 19,110,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n❖ Phân hiệu tại Tp. Cần Thơ:",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "source": "de-an-tuyen-sinh-2022-upweb.md",
+          "title": "de-an-tuyen-sinh-2022-upweb",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 147
+        },
+        "retrieval_method": "hybrid"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+      "+ Học phí chuyên ngành: 28,700,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n❖ Phân hiệu tại Tp. Đà Nẵng, TP. Cần Thơ và tỉnh Bình Định\n+ Học phí kỳ định hướng: 8,330,000 VNĐ\n+ Học phí tiếng Anh chuẩn bị: 8,330,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ\ntrình độ)\n+ Học phí chuyên ngành: 20,090,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n|     | -  Học phí có thể được điều chỉnh hàng năm không quá 10%;  |     |     |     |",
+      "Từ học kỳ 7 đến học kỳ 9: 32,500,000 VNĐ/kỳ\nv Phân hiệu tại TP. Đà Nẵng, tỉnh Bình Định và TP. Cần Thơ:\n+ Học phí kỳ định hướng: 8,330,000 VNĐ (có 01 kỳ định hướng, chỉ áp dụng cho\nsinh viên mới nhập học).\n+ Học phí tiếng Anh chuẩn bị: 8,330,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ\ntrình độ).\n+ Học phí chuyên ngành: gồm 9 kỳ học chuyên ngành:\nTừ học kỳ 1 đến học kỳ 3: 20,090,000 VNĐ/kỳ.\nTừ học kỳ 4 đến học kỳ 6: 21,350,000 VNĐ/kỳ\nTừ học kỳ 7 đến học kỳ 9: 22,750,000 VNĐ/kỳ",
+      "Tài Hà Nội TP.HCM Đà Nẵng Cần Thơ Quy Nhơn\nkhoản\nChủ tài Trường Đại học FPT Phân hiệu Trường Phân hiệu Trường Phân hiệu trường Phân hiệu trường\nkhoản Đại học FPT tại thành Đại học FPT tại Đại học FPT tại Đại học FPT tại tỉnh\nphố Hồ Chí Minh thành phố Đà Nẵng thành phố Cần Thơ Bình Định\nSố tài 00006969009 20209090909 03557714901 09098788005 13111113804\nkhoản\nNgân Ngân hàng Thương Ngân Hàng Thương Ngân hàng Thương Ngân hàng Thương Ngân hàng Thương",
+      "+ Học phí kỳ định hướng: 11,300,000 VNĐ\n+ Học phí tiếng Anh chuẩn bị: 11,300,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ trình độ)\n+ Học phí chuyên ngành: 27,300,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n❖ Phân hiệu tại Tp. Đà Nẵng và tỉnh Bình Định\n+ Học phí kỳ định hướng: 7,910,000 VNĐ\n+ Học phí tiếng Anh chuẩn bị: 7,910,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ trình độ)\n+ Học phí chuyên ngành: 19,110,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n❖ Phân hiệu tại Tp. Cần Thơ:"
+    ],
+    "judge_seconds": 1.8176609000001918,
+    "reason": "Context B explicitly states that the tuition fee for the orientation semester at the Can Tho branch is 8,330,000 VNĐ in Chunk 3.",
+    "status": "scored",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "context_recall": 1.0,
+    "context_precision": 1.0
+  },
+  {
+    "case_id": 6,
+    "config": "A",
+    "question": "Học phí chuyên ngành tại Hà Nội đã tăng thế nào từ đề án 2022 đến đề án 2024 (học kỳ 1-3)?",
+    "type": "multi-hop",
+    "reference": "Tăng từ 27,300,000 VNĐ/kỳ (đề án 2022) lên 28,700,000 VNĐ/kỳ (đề án 2024).",
+    "expected_context": "+ Học phí chuyên ngành: 27,300,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n...\nTừ học kỳ 1 đến học kỳ 3: 28,700,000 VNĐ/kỳ.",
+    "response": "Thông tin về học phí chuyên ngành tại Hà Nội từ đề án 2022 đến đề án 2024 (học kỳ 1-3) không có trong ngữ cảnh được cung cấp.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.326881468296051,
+        "metadata": {
+          "doc_type": "news",
+          "title": "article_05",
+          "chunk_index": 43,
+          "source": "article_05.md",
+          "url": null
+        },
+        "retrieval_method": "dense"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)"
+    ],
+    "judge_seconds": 1.9439480999990337,
+    "reason": "Context A does not contain any information about tuition fees for specific majors in Hanoi for the 2022 and 2024 schemes, nor does it mention the fee for the first 1-3 semesters.",
+    "status": "scored",
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0,
+    "context_recall": 0.0,
+    "context_precision": 0.0
+  },
+  {
+    "case_id": 6,
+    "config": "B",
+    "question": "Học phí chuyên ngành tại Hà Nội đã tăng thế nào từ đề án 2022 đến đề án 2024 (học kỳ 1-3)?",
+    "type": "multi-hop",
+    "reference": "Tăng từ 27,300,000 VNĐ/kỳ (đề án 2022) lên 28,700,000 VNĐ/kỳ (đề án 2024).",
+    "expected_context": "+ Học phí chuyên ngành: 27,300,000 VNĐ/kỳ (gồm 9 kỳ học chuyên ngành)\n...\nTừ học kỳ 1 đến học kỳ 3: 28,700,000 VNĐ/kỳ.",
+    "response": "Học phí chuyên ngành tại Hà Nội từ học kỳ 1 đến học kỳ 3 là 20,090,000 VNĐ/kỳ theo đề án năm 2022.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "doc_type": "news",
+          "source": "article_05.md",
+          "title": "article_05",
+          "chunk_index": 43,
+          "url": null
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2024.md::chunk-139",
+        "content": "Từ học kỳ 7 đến học kỳ 9: 32,500,000 VNĐ/kỳ\nv Phân hiệu tại TP. Đà Nẵng, tỉnh Bình Định và TP. Cần Thơ:\n+ Học phí kỳ định hướng: 8,330,000 VNĐ (có 01 kỳ định hướng, chỉ áp dụng cho\nsinh viên mới nhập học).\n+ Học phí tiếng Anh chuẩn bị: 8,330,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ\ntrình độ).\n+ Học phí chuyên ngành: gồm 9 kỳ học chuyên ngành:\nTừ học kỳ 1 đến học kỳ 3: 20,090,000 VNĐ/kỳ.\nTừ học kỳ 4 đến học kỳ 6: 21,350,000 VNĐ/kỳ\nTừ học kỳ 7 đến học kỳ 9: 22,750,000 VNĐ/kỳ",
+        "score": 0.016129032258064516,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2024.md",
+          "title": "DE-AN-TUYEN-SINH-2024",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 139
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/de-an-tuyen-sinh-2022-upweb.md::chunk-146",
+        "content": "1.10. Học phí dự kiến với sinh viên chính quy; lộ trình tăng học phí tối đa cho từng năm (nếu có).\nHọc phí và các khoản phí khác đối với sinh viên chính quy và lộ trình tăng học phí tối đa cho từng năm dựa vào Quy định tài chính\nhiện hành cho sinh viên các hệ đào tạo của Trường Đại học FPT, cụ thể áp dụng cho các thí sinh nhập học tại các địa điểm đào tạo\nnhư sau:\n❖ Cơ sở đào tạo chính tại Tp. Hà Nội và phân hiệu tại Tp. Hồ Chí Minh:\n+ Học phí kỳ định hướng: 11,300,000 VNĐ",
+        "score": 0.015625,
+        "metadata": {
+          "source": "de-an-tuyen-sinh-2022-upweb.md",
+          "title": "de-an-tuyen-sinh-2022-upweb",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 146
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/de-an-tuyen-sinh-2022-upweb.md::chunk-0",
+        "content": "| BỘ GIÁO DỤC VÀ ĐÀO TẠO  |     | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  |     |     |\n| ----------------------- | --- | ----------------------------------- | --- | --- |\n| TRƯỜNG ĐẠI HỌC FPT      |     | Độc lập - Tự do - Hạnh phúc         |     |     |\n\nĐỀ ÁN TUYỂN SINH NĂM 2022",
+        "score": 0.015873015873015872,
+        "metadata": {
+          "source": "de-an-tuyen-sinh-2022-upweb.md",
+          "title": "de-an-tuyen-sinh-2022-upweb",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 0
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2024.md::chunk-138",
+        "content": "như sau:\nv Cơ sở đào tạo chính tại TP. Hà Nội, phân hiệu tại TP. Hồ Chí Minh:\n+ Học phí kỳ định hướng: 11,900,000 VNĐ (có 01 kỳ định hướng, chỉ áp dụng cho\nsinh viên mới nhập học).\n+ Học phí tiếng Anh chuẩn bị: 11,900,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ\ntrình độ).\n+ Học phí chuyên ngành: gồm 9 kỳ học chuyên ngành:\nTừ học kỳ 1 đến học kỳ 3: 28,700,000 VNĐ/kỳ.\nTừ học kỳ 4 đến học kỳ 6: 30,500,000 VNĐ/kỳ\nTừ học kỳ 7 đến học kỳ 9: 32,500,000 VNĐ/kỳ",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2024.md",
+          "title": "DE-AN-TUYEN-SINH-2024",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 138
+        },
+        "retrieval_method": "hybrid"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+      "Từ học kỳ 7 đến học kỳ 9: 32,500,000 VNĐ/kỳ\nv Phân hiệu tại TP. Đà Nẵng, tỉnh Bình Định và TP. Cần Thơ:\n+ Học phí kỳ định hướng: 8,330,000 VNĐ (có 01 kỳ định hướng, chỉ áp dụng cho\nsinh viên mới nhập học).\n+ Học phí tiếng Anh chuẩn bị: 8,330,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ\ntrình độ).\n+ Học phí chuyên ngành: gồm 9 kỳ học chuyên ngành:\nTừ học kỳ 1 đến học kỳ 3: 20,090,000 VNĐ/kỳ.\nTừ học kỳ 4 đến học kỳ 6: 21,350,000 VNĐ/kỳ\nTừ học kỳ 7 đến học kỳ 9: 22,750,000 VNĐ/kỳ",
+      "1.10. Học phí dự kiến với sinh viên chính quy; lộ trình tăng học phí tối đa cho từng năm (nếu có).\nHọc phí và các khoản phí khác đối với sinh viên chính quy và lộ trình tăng học phí tối đa cho từng năm dựa vào Quy định tài chính\nhiện hành cho sinh viên các hệ đào tạo của Trường Đại học FPT, cụ thể áp dụng cho các thí sinh nhập học tại các địa điểm đào tạo\nnhư sau:\n❖ Cơ sở đào tạo chính tại Tp. Hà Nội và phân hiệu tại Tp. Hồ Chí Minh:\n+ Học phí kỳ định hướng: 11,300,000 VNĐ",
+      "| BỘ GIÁO DỤC VÀ ĐÀO TẠO  |     | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  |     |     |\n| ----------------------- | --- | ----------------------------------- | --- | --- |\n| TRƯỜNG ĐẠI HỌC FPT      |     | Độc lập - Tự do - Hạnh phúc         |     |     |\n\nĐỀ ÁN TUYỂN SINH NĂM 2022",
+      "như sau:\nv Cơ sở đào tạo chính tại TP. Hà Nội, phân hiệu tại TP. Hồ Chí Minh:\n+ Học phí kỳ định hướng: 11,900,000 VNĐ (có 01 kỳ định hướng, chỉ áp dụng cho\nsinh viên mới nhập học).\n+ Học phí tiếng Anh chuẩn bị: 11,900,000 VNĐ/mức (có 6 mức tiếng Anh, xếp lớp tuỳ\ntrình độ).\n+ Học phí chuyên ngành: gồm 9 kỳ học chuyên ngành:\nTừ học kỳ 1 đến học kỳ 3: 28,700,000 VNĐ/kỳ.\nTừ học kỳ 4 đến học kỳ 6: 30,500,000 VNĐ/kỳ\nTừ học kỳ 7 đến học kỳ 9: 32,500,000 VNĐ/kỳ"
+    ],
+    "judge_seconds": 1.9439480999990337,
+    "reason": "Context B provides the tuition fee for the first 1-3 semesters as 20,090,000 VNĐ/kỳ, which is stated to be for the Hanoi campus. However, it does not explicitly state this is for the '2022 scheme' or provide a comparison point for the '2024 scheme' to answer the full question about the increase.",
+    "status": "scored",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "context_recall": 0.5,
+    "context_precision": 1.0
+  },
+  {
+    "case_id": 7,
+    "config": "A",
+    "question": "Thời hạn đăng ký xét tuyển đợt 1 năm 2023 của Trường Đại học FPT là khi nào?",
+    "type": "factual",
+    "reference": "Ngày 31/05/2023.",
+    "expected_context": "- Thời hạn đăng ký đợt 1: 31/05/2023;",
+    "response": "Thông tin về thời hạn đăng ký xét tuyển đợt 1 năm 2023 của Trường Đại học FPT không có trong ngữ cảnh được cung cấp.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.4485645890235901,
+        "metadata": {
+          "source": "article_05.md",
+          "title": "article_05",
+          "doc_type": "news",
+          "chunk_index": 43,
+          "url": null
+        },
+        "retrieval_method": "dense"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)"
+    ],
+    "judge_seconds": 1.670461499999874,
+    "reason": "Context A only contains a link to a TikTok profile and no information about the university's admission deadlines.",
+    "status": "scored",
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0,
+    "context_recall": 0.0,
+    "context_precision": 1.0
+  },
+  {
+    "case_id": 7,
+    "config": "B",
+    "question": "Thời hạn đăng ký xét tuyển đợt 1 năm 2023 của Trường Đại học FPT là khi nào?",
+    "type": "factual",
+    "reference": "Ngày 31/05/2023.",
+    "expected_context": "- Thời hạn đăng ký đợt 1: 31/05/2023;",
+    "response": "Thời hạn đăng ký xét tuyển đợt 1 năm 2023 của Trường Đại học FPT là ngày 31/05/2023.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "title": "article_05",
+          "source": "article_05.md",
+          "chunk_index": 43,
+          "doc_type": "news",
+          "url": null
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/de-an-tuyen-sinh-2022-upweb.md::chunk-139",
+        "content": "học. Khi đăng ký xét tuyển, thí sinh là Thế hệ 1 cần nộp Đơn đăng ký ưu tiên xét tuyển có xác nhận của nơi làm việc của bố mẹ hoặc\nđịa phương theo mẫu của Trường Đại học FPT.\n1.7.2. Lịch trình xét tuyển\nCăn cứ theo lịch trình xét tuyển năm 2022 của Bộ Giáo dục & Đào tạo.\nĐối với đợt 1 lọc tuyển trên hệ thống của Bộ GD&ĐT, thí sinh chỉ đủ điều kiện trúng tuyển khi đã làm thủ tục đăng ký và",
+        "score": 0.016129032258064516,
+        "metadata": {
+          "source": "de-an-tuyen-sinh-2022-upweb.md",
+          "title": "de-an-tuyen-sinh-2022-upweb",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 139
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2024.md::chunk-140",
+        "content": "Từ học kỳ 7 đến học kỳ 9: 22,750,000 VNĐ/kỳ\n- Đợt nộp Học phí đầu tiên khi nhập học sinh viên nộp học phí kỳ định hướng và 1 mức\ntiếng anh chuẩn bị.\n1.11. Thời gian dự kiến tuyển sinh các đợt trong năm.\n- Căn cứ theo lịch trình xét tuyển năm 2024 của Bộ Giáo dục & Đào tạo;\n- Thời hạn đăng ký đợt 1: 30/06/2024;\n- Các đợt tuyển bổ sung (nếu có) căn cứ vào kết quả đợt tuyển sinh trước đó và sẽ được\nthông báo khi trường chưa tuyển đủ chỉ tiêu.",
+        "score": 0.015625,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2024.md",
+          "title": "DE-AN-TUYEN-SINH-2024",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 140
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2023-upweb.md::chunk-114",
+        "content": "1.7.2. Lịch trình xét tuyển\n- Căn cứ theo lịch trình xét tuyển năm 2023 của Bộ Giáo dục & Đào tạo;\n- Thời hạn đăng ký đợt 1: 31/05/2023;\n- Các đợt tuyển bổ sung (nếu có) căn cứ vào kết quả đợt tuyển sinh trước đó và sẽ\nđược thông báo khi trường chưa tuyển đủ chỉ tiêu;\n1.7.3. Thủ tục đăng ký và nộp phí\na) Địa điểm văn phòng tư vấn tuyển sinh và thông tin liên hệ hướng dẫn cách\nthức đăng ký và nộp phí\nVăn phòng tuyển sinh Địa chỉ Điện thoại\nKhu Giáo dục và Đào tạo – Khu Công nghệ cao",
+        "score": 0.015873015873015872,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2023-upweb.md",
+          "title": "DE-AN-TUYEN-SINH-2023-upweb",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 114
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2023-upweb.md::chunk-125",
+        "content": "| --- | ---------------------------------------------------------- | --- | --- | --- |\n-   Đợt nộp học phí đầu tiên khi nhập học sinh viên nộp học phí kỳ định hướng và 1\nmức tiếng anh chuẩn bị\n1.11. Thời gian dự kiến tuyển sinh các đợt trong năm.\n- Căn cứ theo lịch trình xét tuyển năm 2023 của Bộ Giáo dục & Đào tạo;\n- Thời hạn đăng ký đợt 1: 31/05/2023;\nCác đợt tuyển bổ sung (nếu có) căn cứ vào kết quả đợt tuyển sinh trước đó và sẽ được\nthông báo khi trường chưa tuyển đủ chỉ tiêu.",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2023-upweb.md",
+          "title": "DE-AN-TUYEN-SINH-2023-upweb",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 125
+        },
+        "retrieval_method": "hybrid"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+      "học. Khi đăng ký xét tuyển, thí sinh là Thế hệ 1 cần nộp Đơn đăng ký ưu tiên xét tuyển có xác nhận của nơi làm việc của bố mẹ hoặc\nđịa phương theo mẫu của Trường Đại học FPT.\n1.7.2. Lịch trình xét tuyển\nCăn cứ theo lịch trình xét tuyển năm 2022 của Bộ Giáo dục & Đào tạo.\nĐối với đợt 1 lọc tuyển trên hệ thống của Bộ GD&ĐT, thí sinh chỉ đủ điều kiện trúng tuyển khi đã làm thủ tục đăng ký và",
+      "Từ học kỳ 7 đến học kỳ 9: 22,750,000 VNĐ/kỳ\n- Đợt nộp Học phí đầu tiên khi nhập học sinh viên nộp học phí kỳ định hướng và 1 mức\ntiếng anh chuẩn bị.\n1.11. Thời gian dự kiến tuyển sinh các đợt trong năm.\n- Căn cứ theo lịch trình xét tuyển năm 2024 của Bộ Giáo dục & Đào tạo;\n- Thời hạn đăng ký đợt 1: 30/06/2024;\n- Các đợt tuyển bổ sung (nếu có) căn cứ vào kết quả đợt tuyển sinh trước đó và sẽ được\nthông báo khi trường chưa tuyển đủ chỉ tiêu.",
+      "1.7.2. Lịch trình xét tuyển\n- Căn cứ theo lịch trình xét tuyển năm 2023 của Bộ Giáo dục & Đào tạo;\n- Thời hạn đăng ký đợt 1: 31/05/2023;\n- Các đợt tuyển bổ sung (nếu có) căn cứ vào kết quả đợt tuyển sinh trước đó và sẽ\nđược thông báo khi trường chưa tuyển đủ chỉ tiêu;\n1.7.3. Thủ tục đăng ký và nộp phí\na) Địa điểm văn phòng tư vấn tuyển sinh và thông tin liên hệ hướng dẫn cách\nthức đăng ký và nộp phí\nVăn phòng tuyển sinh Địa chỉ Điện thoại\nKhu Giáo dục và Đào tạo – Khu Công nghệ cao",
+      "| --- | ---------------------------------------------------------- | --- | --- | --- |\n-   Đợt nộp học phí đầu tiên khi nhập học sinh viên nộp học phí kỳ định hướng và 1\nmức tiếng anh chuẩn bị\n1.11. Thời gian dự kiến tuyển sinh các đợt trong năm.\n- Căn cứ theo lịch trình xét tuyển năm 2023 của Bộ Giáo dục & Đào tạo;\n- Thời hạn đăng ký đợt 1: 31/05/2023;\nCác đợt tuyển bổ sung (nếu có) căn cứ vào kết quả đợt tuyển sinh trước đó và sẽ được\nthông báo khi trường chưa tuyển đủ chỉ tiêu."
+    ],
+    "judge_seconds": 1.670461499999874,
+    "reason": "Context B, specifically Chunk 4 and Chunk 5, explicitly states that the deadline for the first admission round in 2023 is 31/05/2023.",
+    "status": "scored",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "context_recall": 1.0,
+    "context_precision": 1.0
+  },
+  {
+    "case_id": 8,
+    "config": "A",
+    "question": "Thời hạn đăng ký đợt 1 theo đề án tuyển sinh 2024 là ngày nào?",
+    "type": "factual",
+    "reference": "Ngày 30/06/2024.",
+    "expected_context": "- Thời hạn đăng ký đợt 1: 30/06/2024;",
+    "response": "Xin lỗi, tôi không tìm thấy thông tin về thời hạn đăng ký đợt 1 theo đề án tuyển sinh 2024 trong ngữ cảnh được cung cấp.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.3819791078567505,
+        "metadata": {
+          "title": "article_05",
+          "doc_type": "news",
+          "source": "article_05.md",
+          "chunk_index": 43,
+          "url": null
+        },
+        "retrieval_method": "dense"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)"
+    ],
+    "judge_seconds": 2.0064405000011902,
+    "reason": "Context A does not contain any information about the registration deadline for the first intake of the 2024 admission scheme. Therefore, the answer correctly states that the information is not found.",
+    "status": "scored",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0,
+    "context_recall": 0.0,
+    "context_precision": 1.0
+  },
+  {
+    "case_id": 8,
+    "config": "B",
+    "question": "Thời hạn đăng ký đợt 1 theo đề án tuyển sinh 2024 là ngày nào?",
+    "type": "factual",
+    "reference": "Ngày 30/06/2024.",
+    "expected_context": "- Thời hạn đăng ký đợt 1: 30/06/2024;",
+    "response": "Thời hạn đăng ký đợt 1 theo đề án tuyển sinh 2024 là ngày 30/06/2024.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "chunk_index": 43,
+          "title": "article_05",
+          "doc_type": "news",
+          "source": "article_05.md",
+          "url": null
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2024.md::chunk-140",
+        "content": "Từ học kỳ 7 đến học kỳ 9: 22,750,000 VNĐ/kỳ\n- Đợt nộp Học phí đầu tiên khi nhập học sinh viên nộp học phí kỳ định hướng và 1 mức\ntiếng anh chuẩn bị.\n1.11. Thời gian dự kiến tuyển sinh các đợt trong năm.\n- Căn cứ theo lịch trình xét tuyển năm 2024 của Bộ Giáo dục & Đào tạo;\n- Thời hạn đăng ký đợt 1: 30/06/2024;\n- Các đợt tuyển bổ sung (nếu có) căn cứ vào kết quả đợt tuyển sinh trước đó và sẽ được\nthông báo khi trường chưa tuyển đủ chỉ tiêu.",
+        "score": 0.016129032258064516,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2024.md",
+          "title": "DE-AN-TUYEN-SINH-2024",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 140
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "news/article_01.md::chunk-33",
+        "content": "[[1]](https://daihoc.fpt.edu.vn/quy-che-tuyen-sinh-2026/#_ftnref1) Sinh viên thế hệ 1 (First-Generation Student): là người đầu tiên trong gia đình (gồm phụ huynh hoặc người bảo trợ và tất cả anh chị em ruột) học đại học. Khi đăng ký xét tuyển, sinh viên thế hệ 1 cần nộp Đơn đăng ký ưu tiên xét tuyển có xác nhận của nơi làm việc của bố mẹ hoặc địa phương theo mẫu của Trường Đại học FPT.\n**III. Lịch trình tuyển sinh**\nThời gian dự kiến tuyển sinh các đợt trong năm:",
+        "score": 0.015625,
+        "metadata": {
+          "source": "article_01.md",
+          "title": "article_01",
+          "doc_type": "news",
+          "url": null,
+          "chunk_index": 33
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2023-upweb.md::chunk-125",
+        "content": "| --- | ---------------------------------------------------------- | --- | --- | --- |\n-   Đợt nộp học phí đầu tiên khi nhập học sinh viên nộp học phí kỳ định hướng và 1\nmức tiếng anh chuẩn bị\n1.11. Thời gian dự kiến tuyển sinh các đợt trong năm.\n- Căn cứ theo lịch trình xét tuyển năm 2023 của Bộ Giáo dục & Đào tạo;\n- Thời hạn đăng ký đợt 1: 31/05/2023;\nCác đợt tuyển bổ sung (nếu có) căn cứ vào kết quả đợt tuyển sinh trước đó và sẽ được\nthông báo khi trường chưa tuyển đủ chỉ tiêu.",
+        "score": 0.015873015873015872,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2023-upweb.md",
+          "title": "DE-AN-TUYEN-SINH-2023-upweb",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 125
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2024.md::chunk-128",
+        "content": "1.7.2. Lịch trình xét tuyển\n- Căn cứ theo lịch trình xét tuyển năm 2024 của Bộ Giáo dục & Đào tạo;\n- Thời hạn đăng ký đợt 1: 30/06/2024;\n- Các đợt tuyển bổ sung (nếu có) căn cứ vào kết quả đợt tuyển sinh trước đó và sẽ được\nthông báo khi trường chưa tuyển đủ chỉ tiêu;\n1.7.3.  Thủ tục đăng ký và nộp tiền\na) Địa điểm văn phòng tư vấn tuyển sinh và thông tin liên hệ hướng dẫn cách thức\nđăng ký và nộp tiền",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2024.md",
+          "title": "DE-AN-TUYEN-SINH-2024",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 128
+        },
+        "retrieval_method": "hybrid"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+      "Từ học kỳ 7 đến học kỳ 9: 22,750,000 VNĐ/kỳ\n- Đợt nộp Học phí đầu tiên khi nhập học sinh viên nộp học phí kỳ định hướng và 1 mức\ntiếng anh chuẩn bị.\n1.11. Thời gian dự kiến tuyển sinh các đợt trong năm.\n- Căn cứ theo lịch trình xét tuyển năm 2024 của Bộ Giáo dục & Đào tạo;\n- Thời hạn đăng ký đợt 1: 30/06/2024;\n- Các đợt tuyển bổ sung (nếu có) căn cứ vào kết quả đợt tuyển sinh trước đó và sẽ được\nthông báo khi trường chưa tuyển đủ chỉ tiêu.",
+      "[[1]](https://daihoc.fpt.edu.vn/quy-che-tuyen-sinh-2026/#_ftnref1) Sinh viên thế hệ 1 (First-Generation Student): là người đầu tiên trong gia đình (gồm phụ huynh hoặc người bảo trợ và tất cả anh chị em ruột) học đại học. Khi đăng ký xét tuyển, sinh viên thế hệ 1 cần nộp Đơn đăng ký ưu tiên xét tuyển có xác nhận của nơi làm việc của bố mẹ hoặc địa phương theo mẫu của Trường Đại học FPT.\n**III. Lịch trình tuyển sinh**\nThời gian dự kiến tuyển sinh các đợt trong năm:",
+      "| --- | ---------------------------------------------------------- | --- | --- | --- |\n-   Đợt nộp học phí đầu tiên khi nhập học sinh viên nộp học phí kỳ định hướng và 1\nmức tiếng anh chuẩn bị\n1.11. Thời gian dự kiến tuyển sinh các đợt trong năm.\n- Căn cứ theo lịch trình xét tuyển năm 2023 của Bộ Giáo dục & Đào tạo;\n- Thời hạn đăng ký đợt 1: 31/05/2023;\nCác đợt tuyển bổ sung (nếu có) căn cứ vào kết quả đợt tuyển sinh trước đó và sẽ được\nthông báo khi trường chưa tuyển đủ chỉ tiêu.",
+      "1.7.2. Lịch trình xét tuyển\n- Căn cứ theo lịch trình xét tuyển năm 2024 của Bộ Giáo dục & Đào tạo;\n- Thời hạn đăng ký đợt 1: 30/06/2024;\n- Các đợt tuyển bổ sung (nếu có) căn cứ vào kết quả đợt tuyển sinh trước đó và sẽ được\nthông báo khi trường chưa tuyển đủ chỉ tiêu;\n1.7.3.  Thủ tục đăng ký và nộp tiền\na) Địa điểm văn phòng tư vấn tuyển sinh và thông tin liên hệ hướng dẫn cách thức\nđăng ký và nộp tiền"
+    ],
+    "judge_seconds": 2.0064405000011902,
+    "reason": "Chunk 2 and Chunk 5 explicitly state 'Thời hạn đăng ký đợt 1: 30/06/2024;' which directly answers the question. Chunk 4 contains conflicting information for 2023, but the 2024 information is present and accurate.",
+    "status": "scored",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "context_recall": 1.0,
+    "context_precision": 1.0
+  },
+  {
+    "case_id": 9,
+    "config": "A",
+    "question": "Ký túc xá của Trường Đại học FPT có bao nhiêu chỗ ở theo đề án 2024?",
+    "type": "factual",
+    "reference": "10822 chỗ.",
+    "expected_context": "- Số chỗ ở ký túc xá sinh viên (nếu có): 10822",
+    "response": "Thông tin về số chỗ ở ký túc xá của Trường Đại học FPT theo đề án 2024 không có trong ngữ cảnh được cung cấp.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.4536468982696533,
+        "metadata": {
+          "chunk_index": 43,
+          "doc_type": "news",
+          "source": "article_05.md",
+          "title": "article_05",
+          "url": null
+        },
+        "retrieval_method": "dense"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)"
+    ],
+    "judge_seconds": 1.9939593999988574,
+    "reason": "Context A chỉ chứa một liên kết TikTok và không có thông tin nào liên quan đến số chỗ ở ký túc xá.",
+    "status": "scored",
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0,
+    "context_recall": 0.0,
+    "context_precision": 1.0
+  },
+  {
+    "case_id": 9,
+    "config": "B",
+    "question": "Ký túc xá của Trường Đại học FPT có bao nhiêu chỗ ở theo đề án 2024?",
+    "type": "factual",
+    "reference": "10822 chỗ.",
+    "expected_context": "- Số chỗ ở ký túc xá sinh viên (nếu có): 10822",
+    "response": "Theo đề án 2024, ký túc xá của Trường Đại học FPT có 10822 chỗ ở.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "doc_type": "news",
+          "source": "article_05.md",
+          "title": "article_05",
+          "chunk_index": 43,
+          "url": null
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2023-upweb.md::chunk-720",
+        "content": "2. Cơ sở vật chất phục vụ đào tạo và nghiên cứu:\n2.1. Thống kê số lượng, diện tích đất, diện tích sàn xây dựng, ký túc xá\n- Tổng diện tích đất của trường (ha): 46.85\n- Số chỗ ở ký túc xá sinh viên (nếu có): 9958\n- Diện tích sàn xây dựng trực tiếp phục vụ đào tạo thuộc sở hữu của trường tính trên một\nsinh viên chính quy: 4 m2/sinh viên\nDiện tích\nSố  sàn xây\nSTT  Loại phòng\nlượng  dựng\n(m2)\nHội trường, giảng đường, phòng học các loại, phòng đa năng, phòng làm",
+        "score": 0.016129032258064516,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2023-upweb.md",
+          "title": "DE-AN-TUYEN-SINH-2023-upweb",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 720
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2023-upweb.md::chunk-25",
+        "content": "Phương thức tuyển sinh\nNăm\nKết hợp\nTT tuyển\nThi Xét thi tuyển\nGhi chú\nsinh\ntuyển tuyển và xét\ntuyển\nđăng ký xét tuyển, thí sinh là Thế hệ 1 cần\nnộp Đơn đăng ký ưu tiên xét tuyển có xác\nnhận của nơi làm việc của bố mẹ hoặc địa\nphương theo mẫu của Trường Đại học FPT.\nNăm X Các thí sinh thuộc đối tượng tuyển sinh có\n2\nnguyện vọng theo học tại Trường ĐH FPT\ntuyển\ncần đáp ứng một trong các điều kiện sau:\nsinh\na) Thuộc diện được xét tuyển thẳng thực\n2021\nhiện theo Quy định của Bộ Giáo dục & Đào\ntạo;",
+        "score": 0.015625,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2023-upweb.md",
+          "title": "DE-AN-TUYEN-SINH-2023-upweb",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 25
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/de-an-tuyen-sinh-2022-upweb.md::chunk-81",
+        "content": "Đào tạo vừa làm vừa học đối với người\n| 7.3  | đã tốt nghiệp trình độ cao đẳng  |     |     |     |     |     |     |\n| ---- | -------------------------------- | --- | --- | --- | --- | --- | --- |\n10.2. Cơ sở vật chất phục vụ đào tạo và nghiên cứu:\n10.2.1. Thống kê số lượng, diện tích đất, diện tích sàn xây dựng, ký túc xá\n- Tổng diện tích đất của trường (ha): 443,415 m2\n- Số chỗ ở ký túc xá sinh viên (nếu có): 5,105",
+        "score": 0.015873015873015872,
+        "metadata": {
+          "source": "de-an-tuyen-sinh-2022-upweb.md",
+          "title": "de-an-tuyen-sinh-2022-upweb",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 81
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2024.md::chunk-195",
+        "content": "2. Cơ sở vật chất phục vụ đào tạo và nghiên cứu:\n2.1. Thống kê số lượng, diện tích đất, diện tích sàn xây dựng, ký túc xá\n- Tổng diện tích đất của trường (ha): 46,85\n- Số chỗ ở ký túc xá sinh viên (nếu có): 10822\n- Diện tích sàn xây dựng trực tiếp phục vụ đào tạo thuộc sở hữu của trường tính trên một\nsinh viên chính quy: 3,1 m2/ sinh viên\nDiện tích sàn xây\n| STT  |     | Loại phòng  |     | Số lượng  |     |     |\n| ---- | --- | ----------- | --- | --------- | --- | --- |\ndựng (m2)",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2024.md",
+          "title": "DE-AN-TUYEN-SINH-2024",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 195
+        },
+        "retrieval_method": "hybrid"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+      "2. Cơ sở vật chất phục vụ đào tạo và nghiên cứu:\n2.1. Thống kê số lượng, diện tích đất, diện tích sàn xây dựng, ký túc xá\n- Tổng diện tích đất của trường (ha): 46.85\n- Số chỗ ở ký túc xá sinh viên (nếu có): 9958\n- Diện tích sàn xây dựng trực tiếp phục vụ đào tạo thuộc sở hữu của trường tính trên một\nsinh viên chính quy: 4 m2/sinh viên\nDiện tích\nSố  sàn xây\nSTT  Loại phòng\nlượng  dựng\n(m2)\nHội trường, giảng đường, phòng học các loại, phòng đa năng, phòng làm",
+      "Phương thức tuyển sinh\nNăm\nKết hợp\nTT tuyển\nThi Xét thi tuyển\nGhi chú\nsinh\ntuyển tuyển và xét\ntuyển\nđăng ký xét tuyển, thí sinh là Thế hệ 1 cần\nnộp Đơn đăng ký ưu tiên xét tuyển có xác\nnhận của nơi làm việc của bố mẹ hoặc địa\nphương theo mẫu của Trường Đại học FPT.\nNăm X Các thí sinh thuộc đối tượng tuyển sinh có\n2\nnguyện vọng theo học tại Trường ĐH FPT\ntuyển\ncần đáp ứng một trong các điều kiện sau:\nsinh\na) Thuộc diện được xét tuyển thẳng thực\n2021\nhiện theo Quy định của Bộ Giáo dục & Đào\ntạo;",
+      "Đào tạo vừa làm vừa học đối với người\n| 7.3  | đã tốt nghiệp trình độ cao đẳng  |     |     |     |     |     |     |\n| ---- | -------------------------------- | --- | --- | --- | --- | --- | --- |\n10.2. Cơ sở vật chất phục vụ đào tạo và nghiên cứu:\n10.2.1. Thống kê số lượng, diện tích đất, diện tích sàn xây dựng, ký túc xá\n- Tổng diện tích đất của trường (ha): 443,415 m2\n- Số chỗ ở ký túc xá sinh viên (nếu có): 5,105",
+      "2. Cơ sở vật chất phục vụ đào tạo và nghiên cứu:\n2.1. Thống kê số lượng, diện tích đất, diện tích sàn xây dựng, ký túc xá\n- Tổng diện tích đất của trường (ha): 46,85\n- Số chỗ ở ký túc xá sinh viên (nếu có): 10822\n- Diện tích sàn xây dựng trực tiếp phục vụ đào tạo thuộc sở hữu của trường tính trên một\nsinh viên chính quy: 3,1 m2/ sinh viên\nDiện tích sàn xây\n| STT  |     | Loại phòng  |     | Số lượng  |     |     |\n| ---- | --- | ----------- | --- | --------- | --- | --- |\ndựng (m2)"
+    ],
+    "judge_seconds": 1.9939593999988574,
+    "reason": "Chunk 5 trong Context B cung cấp thông tin 'Số chỗ ở ký túc xá sinh viên (nếu có): 10822', trực tiếp trả lời câu hỏi.",
+    "status": "scored",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "context_recall": 1.0,
+    "context_precision": 1.0
+  },
+  {
+    "case_id": 10,
+    "config": "PAIR",
+    "question": "Tổng diện tích đất của Trường Đại học FPT là bao nhiêu hecta?",
+    "type": "factual",
+    "status": "error",
+    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 10, model: gemini-2.5-flash-lite\\nPlease retry in 38.12926798s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash-lite'}, 'quotaValue': '10'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '38s'}]}}"
+  },
+  {
+    "case_id": 10,
+    "config": "A",
+    "question": "Tổng diện tích đất của Trường Đại học FPT là bao nhiêu hecta?",
+    "type": "factual",
+    "reference": "46,85 ha.",
+    "expected_context": "- Tổng diện tích đất của trường (ha): 46,85",
+    "response": "Thông tin về tổng diện tích đất của Trường Đại học FPT không có trong ngữ cảnh được cung cấp.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.4289591312408447,
+        "metadata": {
+          "chunk_index": 43,
+          "title": "article_05",
+          "doc_type": "news",
+          "source": "article_05.md",
+          "url": null
+        },
+        "retrieval_method": "dense"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)"
+    ],
+    "judge_seconds": 2.0082348999985697,
+    "reason": "Context A does not contain any information about the total land area of FPT University.",
+    "status": "scored",
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0,
+    "context_recall": 0.0,
+    "context_precision": 1.0
+  },
+  {
+    "case_id": 10,
+    "config": "B",
+    "question": "Tổng diện tích đất của Trường Đại học FPT là bao nhiêu hecta?",
+    "type": "factual",
+    "reference": "46,85 ha.",
+    "expected_context": "- Tổng diện tích đất của trường (ha): 46,85",
+    "response": "Tổng diện tích đất của Trường Đại học FPT là 46,85 ha.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "doc_type": "news",
+          "source": "article_05.md",
+          "chunk_index": 43,
+          "title": "article_05",
+          "url": null
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2024.md::chunk-195",
+        "content": "2. Cơ sở vật chất phục vụ đào tạo và nghiên cứu:\n2.1. Thống kê số lượng, diện tích đất, diện tích sàn xây dựng, ký túc xá\n- Tổng diện tích đất của trường (ha): 46,85\n- Số chỗ ở ký túc xá sinh viên (nếu có): 10822\n- Diện tích sàn xây dựng trực tiếp phục vụ đào tạo thuộc sở hữu của trường tính trên một\nsinh viên chính quy: 3,1 m2/ sinh viên\nDiện tích sàn xây\n| STT  |     | Loại phòng  |     | Số lượng  |     |     |\n| ---- | --- | ----------- | --- | --------- | --- | --- |\ndựng (m2)",
+        "score": 0.016129032258064516,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2024.md",
+          "title": "DE-AN-TUYEN-SINH-2024",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 195
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/de-an-tuyen-sinh-2022-upweb.md::chunk-1",
+        "content": "I. Thông tin chung (tính đến thời điểm xây dựng kế hoạch tuyển sinh)\n1. Tên cơ sở đào tạo: Trường Đại học FPT\n2. Mã trường: FPT\n3. Địa chỉ các trụ sở (trụ sở chính và phân hiệu):\nDiện tích sàn\n|                     | Loại hình  |           | Diện tích  | xây dựng  |\n| ------------------- | ---------- | --------- | ---------- | --------- |\n| STT  Cơ sở đào tạo  |            | Địa điểm  |            |           |\nđất (m2)\n|     | đào tạo  |     |     | phục vụ   |",
+        "score": 0.015625,
+        "metadata": {
+          "source": "de-an-tuyen-sinh-2022-upweb.md",
+          "title": "de-an-tuyen-sinh-2022-upweb",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 1
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/de-an-tuyen-sinh-2022-upweb.md::chunk-81",
+        "content": "Đào tạo vừa làm vừa học đối với người\n| 7.3  | đã tốt nghiệp trình độ cao đẳng  |     |     |     |     |     |     |\n| ---- | -------------------------------- | --- | --- | --- | --- | --- | --- |\n10.2. Cơ sở vật chất phục vụ đào tạo và nghiên cứu:\n10.2.1. Thống kê số lượng, diện tích đất, diện tích sàn xây dựng, ký túc xá\n- Tổng diện tích đất của trường (ha): 443,415 m2\n- Số chỗ ở ký túc xá sinh viên (nếu có): 5,105",
+        "score": 0.015873015873015872,
+        "metadata": {
+          "source": "de-an-tuyen-sinh-2022-upweb.md",
+          "title": "de-an-tuyen-sinh-2022-upweb",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 81
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2023-upweb.md::chunk-720",
+        "content": "2. Cơ sở vật chất phục vụ đào tạo và nghiên cứu:\n2.1. Thống kê số lượng, diện tích đất, diện tích sàn xây dựng, ký túc xá\n- Tổng diện tích đất của trường (ha): 46.85\n- Số chỗ ở ký túc xá sinh viên (nếu có): 9958\n- Diện tích sàn xây dựng trực tiếp phục vụ đào tạo thuộc sở hữu của trường tính trên một\nsinh viên chính quy: 4 m2/sinh viên\nDiện tích\nSố  sàn xây\nSTT  Loại phòng\nlượng  dựng\n(m2)\nHội trường, giảng đường, phòng học các loại, phòng đa năng, phòng làm",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2023-upweb.md",
+          "title": "DE-AN-TUYEN-SINH-2023-upweb",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 720
+        },
+        "retrieval_method": "hybrid"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+      "2. Cơ sở vật chất phục vụ đào tạo và nghiên cứu:\n2.1. Thống kê số lượng, diện tích đất, diện tích sàn xây dựng, ký túc xá\n- Tổng diện tích đất của trường (ha): 46,85\n- Số chỗ ở ký túc xá sinh viên (nếu có): 10822\n- Diện tích sàn xây dựng trực tiếp phục vụ đào tạo thuộc sở hữu của trường tính trên một\nsinh viên chính quy: 3,1 m2/ sinh viên\nDiện tích sàn xây\n| STT  |     | Loại phòng  |     | Số lượng  |     |     |\n| ---- | --- | ----------- | --- | --------- | --- | --- |\ndựng (m2)",
+      "I. Thông tin chung (tính đến thời điểm xây dựng kế hoạch tuyển sinh)\n1. Tên cơ sở đào tạo: Trường Đại học FPT\n2. Mã trường: FPT\n3. Địa chỉ các trụ sở (trụ sở chính và phân hiệu):\nDiện tích sàn\n|                     | Loại hình  |           | Diện tích  | xây dựng  |\n| ------------------- | ---------- | --------- | ---------- | --------- |\n| STT  Cơ sở đào tạo  |            | Địa điểm  |            |           |\nđất (m2)\n|     | đào tạo  |     |     | phục vụ   |",
+      "Đào tạo vừa làm vừa học đối với người\n| 7.3  | đã tốt nghiệp trình độ cao đẳng  |     |     |     |     |     |     |\n| ---- | -------------------------------- | --- | --- | --- | --- | --- | --- |\n10.2. Cơ sở vật chất phục vụ đào tạo và nghiên cứu:\n10.2.1. Thống kê số lượng, diện tích đất, diện tích sàn xây dựng, ký túc xá\n- Tổng diện tích đất của trường (ha): 443,415 m2\n- Số chỗ ở ký túc xá sinh viên (nếu có): 5,105",
+      "2. Cơ sở vật chất phục vụ đào tạo và nghiên cứu:\n2.1. Thống kê số lượng, diện tích đất, diện tích sàn xây dựng, ký túc xá\n- Tổng diện tích đất của trường (ha): 46.85\n- Số chỗ ở ký túc xá sinh viên (nếu có): 9958\n- Diện tích sàn xây dựng trực tiếp phục vụ đào tạo thuộc sở hữu của trường tính trên một\nsinh viên chính quy: 4 m2/sinh viên\nDiện tích\nSố  sàn xây\nSTT  Loại phòng\nlượng  dựng\n(m2)\nHội trường, giảng đường, phòng học các loại, phòng đa năng, phòng làm"
+    ],
+    "judge_seconds": 2.0082348999985697,
+    "reason": "Chunk 2 and Chunk 5 in Context B explicitly state that the total land area of the university is 46.85 ha.",
+    "status": "scored",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "context_recall": 1.0,
+    "context_precision": 1.0
+  },
+  {
+    "case_id": 11,
+    "config": "A",
+    "question": "Quy chế tuyển sinh năm 2026 của Trường Đại học FPT có tổng số lượng tuyển sinh là bao nhiêu?",
+    "type": "factual",
+    "reference": "14.677.",
+    "expected_context": "**Số lượng tuyển sinh:** 14.677",
+    "response": "Thông tin về tổng số lượng tuyển sinh năm 2026 của Trường Đại học FPT không có trong ngữ cảnh được cung cấp.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.42998719215393066,
+        "metadata": {
+          "title": "article_05",
+          "chunk_index": 43,
+          "source": "article_05.md",
+          "doc_type": "news",
+          "url": null
+        },
+        "retrieval_method": "dense"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)"
+    ],
+    "judge_seconds": 1.9122283999986394,
+    "reason": "Context A only contains a link to a TikTok profile and does not contain any information about the FPT University's 2026 enrollment numbers.",
+    "status": "scored",
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0,
+    "context_recall": 0.0,
+    "context_precision": 1.0
+  },
+  {
+    "case_id": 11,
+    "config": "B",
+    "question": "Quy chế tuyển sinh năm 2026 của Trường Đại học FPT có tổng số lượng tuyển sinh là bao nhiêu?",
+    "type": "factual",
+    "reference": "14.677.",
+    "expected_context": "**Số lượng tuyển sinh:** 14.677",
+    "response": "Thông tin về tổng số lượng tuyển sinh năm 2026 của Trường Đại học FPT không có trong ngữ cảnh được cung cấp.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "source": "article_05.md",
+          "title": "article_05",
+          "chunk_index": 43,
+          "doc_type": "news",
+          "url": null
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "news/article_02.md::chunk-23",
+        "content": "Người dự tuyển phải đáp ứng các điều kiện về ngưỡng đầu vào theo quy định tại Điều 9 Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục Mầm non ban hành kèm theo Thông tư số 06/2026/TT-BGDĐT ngày 15/02/2026 của Bộ trưởng Bộ Giáo dục và Đào tạo (sau đây gọi tắt là Quy chế tuyển sinh của Bộ GDĐT); Có đủ sức khoẻ để học tập theo quy định hiện hành; Có đủ thông tin cá nhân, hồ sơ dự tuyển theo quy định.\n  1. **Chính sách ưu tiên**",
+        "score": 0.016129032258064516,
+        "metadata": {
+          "source": "article_02.md",
+          "title": "article_02",
+          "doc_type": "news",
+          "url": null,
+          "chunk_index": 23
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "news/article_01.md::chunk-13",
+        "content": "![](https://daihoc.fpt.edu.vn/wp-content/themes/fpt-university/assets/images/icon-house.svg) ![](https://daihoc.fpt.edu.vn/wp-content/themes/fpt-university/assets/images/icon-arrow-right-gray.svg) [ Home ](https://daihoc.fpt.edu.vn/) ![](https://daihoc.fpt.edu.vn/wp-content/themes/fpt-university/assets/images/icon-arrow-right-gray.svg)\nQuy chế tuyển sinh 2026\n**QUY CHẾ TUYỂN SINH HỆ ĐẠI HỌC CHÍNH QUY NĂM 2026**\n**TRƯỜNG ĐẠI****HỌC****FPT**",
+        "score": 0.015625,
+        "metadata": {
+          "source": "article_01.md",
+          "title": "article_01",
+          "doc_type": "news",
+          "url": null,
+          "chunk_index": 13
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "news/article_03.md::chunk-17",
+        "content": "Người dự tuyển phải đáp ứng các điều kiện về ngưỡng đầu vào theo quy định tại Điều 9 Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục Mầm non ban hành kèm theo Thông tư số 06/2026/TT-BGDĐT ngày 15/02/2026 của Bộ trưởng Bộ Giáo dục và Đào tạo (sau đây gọi tắt là Quy chế tuyển sinh của Bộ GDĐT); Có đủ sức khoẻ để học tập theo quy định hiện hành; Có đủ thông tin cá nhân, hồ sơ dự tuyển theo quy định\n**2. Phương thức tuyển sinh:**",
+        "score": 0.015873015873015872,
+        "metadata": {
+          "source": "article_03.md",
+          "title": "article_03",
+          "doc_type": "news",
+          "url": null,
+          "chunk_index": 17
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "news/article_01.md::chunk-21",
+        "content": "Người dự tuyển phải đáp ứng các điều kiện về ngưỡng đầu vào theo quy định tại Điều 9 Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục Mầm non ban hành kèm theo Thông tư số 06/2026/TT-BGDĐT ngày 15/02/2026 của Bộ trưởng Bộ Giáo dục và Đào tạo (sau đây gọi tắt là Quy chế tuyển sinh của Bộ GDĐT); Có đủ sức khoẻ để học tập theo quy định hiện hành; Có đủ thông tin cá nhân, hồ sơ dự tuyển theo quy định.\n  1. **Phương thức tuyển sinh:**",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "source": "article_01.md",
+          "title": "article_01",
+          "doc_type": "news",
+          "url": null,
+          "chunk_index": 21
+        },
+        "retrieval_method": "hybrid"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+      "Người dự tuyển phải đáp ứng các điều kiện về ngưỡng đầu vào theo quy định tại Điều 9 Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục Mầm non ban hành kèm theo Thông tư số 06/2026/TT-BGDĐT ngày 15/02/2026 của Bộ trưởng Bộ Giáo dục và Đào tạo (sau đây gọi tắt là Quy chế tuyển sinh của Bộ GDĐT); Có đủ sức khoẻ để học tập theo quy định hiện hành; Có đủ thông tin cá nhân, hồ sơ dự tuyển theo quy định.\n  1. **Chính sách ưu tiên**",
+      "![](https://daihoc.fpt.edu.vn/wp-content/themes/fpt-university/assets/images/icon-house.svg) ![](https://daihoc.fpt.edu.vn/wp-content/themes/fpt-university/assets/images/icon-arrow-right-gray.svg) [ Home ](https://daihoc.fpt.edu.vn/) ![](https://daihoc.fpt.edu.vn/wp-content/themes/fpt-university/assets/images/icon-arrow-right-gray.svg)\nQuy chế tuyển sinh 2026\n**QUY CHẾ TUYỂN SINH HỆ ĐẠI HỌC CHÍNH QUY NĂM 2026**\n**TRƯỜNG ĐẠI****HỌC****FPT**",
+      "Người dự tuyển phải đáp ứng các điều kiện về ngưỡng đầu vào theo quy định tại Điều 9 Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục Mầm non ban hành kèm theo Thông tư số 06/2026/TT-BGDĐT ngày 15/02/2026 của Bộ trưởng Bộ Giáo dục và Đào tạo (sau đây gọi tắt là Quy chế tuyển sinh của Bộ GDĐT); Có đủ sức khoẻ để học tập theo quy định hiện hành; Có đủ thông tin cá nhân, hồ sơ dự tuyển theo quy định\n**2. Phương thức tuyển sinh:**",
+      "Người dự tuyển phải đáp ứng các điều kiện về ngưỡng đầu vào theo quy định tại Điều 9 Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục Mầm non ban hành kèm theo Thông tư số 06/2026/TT-BGDĐT ngày 15/02/2026 của Bộ trưởng Bộ Giáo dục và Đào tạo (sau đây gọi tắt là Quy chế tuyển sinh của Bộ GDĐT); Có đủ sức khoẻ để học tập theo quy định hiện hành; Có đủ thông tin cá nhân, hồ sơ dự tuyển theo quy định.\n  1. **Phương thức tuyển sinh:**"
+    ],
+    "judge_seconds": 1.9122283999986394,
+    "reason": "Context B contains information about the general admission regulations for 2026, including entry requirements and admission methods, but it does not specify the total enrollment number for FPT University in 2026.",
+    "status": "scored",
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0,
+    "context_recall": 0.0,
+    "context_precision": 0.33
+  },
+  {
+    "case_id": 12,
+    "config": "A",
+    "question": "Điểm kết hợp (ĐKH) trong công thức xét tuyển năm 2026 của FPT được tính như thế nào?",
+    "type": "factual",
+    "reference": "ĐKH = (Điểm thi THPT + (Điểm trung bình lớp 12) x 3) / 2; điểm xét tuyển ĐXT = ĐKH + ĐKK + ĐƯT.",
+    "expected_context": "ĐKH (điểm kết hợp)= (Điểm thi THPT +(Điểm trung bình lớp 12) x 3)/2",
+    "response": "Thông tin về cách tính Điểm kết hợp (ĐKH) trong công thức xét tuyển năm 2026 của FPT không có trong ngữ cảnh được cung cấp.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.4006448984146118,
+        "metadata": {
+          "chunk_index": 43,
+          "source": "article_05.md",
+          "doc_type": "news",
+          "title": "article_05",
+          "url": null
+        },
+        "retrieval_method": "dense"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)"
+    ],
+    "judge_seconds": 1.604352899999867,
+    "reason": "Context A only contains a link to TikTok and no information about the FPT admission formula.",
+    "status": "scored",
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0,
+    "context_recall": 0.0,
+    "context_precision": 0.0
+  },
+  {
+    "case_id": 12,
+    "config": "B",
+    "question": "Điểm kết hợp (ĐKH) trong công thức xét tuyển năm 2026 của FPT được tính như thế nào?",
+    "type": "factual",
+    "reference": "ĐKH = (Điểm thi THPT + (Điểm trung bình lớp 12) x 3) / 2; điểm xét tuyển ĐXT = ĐKH + ĐKK + ĐƯT.",
+    "expected_context": "ĐKH (điểm kết hợp)= (Điểm thi THPT +(Điểm trung bình lớp 12) x 3)/2",
+    "response": "Điểm kết hợp (ĐKH) trong công thức xét tuyển của FPT được tính như sau: ĐKH = (Điểm thi THPT + (Điểm trung bình lớp 12) x 3) / 2.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "source": "article_05.md",
+          "chunk_index": 43,
+          "doc_type": "news",
+          "title": "article_05",
+          "url": null
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "news/article_02.md::chunk-15",
+        "content": "Trường Đại học FPT xét tuyển theo phương thức kết hợp kết quả kỳ thi tốt nghiệp THPT với kết quả học tập THPT. Điểm xét tuyển được xác định như sau:\n**ĐXT= ĐKH+ĐKK+ĐƯT**\n  * Trong đó:  \nĐKH (điểm kết hợp)= (Điểm thi THPT +(Điểm trung bình lớp 12) x 3)/2\n  * Điểm thi THPT quy định như sau:",
+        "score": 0.016129032258064516,
+        "metadata": {
+          "source": "article_02.md",
+          "title": "article_02",
+          "doc_type": "news",
+          "url": null,
+          "chunk_index": 15
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "news/article_03.md::chunk-16",
+        "content": "**I. Đối tượng và Phương thức tuyển sinh**\n**1. Người dự tuyển được xác định tại thời điểm xét tuyển trước khi công bố kết quả xét tuyển chính thức bao gồm:**\nNgười dự tuyển được xác định tại thời điểm xét tuyển trước khi công bố kết quả xét tuyển chính thức là người đã được công nhận tốt nghiệp THPT của Việt Nam hoặc của nước ngoài được công nhận trình độ tương đương với THPT của Việt Nam do các đơn vị chức năng xác định.",
+        "score": 0.015625,
+        "metadata": {
+          "source": "article_03.md",
+          "title": "article_03",
+          "doc_type": "news",
+          "url": null,
+          "chunk_index": 16
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "news/article_03.md::chunk-18",
+        "content": "**2. Phương thức tuyển sinh:**\nTrường Đại học FPT xét tuyển theo phương thức kết hợp kết quả kỳ thi tốt nghiệp THPT với kết quả học tập THPT. Điểm xét tuyển được xác định như sau:\n**ĐXT= ĐKH+ĐKK+ĐƯT**\n  * Trong đó:  \nĐKH (điểm kết hợp)= (Điểm thi THPT +(Điểm trung bình lớp 12) x 3)/2\n  * Điểm thi THPT quy định như sau:",
+        "score": 0.015873015873015872,
+        "metadata": {
+          "source": "article_03.md",
+          "title": "article_03",
+          "doc_type": "news",
+          "url": null,
+          "chunk_index": 18
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "news/article_01.md::chunk-22",
+        "content": "Trường Đại học FPT xét tuyển theo phương thức kết hợp kết quả kỳ thi tốt nghiệp THPT với kết quả học tập THPT. Điểm xét tuyển được xác định như sau: **ĐXT= ĐKH+ĐKK+ĐƯT**\n  * Trong đó:  \nĐKH (điểm kết hợp)= (Điểm thi THPT +(Điểm trung bình lớp 12) x 3)/2\n  * Điểm thi THPT quy định như sau:",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "source": "article_01.md",
+          "title": "article_01",
+          "doc_type": "news",
+          "url": null,
+          "chunk_index": 22
+        },
+        "retrieval_method": "hybrid"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+      "Trường Đại học FPT xét tuyển theo phương thức kết hợp kết quả kỳ thi tốt nghiệp THPT với kết quả học tập THPT. Điểm xét tuyển được xác định như sau:\n**ĐXT= ĐKH+ĐKK+ĐƯT**\n  * Trong đó:  \nĐKH (điểm kết hợp)= (Điểm thi THPT +(Điểm trung bình lớp 12) x 3)/2\n  * Điểm thi THPT quy định như sau:",
+      "**I. Đối tượng và Phương thức tuyển sinh**\n**1. Người dự tuyển được xác định tại thời điểm xét tuyển trước khi công bố kết quả xét tuyển chính thức bao gồm:**\nNgười dự tuyển được xác định tại thời điểm xét tuyển trước khi công bố kết quả xét tuyển chính thức là người đã được công nhận tốt nghiệp THPT của Việt Nam hoặc của nước ngoài được công nhận trình độ tương đương với THPT của Việt Nam do các đơn vị chức năng xác định.",
+      "**2. Phương thức tuyển sinh:**\nTrường Đại học FPT xét tuyển theo phương thức kết hợp kết quả kỳ thi tốt nghiệp THPT với kết quả học tập THPT. Điểm xét tuyển được xác định như sau:\n**ĐXT= ĐKH+ĐKK+ĐƯT**\n  * Trong đó:  \nĐKH (điểm kết hợp)= (Điểm thi THPT +(Điểm trung bình lớp 12) x 3)/2\n  * Điểm thi THPT quy định như sau:",
+      "Trường Đại học FPT xét tuyển theo phương thức kết hợp kết quả kỳ thi tốt nghiệp THPT với kết quả học tập THPT. Điểm xét tuyển được xác định như sau: **ĐXT= ĐKH+ĐKK+ĐƯT**\n  * Trong đó:  \nĐKH (điểm kết hợp)= (Điểm thi THPT +(Điểm trung bình lớp 12) x 3)/2\n  * Điểm thi THPT quy định như sau:"
+    ],
+    "judge_seconds": 1.604352899999867,
+    "reason": "Context B provides the exact formula for ĐKH as requested in the question.",
+    "status": "scored",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "context_recall": 1.0,
+    "context_precision": 1.0
+  },
+  {
+    "case_id": 13,
+    "config": "A",
+    "question": "Sinh viên thế hệ 1 được cộng bao nhiêu điểm vào điểm xét tuyển 2026?",
+    "type": "factual",
+    "reference": "Được cộng 1,5 điểm vào điểm xét tuyển.",
+    "expected_context": "Thí sinh là sinh viên thế hệ 1* được cộng 1,5 điểm vào Điểm xét tuyển.",
+    "response": "Thông tin về điểm cộng cho sinh viên thế hệ 1 không có trong ngữ cảnh được cung cấp.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.3783619999885559,
+        "metadata": {
+          "source": "article_05.md",
+          "title": "article_05",
+          "chunk_index": 43,
+          "doc_type": "news",
+          "url": null
+        },
+        "retrieval_method": "dense"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)"
+    ],
+    "judge_seconds": 1.6260966999998345,
+    "reason": "Context A does not contain any information about the points awarded to first-generation students.",
+    "status": "scored",
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0,
+    "context_recall": 0.0,
+    "context_precision": 1.0
+  },
+  {
+    "case_id": 13,
+    "config": "B",
+    "question": "Sinh viên thế hệ 1 được cộng bao nhiêu điểm vào điểm xét tuyển 2026?",
+    "type": "factual",
+    "reference": "Được cộng 1,5 điểm vào điểm xét tuyển.",
+    "expected_context": "Thí sinh là sinh viên thế hệ 1* được cộng 1,5 điểm vào Điểm xét tuyển.",
+    "response": "Sinh viên thế hệ 1 được cộng 1,5 điểm vào điểm xét tuyển.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "chunk_index": 43,
+          "source": "article_05.md",
+          "title": "article_05",
+          "doc_type": "news",
+          "url": null
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "news/article_01.md::chunk-32",
+        "content": "1. **Chính sách ưu tiên**\n\n\n  * Điểm ưu tiên đối tượng và khu vực thực hiện theo quy định của Quy chế tuyển sinh của Bộ GDĐT.\n  * Thí sinh là sinh viên thế hệ 1[[1]](https://daihoc.fpt.edu.vn/quy-che-tuyen-sinh-2026/#_ftn1) được cộng 1,5 điểm vào Điểm xét tuyển.",
+        "score": 0.016129032258064516,
+        "metadata": {
+          "source": "article_01.md",
+          "title": "article_01",
+          "doc_type": "news",
+          "url": null,
+          "chunk_index": 32
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "news/article_03.md::chunk-16",
+        "content": "**I. Đối tượng và Phương thức tuyển sinh**\n**1. Người dự tuyển được xác định tại thời điểm xét tuyển trước khi công bố kết quả xét tuyển chính thức bao gồm:**\nNgười dự tuyển được xác định tại thời điểm xét tuyển trước khi công bố kết quả xét tuyển chính thức là người đã được công nhận tốt nghiệp THPT của Việt Nam hoặc của nước ngoài được công nhận trình độ tương đương với THPT của Việt Nam do các đơn vị chức năng xác định.",
+        "score": 0.015625,
+        "metadata": {
+          "source": "article_03.md",
+          "title": "article_03",
+          "doc_type": "news",
+          "url": null,
+          "chunk_index": 16
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "news/article_03.md::chunk-25",
+        "content": "**3. Chính sách ưu tiên**\n  * Điểm ưu tiên đối tượng và khu vực thực hiện theo quy định của Quy chế tuyển sinh của Bộ GDĐT.\n  * Thí sinh là sinh viên thế hệ 1* được cộng 1,5 điểm vào Điểm xét tuyển.",
+        "score": 0.015873015873015872,
+        "metadata": {
+          "source": "article_03.md",
+          "title": "article_03",
+          "doc_type": "news",
+          "url": null,
+          "chunk_index": 25
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "news/article_02.md::chunk-24",
+        "content": "* Điểm ưu tiên đối tượng và khu vực thực hiện theo quy định của Quy chế tuyển sinh của Bộ GDĐT.\n  * Thí sinh là sinh viên thế hệ 1* được cộng 1,5 điểm vào Điểm xét tuyển.",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "source": "article_02.md",
+          "title": "article_02",
+          "doc_type": "news",
+          "url": null,
+          "chunk_index": 24
+        },
+        "retrieval_method": "hybrid"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+      "1. **Chính sách ưu tiên**\n\n\n  * Điểm ưu tiên đối tượng và khu vực thực hiện theo quy định của Quy chế tuyển sinh của Bộ GDĐT.\n  * Thí sinh là sinh viên thế hệ 1[[1]](https://daihoc.fpt.edu.vn/quy-che-tuyen-sinh-2026/#_ftn1) được cộng 1,5 điểm vào Điểm xét tuyển.",
+      "**I. Đối tượng và Phương thức tuyển sinh**\n**1. Người dự tuyển được xác định tại thời điểm xét tuyển trước khi công bố kết quả xét tuyển chính thức bao gồm:**\nNgười dự tuyển được xác định tại thời điểm xét tuyển trước khi công bố kết quả xét tuyển chính thức là người đã được công nhận tốt nghiệp THPT của Việt Nam hoặc của nước ngoài được công nhận trình độ tương đương với THPT của Việt Nam do các đơn vị chức năng xác định.",
+      "**3. Chính sách ưu tiên**\n  * Điểm ưu tiên đối tượng và khu vực thực hiện theo quy định của Quy chế tuyển sinh của Bộ GDĐT.\n  * Thí sinh là sinh viên thế hệ 1* được cộng 1,5 điểm vào Điểm xét tuyển.",
+      "* Điểm ưu tiên đối tượng và khu vực thực hiện theo quy định của Quy chế tuyển sinh của Bộ GDĐT.\n  * Thí sinh là sinh viên thế hệ 1* được cộng 1,5 điểm vào Điểm xét tuyển."
+    ],
+    "judge_seconds": 1.6260966999998345,
+    "reason": "Context B explicitly states that first-generation students receive 1.5 points for their admission score.",
+    "status": "scored",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "context_recall": 1.0,
+    "context_precision": 1.0
+  },
+  {
+    "case_id": 14,
+    "config": "A",
+    "question": "Thí sinh thi tốt nghiệp 2026 đăng ký ngành Luật cần tối thiểu bao nhiêu điểm cho 3 môn thi?",
+    "type": "factual",
+    "reference": "Tổng điểm 3 môn thi theo tổ hợp Axx hoặc Cxx phải đạt tối thiểu 15,00 điểm.",
+    "expected_context": "Với thí sinh thi tốt nghiệp năm 2026 phải có điểm tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT theo tổ hợp Axx hoặc Cxx đạt tối thiểu 15,00 điểm.",
+    "response": "Thông tin không có trong ngữ cảnh được cung cấp.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.33959466218948364,
+        "metadata": {
+          "doc_type": "news",
+          "source": "article_05.md",
+          "chunk_index": 43,
+          "title": "article_05",
+          "url": null
+        },
+        "retrieval_method": "dense"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)"
+    ],
+    "judge_seconds": 1.8648071000006894,
+    "reason": "Context A does not contain any information about the minimum score required for the Law major for the 2026 graduation exam.",
+    "status": "scored",
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0,
+    "context_recall": 0.0,
+    "context_precision": 0.0
+  },
+  {
+    "case_id": 14,
+    "config": "B",
+    "question": "Thí sinh thi tốt nghiệp 2026 đăng ký ngành Luật cần tối thiểu bao nhiêu điểm cho 3 môn thi?",
+    "type": "factual",
+    "reference": "Tổng điểm 3 môn thi theo tổ hợp Axx hoặc Cxx phải đạt tối thiểu 15,00 điểm.",
+    "expected_context": "Với thí sinh thi tốt nghiệp năm 2026 phải có điểm tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT theo tổ hợp Axx hoặc Cxx đạt tối thiểu 15,00 điểm.",
+    "response": "Thí sinh thi tốt nghiệp năm 2026 phải có điểm tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT theo tổ hợp Axx hoặc Cxx đạt tối thiểu 15,00 điểm.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "source": "article_05.md",
+          "doc_type": "news",
+          "title": "article_05",
+          "chunk_index": 43,
+          "url": null
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "news/article_03.md::chunk-24",
+        "content": "* Các thí sinh đăng ký học ngành Luật phải đảm bảo điều kiện ngưỡng đầu vào theo quy định tại điểm b khoản 1, điểm a khoản 2, điểm a khoản 6 Điều 9 Quy chế tuyển sinh của Bộ GDĐT.\n  * Với thí sinh thi tốt nghiệp năm 2026 phải có điểm tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT theo tổ hợp Axx hoặc Cxx đạt tối thiểu 15,00 điểm.",
+        "score": 0.016129032258064516,
+        "metadata": {
+          "source": "article_03.md",
+          "title": "article_03",
+          "doc_type": "news",
+          "url": null,
+          "chunk_index": 24
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/DE-AN-TUYEN-SINH-2023-upweb.md::chunk-700",
+        "content": "1.15. Các nội dung khác (không trái quy định hiện hành).\nThí sinh được tính 10 điểm cho bài thi Ngoại Ngữ để thực hiện xếp hạng theo điểm thi\nTHPT 2023 (thực hiện trên trang https://SchoolRank.fpt.edu.vn) nếu thí sinh thuộc\ndiện miễn thi bài thi Ngoại ngữ trong xét công nhận tốt nghiệp THPT và đăng ký sử\ndụng quyền được miễn thi bài thi Ngoại ngữ.\n2. Tuyển sinh đào tạo đại học, cao đẳng chính quy với đối tượng tốt nghiệp từ\ntrung cấp trở lên",
+        "score": 0.015625,
+        "metadata": {
+          "source": "DE-AN-TUYEN-SINH-2023-upweb.md",
+          "title": "DE-AN-TUYEN-SINH-2023-upweb",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 700
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "news/article_02.md::chunk-21",
+        "content": "* Các thí sinh đăng ký học ngành Luật phải đảm bảo điều kiện ngưỡng đầu vào theo quy định tại điểm b khoản 1, điểm a khoản 2, điểm a khoản 6 Điều 9 Quy chế tuyển sinh của Bộ GDĐT.\n  * Với thí sinh thi tốt nghiệp năm 2026 phải có điểm tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT theo tổ hợp Axx hoặc Cxx đạt tối thiểu 15,00 điểm.\n\n\n  1. **Đối tượng dự tuyển**",
+        "score": 0.015873015873015872,
+        "metadata": {
+          "source": "article_02.md",
+          "title": "article_02",
+          "doc_type": "news",
+          "url": null,
+          "chunk_index": 21
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "news/article_01.md::chunk-28",
+        "content": "* Các thí sinh đăng ký học ngành Luật phải đảm bảo điều kiện ngưỡng đầu vào theo quy định tại điểm b khoản 1, điểm a khoản 2, điểm a khoản 6 Điều 9 Quy chế tuyển sinh của Bộ GDĐT.\n  * Với thí sinh thi tốt nghiệp năm 2026 phải có điểm tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT theo tổ hợp Axx hoặc Cxx đạt tối thiểu 15,00 điểm.",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "source": "article_01.md",
+          "title": "article_01",
+          "doc_type": "news",
+          "url": null,
+          "chunk_index": 28
+        },
+        "retrieval_method": "hybrid"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+      "* Các thí sinh đăng ký học ngành Luật phải đảm bảo điều kiện ngưỡng đầu vào theo quy định tại điểm b khoản 1, điểm a khoản 2, điểm a khoản 6 Điều 9 Quy chế tuyển sinh của Bộ GDĐT.\n  * Với thí sinh thi tốt nghiệp năm 2026 phải có điểm tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT theo tổ hợp Axx hoặc Cxx đạt tối thiểu 15,00 điểm.",
+      "1.15. Các nội dung khác (không trái quy định hiện hành).\nThí sinh được tính 10 điểm cho bài thi Ngoại Ngữ để thực hiện xếp hạng theo điểm thi\nTHPT 2023 (thực hiện trên trang https://SchoolRank.fpt.edu.vn) nếu thí sinh thuộc\ndiện miễn thi bài thi Ngoại ngữ trong xét công nhận tốt nghiệp THPT và đăng ký sử\ndụng quyền được miễn thi bài thi Ngoại ngữ.\n2. Tuyển sinh đào tạo đại học, cao đẳng chính quy với đối tượng tốt nghiệp từ\ntrung cấp trở lên",
+      "* Các thí sinh đăng ký học ngành Luật phải đảm bảo điều kiện ngưỡng đầu vào theo quy định tại điểm b khoản 1, điểm a khoản 2, điểm a khoản 6 Điều 9 Quy chế tuyển sinh của Bộ GDĐT.\n  * Với thí sinh thi tốt nghiệp năm 2026 phải có điểm tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT theo tổ hợp Axx hoặc Cxx đạt tối thiểu 15,00 điểm.\n\n\n  1. **Đối tượng dự tuyển**",
+      "* Các thí sinh đăng ký học ngành Luật phải đảm bảo điều kiện ngưỡng đầu vào theo quy định tại điểm b khoản 1, điểm a khoản 2, điểm a khoản 6 Điều 9 Quy chế tuyển sinh của Bộ GDĐT.\n  * Với thí sinh thi tốt nghiệp năm 2026 phải có điểm tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT theo tổ hợp Axx hoặc Cxx đạt tối thiểu 15,00 điểm."
+    ],
+    "judge_seconds": 1.8648071000006894,
+    "reason": "Context B directly provides the required minimum score for the 2026 graduation exam for the Law major, which is 15.00 points for the Axx or Cxx subject combinations.",
+    "status": "scored",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "context_recall": 1.0,
+    "context_precision": 1.0
+  },
+  {
+    "case_id": 15,
+    "config": "A",
+    "question": "Học phí mỗi học kỳ ngành Luật tại Campus Hà Nội cho tân sinh viên K22 (khu vực KV1) là bao nhiêu?",
+    "type": "factual",
+    "reference": "15.480.000 đồng/học kỳ đối với KV1 (22.120.000 đồng với các khu vực khác).",
+    "expected_context": "| Luật  | 15.480.000  | 22.120.000  |",
+    "response": "Thông tin về học phí ngành Luật tại Campus Hà Nội cho tân sinh viên K22 (khu vực KV1) không có trong ngữ cảnh được cung cấp.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.37988173961639404,
+        "metadata": {
+          "title": "article_05",
+          "source": "article_05.md",
+          "doc_type": "news",
+          "chunk_index": 43,
+          "url": null
+        },
+        "retrieval_method": "dense"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)"
+    ],
+    "judge_seconds": 1.957648200001131,
+    "reason": "Context A does not contain any information about tuition fees for the Law major at Hanoi Campus for K22 freshmen (KV1 region).",
+    "status": "scored",
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0,
+    "context_recall": 0.0,
+    "context_precision": 0.0
+  },
+  {
+    "case_id": 15,
+    "config": "B",
+    "question": "Học phí mỗi học kỳ ngành Luật tại Campus Hà Nội cho tân sinh viên K22 (khu vực KV1) là bao nhiêu?",
+    "type": "factual",
+    "reference": "15.480.000 đồng/học kỳ đối với KV1 (22.120.000 đồng với các khu vực khác).",
+    "expected_context": "| Luật  | 15.480.000  | 22.120.000  |",
+    "response": "Thông tin về học phí ngành Luật tại Campus Hà Nội cho tân sinh viên K22 (khu vực KV1) không có trong ngữ cảnh được cung cấp.",
+    "sources": [
+      {
+        "id": "news/article_05.md::chunk-43",
+        "content": "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "title": "article_05",
+          "doc_type": "news",
+          "source": "article_05.md",
+          "chunk_index": 43,
+          "url": null
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "news/article_04.md::chunk-0",
+        "content": "# Học phí tại Campus Hà Nội - Trường Đại học FPT\n\n**Source:** https://daihoc.fpt.edu.vn/hoc-phi-tai-campus-ha-noi/\n\n**Crawled:** 2026-09-20T15:09:19.055270\n\n---",
+        "score": 0.016129032258064516,
+        "metadata": {
+          "source": "article_04.md",
+          "title": "article_04",
+          "doc_type": "news",
+          "url": null,
+          "chunk_index": 0
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "legal/de-an-tuyen-sinh-2022-upweb.md::chunk-146",
+        "content": "1.10. Học phí dự kiến với sinh viên chính quy; lộ trình tăng học phí tối đa cho từng năm (nếu có).\nHọc phí và các khoản phí khác đối với sinh viên chính quy và lộ trình tăng học phí tối đa cho từng năm dựa vào Quy định tài chính\nhiện hành cho sinh viên các hệ đào tạo của Trường Đại học FPT, cụ thể áp dụng cho các thí sinh nhập học tại các địa điểm đào tạo\nnhư sau:\n❖ Cơ sở đào tạo chính tại Tp. Hà Nội và phân hiệu tại Tp. Hồ Chí Minh:\n+ Học phí kỳ định hướng: 11,300,000 VNĐ",
+        "score": 0.015625,
+        "metadata": {
+          "source": "de-an-tuyen-sinh-2022-upweb.md",
+          "title": "de-an-tuyen-sinh-2022-upweb",
+          "doc_type": "legal",
+          "url": null,
+          "chunk_index": 146
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "news/article_03.md::chunk-29",
+        "content": "* Ưu đãi 50% học phí toàn khóa cho sinh viên học tập tại campus Quy Nhơn.",
+        "score": 0.015873015873015872,
+        "metadata": {
+          "source": "article_03.md",
+          "title": "article_03",
+          "doc_type": "news",
+          "url": null,
+          "chunk_index": 29
+        },
+        "retrieval_method": "hybrid"
+      },
+      {
+        "id": "news/article_04.md::chunk-13",
+        "content": "![](https://daihoc.fpt.edu.vn/wp-content/themes/fpt-university/assets/images/icon-house.svg) ![](https://daihoc.fpt.edu.vn/wp-content/themes/fpt-university/assets/images/icon-arrow-right-gray.svg) [ Home ](https://daihoc.fpt.edu.vn/) ![](https://daihoc.fpt.edu.vn/wp-content/themes/fpt-university/assets/images/icon-arrow-right-gray.svg)\nHọc phí tại Campus Hà Nội\n# HỌC PHÍ TẠI CAMPUS HÀ NỘI\n_(Học phí chuẩn)_\n_Học phí áp dụng cho tân sinh viên khóa K22 (nhập học năm 2026)_",
+        "score": 0.01639344262295082,
+        "metadata": {
+          "source": "article_04.md",
+          "title": "article_04",
+          "doc_type": "news",
+          "url": null,
+          "chunk_index": 13
+        },
+        "retrieval_method": "hybrid"
+      }
+    ],
+    "retrieved_contexts": [
+      "[![TikTok](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)](https://www.tiktok.com/@fptuniversity?lang=vi-VN)",
+      "# Học phí tại Campus Hà Nội - Trường Đại học FPT\n\n**Source:** https://daihoc.fpt.edu.vn/hoc-phi-tai-campus-ha-noi/\n\n**Crawled:** 2026-09-20T15:09:19.055270\n\n---",
+      "1.10. Học phí dự kiến với sinh viên chính quy; lộ trình tăng học phí tối đa cho từng năm (nếu có).\nHọc phí và các khoản phí khác đối với sinh viên chính quy và lộ trình tăng học phí tối đa cho từng năm dựa vào Quy định tài chính\nhiện hành cho sinh viên các hệ đào tạo của Trường Đại học FPT, cụ thể áp dụng cho các thí sinh nhập học tại các địa điểm đào tạo\nnhư sau:\n❖ Cơ sở đào tạo chính tại Tp. Hà Nội và phân hiệu tại Tp. Hồ Chí Minh:\n+ Học phí kỳ định hướng: 11,300,000 VNĐ",
+      "* Ưu đãi 50% học phí toàn khóa cho sinh viên học tập tại campus Quy Nhơn.",
+      "![](https://daihoc.fpt.edu.vn/wp-content/themes/fpt-university/assets/images/icon-house.svg) ![](https://daihoc.fpt.edu.vn/wp-content/themes/fpt-university/assets/images/icon-arrow-right-gray.svg) [ Home ](https://daihoc.fpt.edu.vn/) ![](https://daihoc.fpt.edu.vn/wp-content/themes/fpt-university/assets/images/icon-arrow-right-gray.svg)\nHọc phí tại Campus Hà Nội\n# HỌC PHÍ TẠI CAMPUS HÀ NỘI\n_(Học phí chuẩn)_\n_Học phí áp dụng cho tân sinh viên khóa K22 (nhập học năm 2026)_"
+    ],
+    "judge_seconds": 1.957648200001131,
+    "reason": "Context B mentions tuition fees for Hanoi Campus and K22 freshmen, but it does not specify the fee for the Law major or for the KV1 region. Chunk 3 mentions a \"tuition fee for orientation semester\" of 11,300,000 VNĐ, but this is not specific to the Law major or KV1 region.",
+    "status": "scored",
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0,
+    "context_recall": 0.0,
+    "context_precision": 0.0
+  }
+]

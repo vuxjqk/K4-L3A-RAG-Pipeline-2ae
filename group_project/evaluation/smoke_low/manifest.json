@@ -1,0 +1,10 @@
+{
+  "fingerprint": "c16262abaf1a99fa36e9bf7937e0bbff35959aa10f28560927379f0163f9a002",
+  "model": "gemini-2.5-flash-lite",
+  "embedding_model": "BAAI/bge-m3",
+  "top_k": 5,
+  "limit": 2,
+  "selected_count": 2,
+  "git_commit": "3b72d5c42e9e9dd38b52afe1a800c2c5b68cb939",
+  "started_utc": "2026-09-20T10:42:12.530539+00:00"
+}

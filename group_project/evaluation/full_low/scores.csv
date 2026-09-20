@@ -1,0 +1,32 @@
+﻿case_id,config,question,type,judge_seconds,status,faithfulness,answer_relevancy,context_recall,context_precision
+1,A,"Theo đề án tuyển sinh 2024, học phí kỳ định hướng tại cơ sở Hà Nội và phân hiệu TP.HCM là bao nhiêu?",factual,2.5905644000013126,scored,0.0,0.0,0.0,1.0
+1,B,"Theo đề án tuyển sinh 2024, học phí kỳ định hướng tại cơ sở Hà Nội và phân hiệu TP.HCM là bao nhiêu?",factual,2.5905644000013126,scored,1.0,1.0,1.0,1.0
+2,A,"Năm 2024, học phí chuyên ngành từ học kỳ 1 đến học kỳ 3 tại Hà Nội và TP.HCM là bao nhiêu mỗi kỳ?",factual,1.9248952999987523,scored,0.0,0.0,0.0,1.0
+2,B,"Năm 2024, học phí chuyên ngành từ học kỳ 1 đến học kỳ 3 tại Hà Nội và TP.HCM là bao nhiêu mỗi kỳ?",factual,1.9248952999987523,scored,1.0,1.0,1.0,1.0
+3,A,"Đề án tuyển sinh 2024: học phí chuyên ngành học kỳ 1 đến 3 ở Đà Nẵng, Bình Định và Cần Thơ là bao nhiêu?",factual,2.1555607999998756,scored,1.0,0.0,0.0,1.0
+3,B,"Đề án tuyển sinh 2024: học phí chuyên ngành học kỳ 1 đến 3 ở Đà Nẵng, Bình Định và Cần Thơ là bao nhiêu?",factual,2.1555607999998756,scored,1.0,1.0,1.0,1.0
+4,A,"Theo đề án tuyển sinh 2022, học phí chuyên ngành tại Hà Nội và TP.HCM là bao nhiêu mỗi kỳ?",factual,1.7980931000001874,scored,1.0,0.0,0.0,1.0
+4,B,"Theo đề án tuyển sinh 2022, học phí chuyên ngành tại Hà Nội và TP.HCM là bao nhiêu mỗi kỳ?",factual,1.7980931000001874,scored,1.0,0.5,0.0,0.5
+5,A,Đề án 2022 quy định học phí kỳ định hướng tại phân hiệu Cần Thơ là bao nhiêu?,factual,1.8176609000001918,scored,1.0,0.0,0.0,1.0
+5,B,Đề án 2022 quy định học phí kỳ định hướng tại phân hiệu Cần Thơ là bao nhiêu?,factual,1.8176609000001918,scored,1.0,1.0,1.0,1.0
+6,A,Học phí chuyên ngành tại Hà Nội đã tăng thế nào từ đề án 2022 đến đề án 2024 (học kỳ 1-3)?,multi-hop,1.9439480999990337,scored,0.0,0.0,0.0,0.0
+6,B,Học phí chuyên ngành tại Hà Nội đã tăng thế nào từ đề án 2022 đến đề án 2024 (học kỳ 1-3)?,multi-hop,1.9439480999990337,scored,1.0,1.0,0.5,1.0
+7,A,Thời hạn đăng ký xét tuyển đợt 1 năm 2023 của Trường Đại học FPT là khi nào?,factual,1.670461499999874,scored,0.0,0.0,0.0,1.0
+7,B,Thời hạn đăng ký xét tuyển đợt 1 năm 2023 của Trường Đại học FPT là khi nào?,factual,1.670461499999874,scored,1.0,1.0,1.0,1.0
+8,A,Thời hạn đăng ký đợt 1 theo đề án tuyển sinh 2024 là ngày nào?,factual,2.0064405000011902,scored,1.0,0.0,0.0,1.0
+8,B,Thời hạn đăng ký đợt 1 theo đề án tuyển sinh 2024 là ngày nào?,factual,2.0064405000011902,scored,1.0,1.0,1.0,1.0
+9,A,Ký túc xá của Trường Đại học FPT có bao nhiêu chỗ ở theo đề án 2024?,factual,1.9939593999988574,scored,0.0,0.0,0.0,1.0
+9,B,Ký túc xá của Trường Đại học FPT có bao nhiêu chỗ ở theo đề án 2024?,factual,1.9939593999988574,scored,1.0,1.0,1.0,1.0
+10,PAIR,Tổng diện tích đất của Trường Đại học FPT là bao nhiêu hecta?,factual,,error,,,,
+10,A,Tổng diện tích đất của Trường Đại học FPT là bao nhiêu hecta?,factual,2.0082348999985697,scored,0.0,0.0,0.0,1.0
+10,B,Tổng diện tích đất của Trường Đại học FPT là bao nhiêu hecta?,factual,2.0082348999985697,scored,1.0,1.0,1.0,1.0
+11,A,Quy chế tuyển sinh năm 2026 của Trường Đại học FPT có tổng số lượng tuyển sinh là bao nhiêu?,factual,1.9122283999986394,scored,0.0,0.0,0.0,1.0
+11,B,Quy chế tuyển sinh năm 2026 của Trường Đại học FPT có tổng số lượng tuyển sinh là bao nhiêu?,factual,1.9122283999986394,scored,0.0,0.0,0.0,0.33
+12,A,Điểm kết hợp (ĐKH) trong công thức xét tuyển năm 2026 của FPT được tính như thế nào?,factual,1.604352899999867,scored,0.0,0.0,0.0,0.0
+12,B,Điểm kết hợp (ĐKH) trong công thức xét tuyển năm 2026 của FPT được tính như thế nào?,factual,1.604352899999867,scored,1.0,1.0,1.0,1.0
+13,A,Sinh viên thế hệ 1 được cộng bao nhiêu điểm vào điểm xét tuyển 2026?,factual,1.6260966999998345,scored,0.0,0.0,0.0,1.0
+13,B,Sinh viên thế hệ 1 được cộng bao nhiêu điểm vào điểm xét tuyển 2026?,factual,1.6260966999998345,scored,1.0,1.0,1.0,1.0
+14,A,Thí sinh thi tốt nghiệp 2026 đăng ký ngành Luật cần tối thiểu bao nhiêu điểm cho 3 môn thi?,factual,1.8648071000006894,scored,0.0,0.0,0.0,0.0
+14,B,Thí sinh thi tốt nghiệp 2026 đăng ký ngành Luật cần tối thiểu bao nhiêu điểm cho 3 môn thi?,factual,1.8648071000006894,scored,1.0,1.0,1.0,1.0
+15,A,Học phí mỗi học kỳ ngành Luật tại Campus Hà Nội cho tân sinh viên K22 (khu vực KV1) là bao nhiêu?,factual,1.957648200001131,scored,0.0,0.0,0.0,0.0
+15,B,Học phí mỗi học kỳ ngành Luật tại Campus Hà Nội cho tân sinh viên K22 (khu vực KV1) là bao nhiêu?,factual,1.957648200001131,scored,0.0,0.0,0.0,0.0

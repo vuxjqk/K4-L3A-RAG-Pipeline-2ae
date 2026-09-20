@@ -1,0 +1,3 @@
+﻿case_id,config,question,type,generation_seconds,status,faithfulness,answer_relevancy,context_recall,context_precision
+1,A,"Theo đề án tuyển sinh 2024, học phí kỳ định hướng tại cơ sở Hà Nội và phân hiệu TP.HCM là bao nhiêu?",factual,4.964640700000018,scored,1.0,0.0,0.0,0.0
+1,B,"Theo đề án tuyển sinh 2024, học phí kỳ định hướng tại cơ sở Hà Nội và phân hiệu TP.HCM là bao nhiêu?",factual,7.174365399998351,error,,,,
